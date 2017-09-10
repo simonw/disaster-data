@@ -27,6 +27,14 @@ Data from https://gis.fema.gov/REST/services/NSS/FEMA_NSS/MapServer/0/query?f=js
 
 Data from http://www.pascocountyfl.net/index.aspx?NID=2816
 
+## hernando-county.json (published to Slack)
+
+Data from http://www.hernandocounty.us/em/shelter-information
+
+## ledger-polk-county.json (published to Slack)
+
+Data from http://www.ledgerdata.com/hurricane-guide/shelter/
+
 ## zeemaps-2682928.json (not published to Slack)
 
 Data pulled from https://zeemaps.com/map?group=2682928
