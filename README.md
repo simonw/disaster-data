@@ -48,3 +48,29 @@ Data from https://irma-api.herokuapp.com/api/v1/shelters
 This file is derived from https://irma-api.herokuapp.com/api/v1/shelters - it shows currently detected potential duplicate shelters, based on a comparison of their latitude/longitude. Shelters within 19m of each other are considered potential duplicates.
 
 This allows us to follow the commit history of that file at https://github.com/simonw/irma-scraped-data/commits/master/irma-shelters-dupes.json (also published to Slack) to see when someone adds a potential duplicate, or fixes one. The file also shows shelters that do not have a valid latitude/longitude and/or address.
+
+## fpl-county-outages.json (not published to Slack)
+
+Power outage data from https://www.fplmaps.com/ - https://www.fplmaps.com/customer/outage/CountyOutages.json
+
+Shaped like this:
+
+    "charlotte": {
+      "numberofaffected": 20400, 
+      "numberofaccounts": 114100, 
+      "numberofrestored": 4670, 
+      "name": "Charlotte", 
+      "numberofoutages": 15730
+    }
+ 
+ ## fpl-storm-outages.json
+
+Power outage data from https://www.fplmaps.com/ - https://www.fplmaps.com/data/storm-outages.js
+
+Shaped like this:
+
+    {
+      "Customers Out": "8", 
+      "County Name": "Baker", 
+      "Customers Served": "5,380"
+    }
