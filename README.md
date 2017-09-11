@@ -31,6 +31,10 @@ Data from http://www.pascocountyfl.net/index.aspx?NID=2816
 
 Data from http://www.hernandocounty.us/em/shelter-information
 
+## scemd-shelters.json (published to Slock)
+
+South Carolina shelters data from http://scemd.org/shelters-rss
+
 ## georgia-gema-active-shelters.json (published to Slack)
 
 Active shelter data from https://gema-soc.maps.arcgis.com/apps/webappviewer/index.html?id=279ef7cfc1da45edb640723c12b02b18
