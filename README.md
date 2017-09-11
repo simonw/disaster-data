@@ -31,6 +31,14 @@ Data from http://www.pascocountyfl.net/index.aspx?NID=2816
 
 Data from http://www.hernandocounty.us/em/shelter-information
 
+## georgia-gema-active-shelters.json (published to Slack)
+
+Active shelter data from https://gema-soc.maps.arcgis.com/apps/webappviewer/index.html?id=279ef7cfc1da45edb640723c12b02b18
+
+## georgia-gema-animal-shelters.json (published to Slack)
+
+Animal shelter data from https://gema-soc.maps.arcgis.com/apps/webappviewer/index.html?id=279ef7cfc1da45edb640723c12b02b18
+
 ## ledger-polk-county.json (published to Slack)
 
 Data from http://www.ledgerdata.com/hurricane-guide/shelter/
