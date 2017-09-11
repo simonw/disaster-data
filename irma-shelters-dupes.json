@@ -162,38 +162,6 @@
       ]
     }, 
     {
-      "geohash": "0000000", 
-      "shelters": [
-        {
-          "name": "New Endeavor High School", 
-          "view_url": "https://irma-api.herokuapp.com/shelters/988", 
-          "google_maps": "https://www.google.com/maps/search/None,None", 
-          "longitude": null, 
-          "address": null, 
-          "latitude": null, 
-          "id": 988
-        }, 
-        {
-          "name": "Somerset High School (also called Jefferson County Middle and Jefferson County High)", 
-          "view_url": "https://irma-api.herokuapp.com/shelters/1030", 
-          "google_maps": "https://www.google.com/maps/search/None,None", 
-          "longitude": null, 
-          "address": null, 
-          "latitude": null, 
-          "id": 1030
-        }, 
-        {
-          "name": "Columbus Civic Center Ice Arena ", 
-          "view_url": "https://irma-api.herokuapp.com/shelters/1049", 
-          "google_maps": "https://www.google.com/maps/search/None,None", 
-          "longitude": null, 
-          "address": null, 
-          "latitude": null, 
-          "id": 1049
-        }
-      ]
-    }, 
-    {
       "geohash": "djs5t5g", 
       "shelters": [
         {
@@ -240,5 +208,24 @@
       ]
     }
   ], 
-  "no_latitude_longitude": []
+  "no_latitude_longitude": [
+    {
+      "view_url": "https://irma-api.herokuapp.com/shelters/988", 
+      "address": null, 
+      "id": 988, 
+      "name": "New Endeavor High School"
+    }, 
+    {
+      "view_url": "https://irma-api.herokuapp.com/shelters/1030", 
+      "address": null, 
+      "id": 1030, 
+      "name": "Somerset High School (also called Jefferson County Middle and Jefferson County High)"
+    }, 
+    {
+      "view_url": "https://irma-api.herokuapp.com/shelters/1049", 
+      "address": null, 
+      "id": 1049, 
+      "name": "Columbus Civic Center Ice Arena "
+    }
+  ]
 }
