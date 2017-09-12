@@ -721,7 +721,7 @@
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
@@ -747,7 +747,7 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 198, 
+      "CustomersOutNow": 149, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -770,8 +770,8 @@
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.4902511823286, 
-        "X": -84.9086561533505
+        "Y": 34.49169673363753, 
+        "X": -84.90833893122486
       }, 
       "Feeder": null, 
       "OutagePolygon": [
@@ -780,8 +780,8 @@
           "X": -84.9132255499074
         }, 
         {
-          "Y": 34.495430474080024, 
-          "X": -84.91293550552332
+          "Y": 34.49858114143299, 
+          "X": -84.9114283672705
         }, 
         {
           "Y": 34.500745313791214, 
@@ -792,16 +792,20 @@
           "X": -84.90645725752522
         }, 
         {
-          "Y": 34.48507278898641, 
-          "X": -84.90076122309115
+          "Y": 34.492528592721385, 
+          "X": -84.90472046687779
         }, 
         {
-          "Y": 34.484096997019556, 
-          "X": -84.9047809465462
+          "Y": 34.48919927048674, 
+          "X": -84.90422048795469
         }, 
         {
-          "Y": 34.48410632075783, 
-          "X": -84.90536508871745
+          "Y": 34.48893279719992, 
+          "X": -84.90419362020249
+        }, 
+        {
+          "Y": 34.48561702572958, 
+          "X": -84.90444653154093
         }, 
         {
           "Y": 34.48422443541734, 
@@ -826,12 +830,12 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 49, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
       "CustomersAffected": null, 
-      "OutageStartTime": "2017-09-12T09:08:54-04:00", 
+      "OutageStartTime": "2017-09-12T09:06:56-04:00", 
       "Dispatcher": null, 
       "Substation": null, 
       "UplineElement": null, 
@@ -844,16 +848,49 @@
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
-      "OutageRecID": "2017-09-12-0749", 
-      "OutageName": "3309028001", 
+      "OutageRecID": "2017-09-12-0751", 
+      "OutageName": "PC-52206", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.76760891038552, 
-        "X": -85.2312210275888
+        "Y": 34.48827335296087, 
+        "X": -84.90713761602866
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.495430474080024, 
+          "X": -84.91293550552332
+        }, 
+        {
+          "Y": 34.49573678396724, 
+          "X": -84.91207429931455
+        }, 
+        {
+          "Y": 34.49308799753614, 
+          "X": -84.90721315638136
+        }, 
+        {
+          "Y": 34.48507278898641, 
+          "X": -84.90076122309115
+        }, 
+        {
+          "Y": 34.484096997019556, 
+          "X": -84.9047809465462
+        }, 
+        {
+          "Y": 34.48410632075783, 
+          "X": -84.90536508871745
+        }, 
+        {
+          "Y": 34.484217720489006, 
+          "X": -84.90661968726577
+        }, 
+        {
+          "Y": 34.48443774085073, 
+          "X": -84.90735102138952
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -877,7 +914,7 @@
     }, 
     {
       "County": "Walker", 
-      "Count": 3
+      "Count": 2
     }, 
     {
       "County": "Whitfield", 
