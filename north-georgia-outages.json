@@ -334,44 +334,6 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 0, 
-      "CrewResponsible": null, 
-      "CustomerResponsible": null, 
-      "OutagedPhase": null, 
-      "CustomersAffected": null, 
-      "OutageStartTime": "2017-09-11T19:15:20-04:00", 
-      "Dispatcher": null, 
-      "Substation": null, 
-      "UplineElement": null, 
-      "OutageStatus": null, 
-      "EstimatedTime": null, 
-      "Notes": null, 
-      "CrewDispatched": true, 
-      "VerifiedCause": null, 
-      "CostEstimate": null, 
-      "CustomersRestored": 5, 
-      "PriorityCustomers": null, 
-      "CustomersOutInitially": null, 
-      "OutageRecID": "2017-09-11-0584", 
-      "OutageName": "F4012530-HWY 41 FT O", 
-      "OutageEndTime": "2017-09-12T05:28:36-04:00", 
-      "ClosingDispatcher": null, 
-      "OutageLocation": {
-        "Y": 34.95274483097889, 
-        "X": -85.16139030841015
-      }, 
-      "Feeder": null, 
-      "OutagePolygon": [], 
-      "MapLocation": null
-    }, 
-    {
-      "Verified": true, 
-      "TroubledElement": null, 
-      "CustomersServed": null, 
-      "Actions": null, 
-      "Status": null, 
-      "District": null, 
-      "SuspectedCause": null, 
       "CustomersOutNow": 1, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
@@ -1659,6 +1621,61 @@
         }
       ], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 6, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-09-12T05:35:08-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-09-12-0731", 
+      "OutageName": "F3209500", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.83627925110729, 
+        "X": -85.22810643511495
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.837456767797164, 
+          "X": -85.22982962117014
+        }, 
+        {
+          "Y": 34.83637609076304, 
+          "X": -85.22776797474009
+        }, 
+        {
+          "Y": 34.835659396550774, 
+          "X": -85.22720332961474
+        }, 
+        {
+          "Y": 34.83562474931819, 
+          "X": -85.22762481493487
+        }
+      ], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
@@ -1685,7 +1702,7 @@
     }, 
     {
       "County": "Walker", 
-      "Count": 106
+      "Count": 112
     }, 
     {
       "County": "Whitfield", 
