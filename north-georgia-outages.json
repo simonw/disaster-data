@@ -792,14 +792,14 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 12, 
+      "CustomersOutNow": 0, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -814,40 +814,19 @@
       "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
-      "CustomersRestored": 0, 
+      "CustomersRestored": 12, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-09-11-0598", 
-      "OutageName": "F5125512-DAVIDWOOD DALTON", 
-      "OutageEndTime": null, 
+      "OutageName": "F5125512", 
+      "OutageEndTime": "2017-09-12T02:52:50-04:00", 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.86099208386618, 
-        "X": -85.00408219178722
+        "Y": 34.860914096174135, 
+        "X": -85.00406579067825
       }, 
       "Feeder": null, 
-      "OutagePolygon": [
-        {
-          "Y": 34.86341064338216, 
-          "X": -85.00603350037282
-        }, 
-        {
-          "Y": 34.8625710703999, 
-          "X": -85.0038092045275
-        }, 
-        {
-          "Y": 34.86061179283247, 
-          "X": -85.00268011601659
-        }, 
-        {
-          "Y": 34.85875900780985, 
-          "X": -85.00242387980035
-        }, 
-        {
-          "Y": 34.85960790490652, 
-          "X": -85.00546425821885
-        }
-      ], 
+      "OutagePolygon": [], 
       "MapLocation": null
     }, 
     {
@@ -2383,7 +2362,7 @@
     }, 
     {
       "County": "Whitfield", 
-      "Count": 60
+      "Count": 48
     }
   ]
 }
