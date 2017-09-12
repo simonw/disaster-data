@@ -912,8 +912,8 @@
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.718867094147924, 
-        "X": -85.13695331649495
+        "Y": 34.71904742277728, 
+        "X": -85.1368562641177
       }, 
       "Feeder": null, 
       "OutagePolygon": [], 
@@ -1498,7 +1498,7 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
@@ -1524,7 +1524,7 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-09-11-0677", 
-      "OutageName": "7322004000 - Airport Rd", 
+      "OutageName": "7322004000", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
@@ -1893,6 +1893,44 @@
         }
       ], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 1, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-09-12T04:04:24-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-09-12-0716", 
+      "OutageName": "4403012000", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.710391648568134, 
+        "X": -85.1415147782262
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
@@ -1919,7 +1957,7 @@
     }, 
     {
       "County": "Walker", 
-      "Count": 15
+      "Count": 16
     }, 
     {
       "County": "Whitfield", 
