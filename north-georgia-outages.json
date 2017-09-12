@@ -831,7 +831,7 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 0, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -846,12 +846,12 @@
       "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
-      "CustomersRestored": 0, 
+      "CustomersRestored": 1, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-09-11-0654", 
       "OutageName": "3815041000-MARTHA BERRY TRION", 
-      "OutageEndTime": null, 
+      "OutageEndTime": "2017-09-12T05:30:43-04:00", 
       "ClosingDispatcher": null, 
       "OutageLocation": {
         "Y": 34.399416428175364, 
@@ -1629,44 +1629,6 @@
         }
       ], 
       "MapLocation": null
-    }, 
-    {
-      "Verified": false, 
-      "TroubledElement": null, 
-      "CustomersServed": null, 
-      "Actions": null, 
-      "Status": null, 
-      "District": null, 
-      "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
-      "CrewResponsible": null, 
-      "CustomerResponsible": null, 
-      "OutagedPhase": null, 
-      "CustomersAffected": null, 
-      "OutageStartTime": "2017-09-12T05:56:42-04:00", 
-      "Dispatcher": null, 
-      "Substation": null, 
-      "UplineElement": null, 
-      "OutageStatus": null, 
-      "EstimatedTime": null, 
-      "Notes": null, 
-      "CrewDispatched": false, 
-      "VerifiedCause": null, 
-      "CostEstimate": null, 
-      "CustomersRestored": 0, 
-      "PriorityCustomers": null, 
-      "CustomersOutInitially": null, 
-      "OutageRecID": "2017-09-12-0733", 
-      "OutageName": "3820003001", 
-      "OutageEndTime": null, 
-      "ClosingDispatcher": null, 
-      "OutageLocation": {
-        "Y": 34.396224187256166, 
-        "X": -85.20086764824059
-      }, 
-      "Feeder": null, 
-      "OutagePolygon": [], 
-      "MapLocation": null
     }
   ], 
   "Trucks": [], 
@@ -1678,10 +1640,6 @@
     {
       "County": "Chattooga", 
       "Count": 64
-    }, 
-    {
-      "County": "Floyd", 
-      "Count": 2
     }, 
     {
       "County": "Gordon", 
