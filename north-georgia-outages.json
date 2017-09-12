@@ -982,14 +982,14 @@
       "MapLocation": null
     }, 
     {
-      "Verified": true, 
+      "Verified": false, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 0, 
+      "CustomersOutNow": 3, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -1016,7 +1016,20 @@
         "X": -85.01155428590216
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.59804217286046, 
+          "X": -85.01193780755055
+        }, 
+        {
+          "Y": 34.59833714520828, 
+          "X": -85.0109072890241
+        }, 
+        {
+          "Y": 34.597606004198965, 
+          "X": -85.01181776113185
+        }
+      ], 
       "MapLocation": null
     }, 
     {
@@ -1236,7 +1249,7 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-09-11-0662", 
-      "OutageName": "F5225501", 
+      "OutageName": "F5225501 - King Rd", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
@@ -1415,7 +1428,7 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 0, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -1430,12 +1443,12 @@
       "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
-      "CustomersRestored": 0, 
+      "CustomersRestored": 1, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-09-11-0677", 
       "OutageName": "7322004000", 
-      "OutageEndTime": null, 
+      "OutageEndTime": "2017-09-12T04:20:08-04:00", 
       "ClosingDispatcher": null, 
       "OutageLocation": {
         "Y": 34.72289225693807, 
@@ -1862,14 +1875,14 @@
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-09-12-0718", 
-      "OutageName": "F5103501", 
+      "OutageName": "F5103501 - Cougar Ln", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
@@ -1926,7 +1939,7 @@
     }, 
     {
       "County": "Gordon", 
-      "Count": 1
+      "Count": 4
     }, 
     {
       "County": "Murray", 
@@ -1938,7 +1951,7 @@
     }, 
     {
       "County": "Whitfield", 
-      "Count": 43
+      "Count": 42
     }
   ]
 }
