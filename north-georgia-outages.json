@@ -72,14 +72,14 @@
       "MapLocation": null
     }, 
     {
-      "Verified": true, 
+      "Verified": false, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 5, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -102,11 +102,28 @@
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.94436563076749, 
-        "X": -85.29238246029641
+        "Y": 34.94436178319496, 
+        "X": -85.29238655768928
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.9443519448654, 
+          "X": -85.29304064522381
+        }, 
+        {
+          "Y": 34.94440167075108, 
+          "X": -85.29268072779539
+        }, 
+        {
+          "Y": 34.94443160911817, 
+          "X": -85.2919031522272
+        }, 
+        {
+          "Y": 34.94426190804518, 
+          "X": -85.29192170551072
+        }
+      ], 
       "MapLocation": null
     }, 
     {
@@ -333,7 +350,7 @@
     }, 
     {
       "County": "Walker", 
-      "Count": 1
+      "Count": 5
     }, 
     {
       "County": "Whitfield", 
