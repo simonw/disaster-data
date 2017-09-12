@@ -424,7 +424,7 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
@@ -450,7 +450,7 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-09-12-0715", 
-      "OutageName": "F9016501 - old hwy 2", 
+      "OutageName": "F9016501", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
@@ -494,57 +494,6 @@
         {
           "Y": 34.95270976805084, 
           "X": -84.6852133779495
-        }
-      ], 
-      "MapLocation": null
-    }, 
-    {
-      "Verified": true, 
-      "TroubledElement": null, 
-      "CustomersServed": null, 
-      "Actions": null, 
-      "Status": null, 
-      "District": null, 
-      "SuspectedCause": null, 
-      "CustomersOutNow": 3, 
-      "CrewResponsible": null, 
-      "CustomerResponsible": null, 
-      "OutagedPhase": null, 
-      "CustomersAffected": null, 
-      "OutageStartTime": "2017-09-12T04:40:53-04:00", 
-      "Dispatcher": null, 
-      "Substation": null, 
-      "UplineElement": null, 
-      "OutageStatus": null, 
-      "EstimatedTime": null, 
-      "Notes": null, 
-      "CrewDispatched": true, 
-      "VerifiedCause": null, 
-      "CostEstimate": null, 
-      "CustomersRestored": 0, 
-      "PriorityCustomers": null, 
-      "CustomersOutInitially": null, 
-      "OutageRecID": "2017-09-12-0721", 
-      "OutageName": "T6123012 MONICA WAY", 
-      "OutageEndTime": null, 
-      "ClosingDispatcher": null, 
-      "OutageLocation": {
-        "Y": 34.86494257835805, 
-        "X": -84.95651370555652
-      }, 
-      "Feeder": null, 
-      "OutagePolygon": [
-        {
-          "Y": 34.865022297208995, 
-          "X": -84.95661145838251
-        }, 
-        {
-          "Y": 34.865005377592794, 
-          "X": -84.9564897468601
-        }, 
-        {
-          "Y": 34.864800060272344, 
-          "X": -84.95643991142695
         }
       ], 
       "MapLocation": null
@@ -709,7 +658,7 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 3, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -728,15 +677,28 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-09-12-0744", 
-      "OutageName": "4104083000 HWY 41", 
+      "OutageName": "F4104512", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.92012642741264, 
-        "X": -85.1316663121602
+        "Y": 34.920368467758, 
+        "X": -85.13140458666574
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.92012642741264, 
+          "X": -85.1316663121602
+        }, 
+        {
+          "Y": 34.92031160495595, 
+          "X": -85.13162923798775
+        }, 
+        {
+          "Y": 34.920667370905434, 
+          "X": -85.13091820984924
+        }
+      ], 
       "MapLocation": null
     }, 
     {
@@ -785,7 +747,7 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 198, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -803,16 +765,57 @@
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
-      "OutageRecID": "2017-09-12-0746", 
-      "OutageName": "6710109002", 
+      "OutageRecID": "2017-09-12-0748", 
+      "OutageName": "F6705552", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.49126546907904, 
-        "X": -84.90589018758922
+        "Y": 34.4902511823286, 
+        "X": -84.9086561533505
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.49317021969115, 
+          "X": -84.9132255499074
+        }, 
+        {
+          "Y": 34.495430474080024, 
+          "X": -84.91293550552332
+        }, 
+        {
+          "Y": 34.500745313791214, 
+          "X": -84.91068412166301
+        }, 
+        {
+          "Y": 34.49901261097443, 
+          "X": -84.90645725752522
+        }, 
+        {
+          "Y": 34.48507278898641, 
+          "X": -84.90076122309115
+        }, 
+        {
+          "Y": 34.484096997019556, 
+          "X": -84.9047809465462
+        }, 
+        {
+          "Y": 34.48410632075783, 
+          "X": -84.90536508871745
+        }, 
+        {
+          "Y": 34.48422443541734, 
+          "X": -84.90890874179169
+        }, 
+        {
+          "Y": 34.484350071544036, 
+          "X": -84.91031853379265
+        }, 
+        {
+          "Y": 34.492302591024014, 
+          "X": -84.9131245649471
+        }
+      ], 
       "MapLocation": null
     }, 
     {
@@ -828,7 +831,7 @@
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
       "CustomersAffected": null, 
-      "OutageStartTime": "2017-09-12T09:06:56-04:00", 
+      "OutageStartTime": "2017-09-12T09:08:54-04:00", 
       "Dispatcher": null, 
       "Substation": null, 
       "UplineElement": null, 
@@ -841,13 +844,13 @@
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
-      "OutageRecID": "2017-09-12-0747", 
-      "OutageName": "6710160000", 
+      "OutageRecID": "2017-09-12-0749", 
+      "OutageName": "3309028001", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.48469317108912, 
-        "X": -84.90372493185039
+        "Y": 34.76760891038552, 
+        "X": -85.2312210275888
       }, 
       "Feeder": null, 
       "OutagePolygon": [], 
@@ -858,7 +861,7 @@
   "Areas": [
     {
       "County": "Catoosa", 
-      "Count": 7
+      "Count": 9
     }, 
     {
       "County": "Chattooga", 
@@ -866,7 +869,7 @@
     }, 
     {
       "County": "Gordon", 
-      "Count": 2
+      "Count": 198
     }, 
     {
       "County": "Murray", 
@@ -874,11 +877,11 @@
     }, 
     {
       "County": "Walker", 
-      "Count": 2
+      "Count": 3
     }, 
     {
       "County": "Whitfield", 
-      "Count": 7
+      "Count": 4
     }
   ]
 }
