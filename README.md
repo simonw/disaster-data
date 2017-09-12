@@ -13,6 +13,12 @@ the #shelter_scraper_data channel. https://irma-response-slack.herokuapp.com/
 
 Data scraped from the table on http://www.floridadisaster.org/shelters/summary.aspx
 
+## florida-shelters-missing.json (published to Slack)
+
+This one is a bit more complicated: we retrieve the shelters from http://www.floridadisaster.org/shelters/summary.aspx and then run a simple location comparison against the list on https://irma-api.herokuapp.com/shelters - then we generate a list of shelters from www.floridadisaster.org that appear to be missing and save that list as florida-shelters-missing.json.
+
+We skip any shelters which have been mentioned in a comment on https://github.com/simonw/irma-scraped-data/issues/2 - so you can help process the list by either adding missing shelters or by posting comments about shelters that are incorrectly shown as missing.
+
 ## fema-open-shelters.json (published to Slack)
 
 Data from https://gis.fema.gov/REST/services/NSS/OpenShelters/MapServer/0/query?f=json&returnGeometry=true&spatialRel=esriSpatialRelIntersects&geometry=%7B%22xmin%22%3A-10018754.171396945%2C%22ymin%22%3A2504688.5428529754%2C%22xmax%22%3A-7514065.628548954%2C%22ymax%22%3A5009377.085700965%2C%22spatialReference%22%3A%7B%22wkid%22%3A102100%7D%7D&geometryType=esriGeometryEnvelope&inSR=102100&outFields=*&outSR=102100
@@ -22,6 +28,14 @@ Documentation here: https://gis.fema.gov/REST/services/NSS/OpenShelters/MapServe
 ## fema-nss.json (published to Slack)
 
 Data from https://gis.fema.gov/REST/services/NSS/FEMA_NSS/MapServer/0/query?f=json&returnGeometry=true&spatialRel=esriSpatialRelIntersects&geometry=%7B%22xmin%22%3A-10018754.171396945%2C%22ymin%22%3A2504688.5428529754%2C%22xmax%22%3A-7514065.628548954%2C%22ymax%22%3A5009377.085700965%2C%22spatialReference%22%3A%7B%22wkid%22%3A102100%7D%7D&geometryType=esriGeometryEnvelope&inSR=102100&outFields=*&outSR=102100
+
+## google-crisis-irma-2017.json (published to Slack)
+
+Shelter data from https://google.org/crisismap/2017-irma
+
+## sceg-outages.json (not published to Slack)
+
+Outage data from https://www.sceg.com/outages-emergencies/power-outages/outage-map
 
 ## pascocountyfl.json (published to Slack)
 
