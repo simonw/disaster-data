@@ -204,7 +204,7 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
@@ -230,7 +230,7 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-09-11-0606", 
-      "OutageName": "T7302021-hwy 76 dalon", 
+      "OutageName": "T7302021", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
@@ -835,12 +835,12 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 3, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
       "CustomersAffected": null, 
-      "OutageStartTime": "2017-09-12T09:48:08-04:00", 
+      "OutageStartTime": "2017-09-12T09:50:58-04:00", 
       "Dispatcher": null, 
       "Substation": null, 
       "UplineElement": null, 
@@ -853,16 +853,29 @@
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
-      "OutageRecID": "2017-09-12-0756", 
-      "OutageName": "6710026000", 
+      "OutageRecID": "2017-09-12-0757", 
+      "OutageName": "T7212054", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.49605408024063, 
-        "X": -84.90808015531898
+        "Y": 34.81514301276608, 
+        "X": -84.87591414580022
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.8150642029964, 
+          "X": -84.87611322698552
+        }, 
+        {
+          "Y": 34.81530938829505, 
+          "X": -84.87590211598571
+        }, 
+        {
+          "Y": 34.815055447006785, 
+          "X": -84.87572709442948
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -878,7 +891,7 @@
     }, 
     {
       "County": "Gordon", 
-      "Count": 50
+      "Count": 49
     }, 
     {
       "County": "Murray", 
@@ -890,7 +903,7 @@
     }, 
     {
       "County": "Whitfield", 
-      "Count": 4
+      "Count": 7
     }
   ]
 }
