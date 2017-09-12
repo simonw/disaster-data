@@ -787,7 +787,7 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 6, 
+      "CustomersOutNow": 0, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -802,36 +802,19 @@
       "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
-      "CustomersRestored": 0, 
+      "CustomersRestored": 6, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-09-11-0612", 
       "OutageName": "F3209500-DOGWOOD CIR FT O", 
-      "OutageEndTime": null, 
+      "OutageEndTime": "2017-09-12T04:14:42-04:00", 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.83627925110729, 
-        "X": -85.22810643511495
+        "Y": 34.836194100288026, 
+        "X": -85.22795027707626
       }, 
       "Feeder": null, 
-      "OutagePolygon": [
-        {
-          "Y": 34.837456767797164, 
-          "X": -85.22982962117014
-        }, 
-        {
-          "Y": 34.83637609076304, 
-          "X": -85.22776797474009
-        }, 
-        {
-          "Y": 34.835659396550774, 
-          "X": -85.22720332961474
-        }, 
-        {
-          "Y": 34.83562474931819, 
-          "X": -85.22762481493487
-        }
-      ], 
+      "OutagePolygon": [], 
       "MapLocation": null
     }, 
     {
@@ -999,14 +982,14 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 3, 
+      "CustomersOutNow": 0, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -1021,32 +1004,19 @@
       "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
-      "CustomersRestored": 0, 
+      "CustomersRestored": 3, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-09-11-0640", 
-      "OutageName": "T5520015 - hill city", 
-      "OutageEndTime": null, 
+      "OutageName": "T5520015", 
+      "OutageEndTime": "2017-09-12T04:15:34-04:00", 
       "ClosingDispatcher": null, 
       "OutageLocation": {
         "Y": 34.59799510742257, 
         "X": -85.01155428590216
       }, 
       "Feeder": null, 
-      "OutagePolygon": [
-        {
-          "Y": 34.59804217286046, 
-          "X": -85.01193780755055
-        }, 
-        {
-          "Y": 34.59833714520828, 
-          "X": -85.0109072890241
-        }, 
-        {
-          "Y": 34.597606004198965, 
-          "X": -85.01181776113185
-        }
-      ], 
+      "OutagePolygon": [], 
       "MapLocation": null
     }, 
     {
@@ -1871,13 +1841,80 @@
       "Feeder": null, 
       "OutagePolygon": [], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 20, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-09-12T00:31:24-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-09-12-0718", 
+      "OutageName": "F5103501", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.91666232522831, 
+        "X": -85.04783760136208
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.91792216819135, 
+          "X": -85.05427086349977
+        }, 
+        {
+          "Y": 34.920447878337136, 
+          "X": -85.04974087313187
+        }, 
+        {
+          "Y": 34.91737585869807, 
+          "X": -85.04279613096381
+        }, 
+        {
+          "Y": 34.91688827220752, 
+          "X": -85.04274086103533
+        }, 
+        {
+          "Y": 34.915524337558566, 
+          "X": -85.04267327396201
+        }, 
+        {
+          "Y": 34.91319059412683, 
+          "X": -85.04837991058774
+        }, 
+        {
+          "Y": 34.915287167478645, 
+          "X": -85.054261296354
+        }
+      ], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
   "Areas": [
     {
       "County": "Catoosa", 
-      "Count": 21
+      "Count": 41
     }, 
     {
       "County": "Chattooga", 
@@ -1889,7 +1926,7 @@
     }, 
     {
       "County": "Gordon", 
-      "Count": 4
+      "Count": 1
     }, 
     {
       "County": "Murray", 
@@ -1897,7 +1934,7 @@
     }, 
     {
       "County": "Walker", 
-      "Count": 16
+      "Count": 10
     }, 
     {
       "County": "Whitfield", 
