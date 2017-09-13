@@ -188,7 +188,7 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -207,15 +207,24 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-09-12-0798", 
-      "OutageName": "4008135000", 
+      "OutageName": "T4008135", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.96791626391368, 
-        "X": -85.14821109412841
+        "Y": 34.96765940407742, 
+        "X": -85.14798655485805
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.96791626391368, 
+          "X": -85.14821109412841
+        }, 
+        {
+          "Y": 34.967402544241175, 
+          "X": -85.1477620155877
+        }
+      ], 
       "MapLocation": null
     }, 
     {
@@ -325,7 +334,7 @@
   "Areas": [
     {
       "County": "Catoosa", 
-      "Count": 64
+      "Count": 65
     }, 
     {
       "County": "Chattooga", 
