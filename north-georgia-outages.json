@@ -116,10 +116,77 @@
       "Feeder": null, 
       "OutagePolygon": [], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 15, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-09-13T13:10:29-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-09-13-0825", 
+      "OutageName": "REC-5007507", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.976334809005564, 
+        "X": -85.07373082789798
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.969829267062025, 
+          "X": -85.08627466116327
+        }, 
+        {
+          "Y": 34.982169643509756, 
+          "X": -85.08510652239711
+        }, 
+        {
+          "Y": 34.98625684601483, 
+          "X": -85.06498616373587
+        }, 
+        {
+          "Y": 34.97950009610782, 
+          "X": -85.06582851248679
+        }, 
+        {
+          "Y": 34.97032048820698, 
+          "X": -85.06901179190432
+        }, 
+        {
+          "Y": 34.969932513131965, 
+          "X": -85.07117731570051
+        }
+      ], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
   "Areas": [
+    {
+      "County": "Catoosa", 
+      "Count": 14
+    }, 
     {
       "County": "Chattooga", 
       "Count": 65
@@ -130,7 +197,7 @@
     }, 
     {
       "County": "Whitfield", 
-      "Count": 1
+      "Count": 2
     }
   ]
 }
