@@ -195,14 +195,14 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -214,22 +214,31 @@
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-09-14-0869", 
-      "OutageName": "6804070000", 
+      "OutageName": "T6804070", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.43581376946576, 
-        "X": -84.91965110398681
+        "Y": 34.435768819414434, 
+        "X": -84.91924719164007
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.43581376946576, 
+          "X": -84.91965110398681
+        }, 
+        {
+          "Y": 34.43572386936311, 
+          "X": -84.91884327929334
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -241,7 +250,7 @@
     }, 
     {
       "County": "Gordon", 
-      "Count": 2
+      "Count": 3
     }, 
     {
       "County": "Murray", 
