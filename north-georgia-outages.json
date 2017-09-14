@@ -12,7 +12,7 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -24,22 +24,31 @@
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
-      "OutageRecID": "2017-09-14-0885", 
-      "OutageName": "4221035000", 
+      "OutageRecID": "2017-09-14-0886", 
+      "OutageName": "T4221035", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.78837595993933, 
-        "X": -85.19513552014855
+        "Y": 34.78824327118994, 
+        "X": -85.19493308232326
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.78837595993933, 
+          "X": -85.19513552014855
+        }, 
+        {
+          "Y": 34.78811058244055, 
+          "X": -85.19473064449797
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -47,6 +56,10 @@
   "Areas": [
     {
       "County": "Catoosa", 
+      "Count": 1
+    }, 
+    {
+      "County": "Walker", 
       "Count": 1
     }
   ]
