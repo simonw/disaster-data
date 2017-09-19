@@ -3,7 +3,76 @@
     "CallsLastHour": 0, 
     "CustomerCalls": 0
   }, 
-  "Outages": [], 
+  "Outages": [
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 10, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-09-19T18:30:43-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-09-19-1009", 
+      "OutageName": "F6705509", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.504692256655076, 
+        "X": -84.91380829987358
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.50529414576274, 
+          "X": -84.91418032380886
+        }, 
+        {
+          "Y": 34.50556951157139, 
+          "X": -84.91408138504086
+        }, 
+        {
+          "Y": 34.50540394253948, 
+          "X": -84.91348607368913
+        }, 
+        {
+          "Y": 34.50449234294478, 
+          "X": -84.91347149797319
+        }, 
+        {
+          "Y": 34.503923222957376, 
+          "X": -84.91358073276585
+        }, 
+        {
+          "Y": 34.50347037415469, 
+          "X": -84.9140497859636
+        }
+      ], 
+      "MapLocation": null
+    }
+  ], 
   "Trucks": [], 
-  "Areas": null
+  "Areas": [
+    {
+      "County": "Gordon", 
+      "Count": 10
+    }
+  ]
 }
