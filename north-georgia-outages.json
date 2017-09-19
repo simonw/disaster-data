@@ -12,7 +12,7 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -31,15 +31,24 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-09-19-0976", 
-      "OutageName": "3015052001 Dietz Rd", 
+      "OutageName": "T3015052", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.955929942279944, 
-        "X": -85.20154648516487
+        "Y": 34.955762529953965, 
+        "X": -85.20167561949401
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.955595117627986, 
+          "X": -85.20180475382315
+        }, 
+        {
+          "Y": 34.955929942279944, 
+          "X": -85.20154648516487
+        }
+      ], 
       "MapLocation": null
     }, 
     {
@@ -264,7 +273,7 @@
   "Areas": [
     {
       "County": "Catoosa", 
-      "Count": 1
+      "Count": 2
     }, 
     {
       "County": "Gordon", 
