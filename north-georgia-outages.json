@@ -5,7 +5,7 @@
   }, 
   "Outages": [
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
@@ -52,19 +52,19 @@
       "MapLocation": null
     }, 
     {
-      "Verified": true, 
+      "Verified": false, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 3, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
       "CustomersAffected": null, 
-      "OutageStartTime": "2017-09-20T09:44:22-04:00", 
+      "OutageStartTime": "2017-09-20T09:47:45-04:00", 
       "Dispatcher": null, 
       "Substation": null, 
       "UplineElement": null, 
@@ -77,28 +77,100 @@
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
-      "OutageRecID": "2017-09-20-1014", 
-      "OutageName": "3209161001", 
+      "OutageRecID": "2017-09-20-1015", 
+      "OutageName": "T4011061", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.834760794358516, 
-        "X": -85.22408376344112
+        "Y": 34.95850552827293, 
+        "X": -85.18795070804833
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.958416399056, 
+          "X": -85.18800572101559
+        }, 
+        {
+          "Y": 34.95868270037413, 
+          "X": -85.1879430824448
+        }, 
+        {
+          "Y": 34.95841748538865, 
+          "X": -85.18790332068458
+        }
+      ], 
+      "MapLocation": null
+    }, 
+    {
+      "Verified": true, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 6, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-09-20T09:48:13-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": true, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-09-20-1017", 
+      "OutageName": "PC-96121", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.79283844820057, 
+        "X": -84.88081133399892
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.7933885505401, 
+          "X": -84.88107832677572
+        }, 
+        {
+          "Y": 34.793136608331366, 
+          "X": -84.88062875120677
+        }, 
+        {
+          "Y": 34.79264776162919, 
+          "X": -84.88046207991601
+        }, 
+        {
+          "Y": 34.792180872301635, 
+          "X": -84.88107617809717
+        }
+      ], 
       "MapLocation": null
     }
   ], 
   "Trucks": [], 
   "Areas": [
     {
+      "County": "Catoosa", 
+      "Count": 3
+    }, 
+    {
       "County": "Murray", 
       "Count": 2
     }, 
     {
-      "County": "Walker", 
-      "Count": 1
+      "County": "Whitfield", 
+      "Count": 6
     }
   ]
 }
