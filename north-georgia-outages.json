@@ -12,7 +12,7 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -31,15 +31,24 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-09-20-1010", 
-      "OutageName": "6505001000", 
+      "OutageName": "T6505001", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.639464369792435, 
-        "X": -84.90076307576958
+        "Y": 34.6390803556388, 
+        "X": -84.90094198894488
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.63869634148515, 
+          "X": -84.90112090212017
+        }, 
+        {
+          "Y": 34.639464369792435, 
+          "X": -84.90076307576958
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -47,7 +56,7 @@
   "Areas": [
     {
       "County": "Murray", 
-      "Count": 1
+      "Count": 2
     }
   ]
 }
