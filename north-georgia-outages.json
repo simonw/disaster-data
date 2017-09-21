@@ -128,7 +128,7 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
@@ -154,7 +154,7 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-09-21-1062", 
-      "OutageName": "4709023000- FLOYD SPRINGS", 
+      "OutageName": "4709023000", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
@@ -340,81 +340,6 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
-      "TroubledElement": null, 
-      "CustomersServed": null, 
-      "Actions": null, 
-      "Status": null, 
-      "District": null, 
-      "SuspectedCause": null, 
-      "CustomersOutNow": 40, 
-      "CrewResponsible": null, 
-      "CustomerResponsible": null, 
-      "OutagedPhase": null, 
-      "CustomersAffected": null, 
-      "OutageStartTime": "2017-09-21T09:57:29-04:00", 
-      "Dispatcher": null, 
-      "Substation": null, 
-      "UplineElement": null, 
-      "OutageStatus": null, 
-      "EstimatedTime": null, 
-      "Notes": null, 
-      "CrewDispatched": true, 
-      "VerifiedCause": null, 
-      "CostEstimate": null, 
-      "CustomersRestored": 23, 
-      "PriorityCustomers": null, 
-      "CustomersOutInitially": null, 
-      "OutageRecID": "2017-09-21-1074", 
-      "OutageName": "F3224524", 
-      "OutageEndTime": null, 
-      "ClosingDispatcher": null, 
-      "OutageLocation": {
-        "Y": 34.79028956356143, 
-        "X": -85.2331509002474
-      }, 
-      "Feeder": null, 
-      "OutagePolygon": [
-        {
-          "Y": 34.78978505309323, 
-          "X": -85.24228212306298
-        }, 
-        {
-          "Y": 34.79136377484857, 
-          "X": -85.24170676642362
-        }, 
-        {
-          "Y": 34.79195168020859, 
-          "X": -85.24065929581703
-        }, 
-        {
-          "Y": 34.79239649585908, 
-          "X": -85.23705556540801
-        }, 
-        {
-          "Y": 34.79263921958076, 
-          "X": -85.22545625954254
-        }, 
-        {
-          "Y": 34.78885003728257, 
-          "X": -85.22040191756345
-        }, 
-        {
-          "Y": 34.78877096380219, 
-          "X": -85.22067499986495
-        }, 
-        {
-          "Y": 34.78806510979041, 
-          "X": -85.22788722117737
-        }, 
-        {
-          "Y": 34.78878373758749, 
-          "X": -85.24223395336662
-        }
-      ], 
-      "MapLocation": null
-    }, 
-    {
       "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
@@ -469,12 +394,12 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
       "CustomersAffected": null, 
-      "OutageStartTime": "2017-09-21T11:05:40-04:00", 
+      "OutageStartTime": "2017-09-21T11:05:37-04:00", 
       "Dispatcher": null, 
       "Substation": null, 
       "UplineElement": null, 
@@ -488,15 +413,99 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-09-21-1076", 
-      "OutageName": "6421009000", 
+      "OutageName": "T6421009", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.65121451669837, 
-        "X": -84.98691822495354
+        "Y": 34.65124608901215, 
+        "X": -84.98706257689545
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.651277661325935, 
+          "X": -84.98720692883735
+        }, 
+        {
+          "Y": 34.65121451669837, 
+          "X": -84.98691822495354
+        }
+      ], 
+      "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 40, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-09-21T11:03:11-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-09-21-1078", 
+      "OutageName": "F3224524", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.79028956356143, 
+        "X": -85.2331509002474
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.78978505309323, 
+          "X": -85.24228212306298
+        }, 
+        {
+          "Y": 34.79136377484857, 
+          "X": -85.24170676642362
+        }, 
+        {
+          "Y": 34.79195168020859, 
+          "X": -85.24065929581703
+        }, 
+        {
+          "Y": 34.79239649585908, 
+          "X": -85.23705556540801
+        }, 
+        {
+          "Y": 34.79263921958076, 
+          "X": -85.22545625954254
+        }, 
+        {
+          "Y": 34.78885003728257, 
+          "X": -85.22040191756345
+        }, 
+        {
+          "Y": 34.78877096380219, 
+          "X": -85.22067499986495
+        }, 
+        {
+          "Y": 34.78806510979041, 
+          "X": -85.22788722117737
+        }, 
+        {
+          "Y": 34.78878373758749, 
+          "X": -85.24223395336662
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -524,7 +533,7 @@
     }, 
     {
       "County": "Whitfield", 
-      "Count": 4
+      "Count": 5
     }
   ]
 }
