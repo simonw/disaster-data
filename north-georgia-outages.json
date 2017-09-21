@@ -349,7 +349,7 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
@@ -375,7 +375,7 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-09-21-1076", 
-      "OutageName": "T6421009", 
+      "OutageName": "T6421009- carbondale rd", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
@@ -396,7 +396,7 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
@@ -415,7 +415,7 @@
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
@@ -450,7 +450,7 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 4, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -469,15 +469,32 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-09-21-1080", 
-      "OutageName": "4011004000", 
+      "OutageName": "T4011004", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.95991343263278, 
-        "X": -85.18525021349056
+        "Y": 34.95984465525196, 
+        "X": -85.18537451552284
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.96000857410618, 
+          "X": -85.18550865065895
+        }, 
+        {
+          "Y": 34.95991343263278, 
+          "X": -85.18525021349056
+        }, 
+        {
+          "Y": 34.95976267618266, 
+          "X": -85.18525298369356
+        }, 
+        {
+          "Y": 34.95969393808621, 
+          "X": -85.18548621424827
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -485,7 +502,7 @@
   "Areas": [
     {
       "County": "Catoosa", 
-      "Count": 3
+      "Count": 6
     }, 
     {
       "County": "Chattooga", 
