@@ -170,14 +170,14 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -189,22 +189,31 @@
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-09-21-1060", 
-      "OutageName": "6705064000", 
+      "OutageName": "F6705523 DEWS POND", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.50465916817849, 
-        "X": -84.90711397075813
+        "Y": 34.50503581625301, 
+        "X": -84.90718541609733
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.50541246432754, 
+          "X": -84.90725686143654
+        }, 
+        {
+          "Y": 34.50465916817849, 
+          "X": -84.90711397075813
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -216,7 +225,7 @@
     }, 
     {
       "County": "Gordon", 
-      "Count": 2
+      "Count": 3
     }, 
     {
       "County": "Whitfield", 
