@@ -41,6 +41,77 @@
       "Feeder": null, 
       "OutagePolygon": [], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 49, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-09-21T18:36:12-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": true, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-09-21-1113", 
+      "OutageName": "REC-6113501", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.88994984140314, 
+        "X": -84.93762303535013
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.891863483406695, 
+          "X": -84.94320442675185
+        }, 
+        {
+          "Y": 34.89188605550559, 
+          "X": -84.94293028345467
+        }, 
+        {
+          "Y": 34.892264040600296, 
+          "X": -84.93801980545273
+        }, 
+        {
+          "Y": 34.89043218411692, 
+          "X": -84.9305524287214
+        }, 
+        {
+          "Y": 34.890005215335975, 
+          "X": -84.93051669876021
+        }, 
+        {
+          "Y": 34.88849794374726, 
+          "X": -84.9344908158391
+        }, 
+        {
+          "Y": 34.88720649209325, 
+          "X": -84.93995681408096
+        }, 
+        {
+          "Y": 34.88744331641912, 
+          "X": -84.94131300974014
+        }
+      ], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
@@ -48,6 +119,10 @@
     {
       "County": "Gordon", 
       "Count": 1
+    }, 
+    {
+      "County": "Whitfield", 
+      "Count": 49
     }
   ]
 }
