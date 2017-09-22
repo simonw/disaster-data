@@ -159,44 +159,6 @@
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
       "CustomersAffected": null, 
-      "OutageStartTime": "2017-09-22T09:04:15-04:00", 
-      "Dispatcher": null, 
-      "Substation": null, 
-      "UplineElement": null, 
-      "OutageStatus": null, 
-      "EstimatedTime": null, 
-      "Notes": null, 
-      "CrewDispatched": false, 
-      "VerifiedCause": null, 
-      "CostEstimate": null, 
-      "CustomersRestored": 0, 
-      "PriorityCustomers": null, 
-      "CustomersOutInitially": null, 
-      "OutageRecID": "2017-09-22-1118", 
-      "OutageName": "3012101001", 
-      "OutageEndTime": null, 
-      "ClosingDispatcher": null, 
-      "OutageLocation": {
-        "Y": 34.95273895478742, 
-        "X": -85.2637934172992
-      }, 
-      "Feeder": null, 
-      "OutagePolygon": [], 
-      "MapLocation": null
-    }, 
-    {
-      "Verified": false, 
-      "TroubledElement": null, 
-      "CustomersServed": null, 
-      "Actions": null, 
-      "Status": null, 
-      "District": null, 
-      "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
-      "CrewResponsible": null, 
-      "CustomerResponsible": null, 
-      "OutagedPhase": null, 
-      "CustomersAffected": null, 
       "OutageStartTime": "2017-09-22T09:11:30-04:00", 
       "Dispatcher": null, 
       "Substation": null, 
@@ -223,7 +185,7 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
@@ -242,7 +204,7 @@
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
@@ -259,17 +221,96 @@
       "Feeder": null, 
       "OutagePolygon": [], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 58, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-09-22T09:17:43-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-09-22-1121", 
+      "OutageName": "REC-7408516", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.69020518440409, 
+        "X": -84.8482371583614
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.692029063027306, 
+          "X": -84.8583407451291
+        }, 
+        {
+          "Y": 34.69441442858493, 
+          "X": -84.85397380026167
+        }, 
+        {
+          "Y": 34.694239255278724, 
+          "X": -84.85161546896141
+        }, 
+        {
+          "Y": 34.693376625563104, 
+          "X": -84.84849880485727
+        }, 
+        {
+          "Y": 34.692599473820884, 
+          "X": -84.84580654522301
+        }, 
+        {
+          "Y": 34.687795988085846, 
+          "X": -84.84127546083855
+        }, 
+        {
+          "Y": 34.6853451089719, 
+          "X": -84.84192105849604
+        }, 
+        {
+          "Y": 34.68561763481583, 
+          "X": -84.84383194252709
+        }, 
+        {
+          "Y": 34.68642908148839, 
+          "X": -84.8488705989584
+        }
+      ], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
   "Areas": [
     {
       "County": "Catoosa", 
-      "Count": 511
+      "Count": 510
     }, 
     {
       "County": "Gordon", 
       "Count": 1
+    }, 
+    {
+      "County": "Murray", 
+      "Count": 56
     }, 
     {
       "County": "Walker", 
@@ -277,7 +318,7 @@
     }, 
     {
       "County": "Whitfield", 
-      "Count": 2
+      "Count": 4
     }
   ]
 }
