@@ -3,7 +3,60 @@
     "CallsLastHour": 0, 
     "CustomerCalls": 0
   }, 
-  "Outages": [], 
+  "Outages": [
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 2, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-09-23T18:20:12-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-09-23-1167", 
+      "OutageName": "T2202022", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.83985228326496, 
+        "X": -85.36320547659736
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.8395775629755, 
+          "X": -85.36332660156471
+        }, 
+        {
+          "Y": 34.840127003554414, 
+          "X": -85.36308435163
+        }
+      ], 
+      "MapLocation": null
+    }
+  ], 
   "Trucks": [], 
-  "Areas": null
+  "Areas": [
+    {
+      "County": "Walker", 
+      "Count": 2
+    }
+  ]
 }
