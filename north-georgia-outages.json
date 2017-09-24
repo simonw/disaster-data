@@ -12,7 +12,7 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 3, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -31,15 +31,28 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-09-24-1174", 
-      "OutageName": "7806004001", 
+      "OutageName": "T7806004", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.42361844146051, 
-        "X": -84.89221834562544
+        "Y": 34.42380046045496, 
+        "X": -84.89202345719387
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.42361844146051, 
+          "X": -84.89221834562544
+        }, 
+        {
+          "Y": 34.42405053391851, 
+          "X": -84.89192474678622
+        }, 
+        {
+          "Y": 34.42373240598587, 
+          "X": -84.89192727916996
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -47,7 +60,7 @@
   "Areas": [
     {
       "County": "Gordon", 
-      "Count": 1
+      "Count": 3
     }
   ]
 }
