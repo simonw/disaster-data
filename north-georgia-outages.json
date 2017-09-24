@@ -83,7 +83,7 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -102,15 +102,24 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-09-24-1188", 
-      "OutageName": "8207217000", 
+      "OutageName": "F8207516", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.83674275468518, 
-        "X": -84.77272361758882
+        "Y": 34.83666301343311, 
+        "X": -84.77314170860632
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.836583272181045, 
+          "X": -84.7735597996238
+        }, 
+        {
+          "Y": 34.83674275468518, 
+          "X": -84.77272361758882
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -122,7 +131,7 @@
     }, 
     {
       "County": "Murray", 
-      "Count": 1
+      "Count": 2
     }
   ]
 }
