@@ -3,7 +3,96 @@
     "CallsLastHour": 0, 
     "CustomerCalls": 0
   }, 
-  "Outages": [], 
+  "Outages": [
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 94, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-09-26T19:25:50-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-09-26-1383", 
+      "OutageName": "F7209503", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.83221932360154, 
+        "X": -84.82482905925318
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.834439716389376, 
+          "X": -84.83019266927823
+        }, 
+        {
+          "Y": 34.83605623852838, 
+          "X": -84.82623369913098
+        }, 
+        {
+          "Y": 34.83237386577373, 
+          "X": -84.81947113425926
+        }, 
+        {
+          "Y": 34.8322334235838, 
+          "X": -84.81930451366992
+        }, 
+        {
+          "Y": 34.83096159927506, 
+          "X": -84.81959110135482
+        }, 
+        {
+          "Y": 34.83048826583565, 
+          "X": -84.81982758803137
+        }, 
+        {
+          "Y": 34.830474587776685, 
+          "X": -84.82569852918203
+        }, 
+        {
+          "Y": 34.83056835704078, 
+          "X": -84.82672475603937
+        }, 
+        {
+          "Y": 34.83074453922057, 
+          "X": -84.82716811873601
+        }, 
+        {
+          "Y": 34.83261535554909, 
+          "X": -84.82905053981241
+        }, 
+        {
+          "Y": 34.833456610643935, 
+          "X": -84.8298570022904
+        }
+      ], 
+      "MapLocation": null
+    }
+  ], 
   "Trucks": [], 
-  "Areas": null
+  "Areas": [
+    {
+      "County": "Murray", 
+      "Count": 94
+    }
+  ]
 }
