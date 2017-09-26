@@ -41,6 +41,69 @@
       "Feeder": null, 
       "OutagePolygon": [], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 10, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-09-26T17:25:39-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-09-26-1381", 
+      "OutageName": "F6416526", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.67325442751137, 
+        "X": -84.99463041519559
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.672358876672064, 
+          "X": -84.99692328756572
+        }, 
+        {
+          "Y": 34.67374170660652, 
+          "X": -84.99496091360335
+        }, 
+        {
+          "Y": 34.674153890149654, 
+          "X": -84.99430628346627
+        }, 
+        {
+          "Y": 34.67394946664964, 
+          "X": -84.99292482804549
+        }, 
+        {
+          "Y": 34.673788050558606, 
+          "X": -84.99261934827199
+        }, 
+        {
+          "Y": 34.67153457443171, 
+          "X": -84.99604783022069
+        }
+      ], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
@@ -48,6 +111,10 @@
     {
       "County": "Gordon", 
       "Count": 1
+    }, 
+    {
+      "County": "Whitfield", 
+      "Count": 10
     }
   ]
 }
