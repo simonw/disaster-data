@@ -266,7 +266,7 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -285,15 +285,24 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-09-27-1421", 
-      "OutageName": "2218009001", 
+      "OutageName": "T2218009", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.805596281437936, 
-        "X": -85.35192183122463
+        "Y": 34.80560104562913, 
+        "X": -85.35204506585505
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.805605809820335, 
+          "X": -85.35216830048547
+        }, 
+        {
+          "Y": 34.805596281437936, 
+          "X": -85.35192183122463
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -309,7 +318,7 @@
     }, 
     {
       "County": "Walker", 
-      "Count": 5
+      "Count": 6
     }, 
     {
       "County": "Whitfield", 
