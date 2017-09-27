@@ -228,34 +228,51 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 4, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
       "CustomersAffected": null, 
-      "OutageStartTime": "2017-09-27T14:55:00-04:00", 
+      "OutageStartTime": "2017-09-27T14:56:06-04:00", 
       "Dispatcher": null, 
       "Substation": null, 
       "UplineElement": null, 
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
-      "OutageRecID": "2017-09-27-1441", 
-      "OutageName": "7409037001", 
+      "OutageRecID": "2017-09-27-1442", 
+      "OutageName": "T4011059", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.69697945282958, 
-        "X": -84.83850178759931
+        "Y": 34.95981328808412, 
+        "X": -85.18731561063188
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.95967561156791, 
+          "X": -85.18756137798916
+        }, 
+        {
+          "Y": 34.95999604002495, 
+          "X": -85.18740560423288
+        }, 
+        {
+          "Y": 34.95995455985336, 
+          "X": -85.18710803983149
+        }, 
+        {
+          "Y": 34.95962694089027, 
+          "X": -85.18718742047403
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -263,7 +280,7 @@
   "Areas": [
     {
       "County": "Catoosa", 
-      "Count": 4
+      "Count": 8
     }, 
     {
       "County": "Gordon", 
@@ -271,7 +288,7 @@
     }, 
     {
       "County": "Whitfield", 
-      "Count": 5
+      "Count": 4
     }
   ]
 }
