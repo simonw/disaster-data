@@ -334,53 +334,6 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 2, 
-      "CrewResponsible": null, 
-      "CustomerResponsible": null, 
-      "OutagedPhase": null, 
-      "CustomersAffected": null, 
-      "OutageStartTime": "2017-09-28T09:47:59-04:00", 
-      "Dispatcher": null, 
-      "Substation": null, 
-      "UplineElement": null, 
-      "OutageStatus": null, 
-      "EstimatedTime": null, 
-      "Notes": null, 
-      "CrewDispatched": true, 
-      "VerifiedCause": null, 
-      "CostEstimate": null, 
-      "CustomersRestored": 0, 
-      "PriorityCustomers": null, 
-      "CustomersOutInitially": null, 
-      "OutageRecID": "2017-09-28-1465", 
-      "OutageName": "T6107055", 
-      "OutageEndTime": null, 
-      "ClosingDispatcher": null, 
-      "OutageLocation": {
-        "Y": 34.904155071917444, 
-        "X": -84.96606968179219
-      }, 
-      "Feeder": null, 
-      "OutagePolygon": [
-        {
-          "Y": 34.90420801901203, 
-          "X": -84.96617307641878
-        }, 
-        {
-          "Y": 34.90410212482285, 
-          "X": -84.9659662871656
-        }
-      ], 
-      "MapLocation": null
-    }, 
-    {
-      "Verified": true, 
-      "TroubledElement": null, 
-      "CustomersServed": null, 
-      "Actions": null, 
-      "Status": null, 
-      "District": null, 
-      "SuspectedCause": null, 
       "CustomersOutNow": 3, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
@@ -423,13 +376,110 @@
         }
       ], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 1, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-09-28T10:04:46-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-09-28-1467", 
+      "OutageName": "4303063001", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.77999726880215, 
+        "X": -85.14923564662065
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [], 
+      "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 5, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-09-27T13:44:51-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-09-28-1468", 
+      "OutageName": "T4011058", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.95987979583407, 
+        "X": -85.18829201949761
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.960036280371106, 
+          "X": -85.18850077330076
+        }, 
+        {
+          "Y": 34.9600374034611, 
+          "X": -85.1883672852524
+        }, 
+        {
+          "Y": 34.95991907972667, 
+          "X": -85.18806212324277
+        }, 
+        {
+          "Y": 34.9597264876323, 
+          "X": -85.18809308802838
+        }, 
+        {
+          "Y": 34.959679727979164, 
+          "X": -85.18843682766371
+        }
+      ], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
   "Areas": [
     {
       "County": "Catoosa", 
-      "Count": 3
+      "Count": 9
     }, 
     {
       "County": "Chattooga", 
@@ -445,7 +495,7 @@
     }, 
     {
       "County": "Whitfield", 
-      "Count": 6
+      "Count": 4
     }
   ]
 }
