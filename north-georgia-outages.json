@@ -280,19 +280,19 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
       "CustomersAffected": null, 
-      "OutageStartTime": "2017-09-28T09:41:34-04:00", 
+      "OutageStartTime": "2017-09-28T09:42:37-04:00", 
       "Dispatcher": null, 
       "Substation": null, 
       "UplineElement": null, 
@@ -305,16 +305,25 @@
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
-      "OutageRecID": "2017-09-28-1461", 
-      "OutageName": "8212052000", 
+      "OutageRecID": "2017-09-28-1462", 
+      "OutageName": "T7222027", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.82862148274627, 
-        "X": -84.76511688369882
+        "Y": 34.79733144152277, 
+        "X": -84.86545850542797
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.79767029873126, 
+          "X": -84.86562475954403
+        }, 
+        {
+          "Y": 34.796992584314275, 
+          "X": -84.86529225131189
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -329,16 +338,12 @@
       "Count": 3
     }, 
     {
-      "County": "Murray", 
-      "Count": 1
-    }, 
-    {
       "County": "Walker", 
       "Count": 2
     }, 
     {
       "County": "Whitfield", 
-      "Count": 1
+      "Count": 3
     }
   ]
 }
