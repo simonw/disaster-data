@@ -5,53 +5,6 @@
   }, 
   "Outages": [
     {
-      "Verified": true, 
-      "TroubledElement": null, 
-      "CustomersServed": null, 
-      "Actions": null, 
-      "Status": null, 
-      "District": null, 
-      "SuspectedCause": null, 
-      "CustomersOutNow": 2, 
-      "CrewResponsible": null, 
-      "CustomerResponsible": null, 
-      "OutagedPhase": null, 
-      "CustomersAffected": null, 
-      "OutageStartTime": "2017-09-29T09:58:02-04:00", 
-      "Dispatcher": null, 
-      "Substation": null, 
-      "UplineElement": null, 
-      "OutageStatus": null, 
-      "EstimatedTime": null, 
-      "Notes": null, 
-      "CrewDispatched": true, 
-      "VerifiedCause": null, 
-      "CostEstimate": null, 
-      "CustomersRestored": 0, 
-      "PriorityCustomers": null, 
-      "CustomersOutInitially": null, 
-      "OutageRecID": "2017-09-29-1519", 
-      "OutageName": "T6521031 HYDE RD", 
-      "OutageEndTime": null, 
-      "ClosingDispatcher": null, 
-      "OutageLocation": {
-        "Y": 34.590072102643276, 
-        "X": -84.9787814022248
-      }, 
-      "Feeder": null, 
-      "OutagePolygon": [
-        {
-          "Y": 34.59028865742719, 
-          "X": -84.97879171589153
-        }, 
-        {
-          "Y": 34.58985554785936, 
-          "X": -84.97877108855808
-        }
-      ], 
-      "MapLocation": null
-    }, 
-    {
       "Verified": false, 
       "TroubledElement": null, 
       "CustomersServed": null, 
@@ -204,14 +157,14 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -230,15 +183,24 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-09-29-1526", 
-      "OutageName": "3021252000", 
+      "OutageName": "F3021509 OLEN", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.93103067488054, 
-        "X": -85.28876910627466
+        "Y": 34.931018865949426, 
+        "X": -85.28841970720315
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.93103067488054, 
+          "X": -85.28876910627466
+        }, 
+        {
+          "Y": 34.931007057018306, 
+          "X": -85.28807030813164
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -250,7 +212,7 @@
     }, 
     {
       "County": "Gordon", 
-      "Count": 3
+      "Count": 1
     }, 
     {
       "County": "Murray", 
@@ -258,7 +220,7 @@
     }, 
     {
       "County": "Walker", 
-      "Count": 2
+      "Count": 3
     }
   ]
 }
