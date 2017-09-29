@@ -56,14 +56,14 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -81,16 +81,25 @@
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
-      "OutageRecID": "2017-09-29-1540", 
-      "OutageName": "4023039000", 
+      "OutageRecID": "2017-09-29-1541", 
+      "OutageName": "T4023039", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.93427940502303, 
-        "X": -85.15825500740709
+        "Y": 34.93441559716295, 
+        "X": -85.15819355110463
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.93427940502303, 
+          "X": -85.15825500740709
+        }, 
+        {
+          "Y": 34.93455178930289, 
+          "X": -85.15813209480217
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -98,7 +107,7 @@
   "Areas": [
     {
       "County": "Catoosa", 
-      "Count": 1
+      "Count": 2
     }, 
     {
       "County": "Whitfield", 
