@@ -148,57 +148,6 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 7, 
-      "CrewResponsible": null, 
-      "CustomerResponsible": null, 
-      "OutagedPhase": null, 
-      "CustomersAffected": null, 
-      "OutageStartTime": "2017-10-03T14:13:18-04:00", 
-      "Dispatcher": null, 
-      "Substation": null, 
-      "UplineElement": null, 
-      "OutageStatus": null, 
-      "EstimatedTime": null, 
-      "Notes": null, 
-      "CrewDispatched": true, 
-      "VerifiedCause": null, 
-      "CostEstimate": null, 
-      "CustomersRestored": 0, 
-      "PriorityCustomers": null, 
-      "CustomersOutInitially": null, 
-      "OutageRecID": "2017-10-03-0111", 
-      "OutageName": "F6802518 - MCDANIEL STATION", 
-      "OutageEndTime": null, 
-      "ClosingDispatcher": null, 
-      "OutageLocation": {
-        "Y": 34.43147333163913, 
-        "X": -84.96045664227047
-      }, 
-      "Feeder": null, 
-      "OutagePolygon": [
-        {
-          "Y": 34.42954698538034, 
-          "X": -84.96213847337812
-        }, 
-        {
-          "Y": 34.43260249957578, 
-          "X": -84.9602169717618
-        }, 
-        {
-          "Y": 34.43227050996129, 
-          "X": -84.95901448167149
-        }
-      ], 
-      "MapLocation": null
-    }, 
-    {
-      "Verified": true, 
-      "TroubledElement": null, 
-      "CustomersServed": null, 
-      "Actions": null, 
-      "Status": null, 
-      "District": null, 
-      "SuspectedCause": null, 
       "CustomersOutNow": 1, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
@@ -266,13 +215,51 @@
       "Feeder": null, 
       "OutagePolygon": [], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 1, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-10-03T15:38:03-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-10-03-0123", 
+      "OutageName": "3015082002", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.95684394538737, 
+        "X": -85.21825898873239
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
   "Areas": [
     {
       "County": "Catoosa", 
-      "Count": 3
+      "Count": 4
     }, 
     {
       "County": "Chattooga", 
@@ -280,7 +267,7 @@
     }, 
     {
       "County": "Gordon", 
-      "Count": 11
+      "Count": 4
     }
   ]
 }
