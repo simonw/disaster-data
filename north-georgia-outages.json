@@ -301,12 +301,12 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
       "CustomersAffected": null, 
-      "OutageStartTime": "2017-10-03T10:31:17-04:00", 
+      "OutageStartTime": "2017-10-03T10:39:04-04:00", 
       "Dispatcher": null, 
       "Substation": null, 
       "UplineElement": null, 
@@ -319,16 +319,25 @@
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
-      "OutageRecID": "2017-10-03-0082", 
-      "OutageName": "5504015000 - LANE RD", 
+      "OutageRecID": "2017-10-03-0085", 
+      "OutageName": "T6219071", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.640791729608985, 
-        "X": -85.02364468266745
+        "Y": 34.81215531009617, 
+        "X": -84.92283359370612
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.81213968922976, 
+          "X": -84.92327179845508
+        }, 
+        {
+          "Y": 34.81217093096259, 
+          "X": -84.92239538895717
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -344,7 +353,7 @@
     }, 
     {
       "County": "Whitfield", 
-      "Count": 3
+      "Count": 4
     }
   ]
 }
