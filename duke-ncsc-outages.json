@@ -44,11 +44,31 @@
       "desc": [
         {
           "etr": "Oct 3, 2:30 AM", 
+          "cust_s": "69,020", 
+          "href": "zoomToThematicArea(35.53657,-78.38624)", 
+          "start": "Oct 2, 11:27 PM", 
+          "cust_a": "5", 
+          "n_out": "1"
+        }
+      ], 
+      "icon": "../impl/images/thematic_1.ico", 
+      "geom": [
+        {
+          "a": "cwryEhct|Md^Tj^mLjPmW`d@iLd^Vvo@{d@pf@nJzLpTlXtFbg@}]fBi[ju@s]vi@eLvJa[sZeq@JwW`SwLh^{Hd^fC~i@{]rg@y}@cDob@_JoTbEw^p[}HbSwS`Hu^~UuS|Gc[bYie@h_BzDr|Pc~ElnBioKto_@pqPpnD|TrS{o@~OJvR~BtZnm@l`@rf@hi@`Nni@pCrXmEvXoL~Txi@bD|e@gBpW`JzPnT~lAeBrWjRb_@cE`[dvBn|D_]nkBbLveAjn@~{@~\\dtAbuC~sAx}C~pP~g@brAgo@|}NukIlaHgaAlAyOkMyi@vO}`@eC_VvSeMIsGlI_B`My[de@GrPsJlW_Yva@qo@x]_VfW_PIgnBhn@iaAlyAobCvtAccAfAm_DxeC_Kdw@aaAldA_r@mCe`Bj`AoB|z@yx@j}Aqi@vAme@boCixSatYkmNueRsRoMoDgM|Gw^yxGmtPq{KkbU"
+        }
+      ], 
+      "id": "NC-JOHNSTON", 
+      "title": "NC-JOHNSTON"
+    }, 
+    {
+      "desc": [
+        {
+          "etr": "Oct 3, 3:45 AM", 
           "cust_s": "140,513", 
           "href": "zoomToThematicArea(36.05121,-78.85731)", 
           "start": "Oct 2, 5:22 PM", 
-          "cust_a": "2", 
-          "n_out": "2"
+          "cust_a": "3", 
+          "n_out": "3"
         }
       ], 
       "icon": "../impl/images/thematic_1.ico", 
@@ -99,26 +119,6 @@
       ], 
       "id": "NC-MECKLENBURG", 
       "title": "NC-MECKLENBURG"
-    }, 
-    {
-      "desc": [
-        {
-          "etr": "Oct 3, 2:00 AM", 
-          "cust_s": "53,635", 
-          "href": "zoomToThematicArea(35.28424,-81.19015)", 
-          "start": "Oct 2, 5:20 PM", 
-          "cust_a": "4", 
-          "n_out": "1"
-        }
-      ], 
-      "icon": "../impl/images/thematic_1.ico", 
-      "geom": [
-        {
-          "a": "odawEdobmNbr@zApMdp@`m@noAfBzs@hMzLb`A{Mz]wi@rAeTw[ml@i^uLmJ}LEuPdJgTlf@wb@~\\ksCpa@paAp^zh@N|z@bS|a@_Jze@`Bt^ra@`eAnl@nLvt@yTj^fWbSl^rl@pZju@bs@`PxEvl@dl@tGnPba@rEdvBlDj}@{Fzn@yb@nbBhVnX{Bjo@|HfkAec@|`@_JjqA~Dvc@aJdtAjAlo@|V~q@sFzUvSmAdi@n^fe@k}@pdd@__@`eUigD_fAovLt[usBhtEu|A{@axBtnAuXcIcoAoy@wiCffGqaLvuIjdBifvA~RwcI"
-        }
-      ], 
-      "id": "NC-GASTON", 
-      "title": "NC-GASTON"
     }, 
     {
       "desc": [
@@ -179,26 +179,6 @@
       ], 
       "id": "SC-GREENVILLE", 
       "title": "SC-GREENVILLE"
-    }, 
-    {
-      "desc": [
-        {
-          "etr": "Oct 3, 2:45 AM", 
-          "cust_s": "18,422", 
-          "href": "zoomToThematicArea(35.73939,-82.05755)", 
-          "start": "Oct 2, 10:57 PM", 
-          "cust_a": "1", 
-          "n_out": "1"
-        }
-      ], 
-      "icon": "../impl/images/thematic_1.ico", 
-      "geom": [
-        {
-          "a": "yzdzEhcksNsWyb@mE_`@mYs^uEu\\e`@ye@kK{AuShEwc@bl@}PvHaoBsyBzVai@tg@sVbJyOpHW|BpDhNlCfVcd@dFkCrQdMt\\}Fzb@w\\dW}HlXwe@hOaFxVYrHuHtK}@~QzBpF~Fp|@e_@bf@_D~Qr@vh@zWly@fSt]dShKf@vJ_EdHfEfa@\\ba@d^fFxPhUfYhP`b@ShQpOfU`ObFtTrW|^hOzP`g@pJbr@cAxQoLx]rQl`@`NxJrRfEfb@nc@d|O}fVju@yAvrSsuEhiDelAjOtHrLZtIl]jVdEf^bXd]xBjM~YtQxSjYSnWtOnMZ`K}FdD}Id|AhyXvDbG{ItK}XjCgm@tl@yR~Kae@xMsSjLoPzQeN~[l[bl@lNxs@`b@z\\lCzNhy@dd@rFhqLbiAveJiiExoKal@frEw|DjlF_I~F{Uz@uVuLiMuMkJc[wRkBmLaG}JeUsGek@aH}SgFgHgKW{HnBo[zp@yBkGaIoAc`@lLaImRaIt@gZfZeDfWkJvOcg@vAsIfQc`@`GkLgDsPlD_z@}d@wr@bVkg@dt@yWfDso@{XaNqMoJoUiTiOqJk_@pAya@fMuGxK_Y~Bqe@_DsKc[cRkKiPqHcZsKsNsP}FkBgL~AsL_JkVaOwPuIao@iKK{A{LeHoJwIal@}TiYsGi@wXib@E_PqDuI}PaHoDeNdEaEw@cM}cB}q@oIya@gF{E}KXJyGeG{KmINiOgUwVaOzAkLwW{DkF|AuDsOqOwMmOiCkQl\\eItCuQfViVgAmA{FyJ}EoCyL}l@aQuAyNkW_a@l@iYwNAwIrKqFn@_R{t@kKqMi\\cPiE_JeYyNgAcJjF}g@oE{N{FiHkb@iMcd@agAaMLqEgIoGO[yLkt@iPaDaG\\eOzL}I`@kHcI_QtKuc@pCmk@oLoc@p@gV}GaYhB_XeN}dAoJeJaWio@oOmRkUeKcNcQ{y@iOaMl@wK_MmOiGgEoMw@}h@vNog@tIkO~i@s\\lAa\\uKq^wXwJeBqQcJiIo@aKwJwPaY`FoTaLufAlCmVdJgWz@"
-        }
-      ], 
-      "id": "NC-MCDOWELL", 
-      "title": "NC-MCDOWELL"
     }, 
     {
       "desc": [
