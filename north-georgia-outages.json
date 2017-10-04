@@ -3,7 +3,88 @@
     "CallsLastHour": 0, 
     "CustomerCalls": 0
   }, 
-  "Outages": [], 
+  "Outages": [
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 31, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-10-04T01:28:54-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-10-04-0136", 
+      "OutageName": "F5304520", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.77769894359971, 
+        "X": -85.03908419448395
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.777023121185124, 
+          "X": -85.04167302864761
+        }, 
+        {
+          "Y": 34.77905100992191, 
+          "X": -85.0404470880469
+        }, 
+        {
+          "Y": 34.779153828215755, 
+          "X": -85.03839423816588
+        }, 
+        {
+          "Y": 34.77908285296487, 
+          "X": -85.03805534817613
+        }, 
+        {
+          "Y": 34.778191014874224, 
+          "X": -85.03770725814039
+        }, 
+        {
+          "Y": 34.77677196899851, 
+          "X": -85.03781540290713
+        }, 
+        {
+          "Y": 34.77660202345415, 
+          "X": -85.03820565473775
+        }, 
+        {
+          "Y": 34.77660953360238, 
+          "X": -85.03909917530977
+        }, 
+        {
+          "Y": 34.77680513918046, 
+          "X": -85.04036055622406
+        }
+      ], 
+      "MapLocation": null
+    }
+  ], 
   "Trucks": [], 
-  "Areas": null
+  "Areas": [
+    {
+      "County": "Whitfield", 
+      "Count": 31
+    }
+  ]
 }
