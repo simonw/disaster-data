@@ -268,14 +268,14 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 3, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -287,22 +287,35 @@
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-10-04-0156", 
-      "OutageName": "7224048001", 
+      "OutageName": "T7224048 HWY 225 N", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.79418151689476, 
-        "X": -84.82309674317716
+        "Y": 34.79403588490643, 
+        "X": -84.82339219712529
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.79391793464892, 
+          "X": -84.8239345722646
+        }, 
+        {
+          "Y": 34.79418151689476, 
+          "X": -84.82309674317716
+        }, 
+        {
+          "Y": 34.79400820317559, 
+          "X": -84.82314527593408
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -318,7 +331,7 @@
     }, 
     {
       "County": "Murray", 
-      "Count": 1
+      "Count": 3
     }, 
     {
       "County": "Walker", 
