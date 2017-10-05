@@ -12,7 +12,7 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -31,15 +31,24 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-10-05-0197", 
-      "OutageName": "3104018002", 
+      "OutageName": "T3104018", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.92058150624523, 
-        "X": -85.22514855089102
+        "Y": 34.92055249288997, 
+        "X": -85.22488497953523
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.92058150624523, 
+          "X": -85.22514855089102
+        }, 
+        {
+          "Y": 34.920523479534715, 
+          "X": -85.22462140817944
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -47,7 +56,7 @@
   "Areas": [
     {
       "County": "Catoosa", 
-      "Count": 1
+      "Count": 2
     }
   ]
 }
