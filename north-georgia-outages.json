@@ -50,57 +50,6 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 3, 
-      "CrewResponsible": null, 
-      "CustomerResponsible": null, 
-      "OutagedPhase": null, 
-      "CustomersAffected": null, 
-      "OutageStartTime": "2017-10-05T08:30:45-04:00", 
-      "Dispatcher": null, 
-      "Substation": null, 
-      "UplineElement": null, 
-      "OutageStatus": null, 
-      "EstimatedTime": null, 
-      "Notes": null, 
-      "CrewDispatched": true, 
-      "VerifiedCause": null, 
-      "CostEstimate": null, 
-      "CustomersRestored": 0, 
-      "PriorityCustomers": null, 
-      "CustomersOutInitially": null, 
-      "OutageRecID": "2017-10-05-0200", 
-      "OutageName": "T5223140", 
-      "OutageEndTime": null, 
-      "ClosingDispatcher": null, 
-      "OutageLocation": {
-        "Y": 34.78653943804786, 
-        "X": -85.0430321021219
-      }, 
-      "Feeder": null, 
-      "OutagePolygon": [
-        {
-          "Y": 34.78667972265716, 
-          "X": -85.0432237132424
-        }, 
-        {
-          "Y": 34.78653101186733, 
-          "X": -85.04276326526629
-        }, 
-        {
-          "Y": 34.78640757961908, 
-          "X": -85.043109327857
-        }
-      ], 
-      "MapLocation": null
-    }, 
-    {
-      "Verified": true, 
-      "TroubledElement": null, 
-      "CustomersServed": null, 
-      "Actions": null, 
-      "Status": null, 
-      "District": null, 
-      "SuspectedCause": null, 
       "CustomersOutNow": 1, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
@@ -158,7 +107,7 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-10-05-0203", 
-      "OutageName": "F7611500", 
+      "OutageName": "F7611500 MCDANIEL RD", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
@@ -199,7 +148,7 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
@@ -225,12 +174,50 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-10-05-0205", 
-      "OutageName": "7701062000", 
+      "OutageName": "7701062000 DEWS POND", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
         "Y": 34.49852571804463, 
         "X": -84.88345036842236
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [], 
+      "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 1, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-10-05T09:30:03-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-10-05-0206", 
+      "OutageName": "7706059000", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.49681683003624, 
+        "X": -84.88326853235753
       }, 
       "Feeder": null, 
       "OutagePolygon": [], 
@@ -241,11 +228,11 @@
   "Areas": [
     {
       "County": "Gordon", 
-      "Count": 18
+      "Count": 19
     }, 
     {
       "County": "Whitfield", 
-      "Count": 4
+      "Count": 1
     }
   ]
 }
