@@ -195,14 +195,14 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -221,15 +221,24 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-10-05-0212", 
-      "OutageName": "4710004000", 
+      "OutageName": "T4710004 EVERETT SPRINGS", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.49469730889537, 
-        "X": -85.11325213448009
+        "Y": 34.49493739808589, 
+        "X": -85.11338885579337
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.49517748727641, 
+          "X": -85.11352557710667
+        }, 
+        {
+          "Y": 34.49469730889537, 
+          "X": -85.11325213448009
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -237,7 +246,7 @@
   "Areas": [
     {
       "County": "Floyd", 
-      "Count": 1
+      "Count": 2
     }, 
     {
       "County": "Gordon", 
