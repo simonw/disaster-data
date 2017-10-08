@@ -450,7 +450,7 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 79, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -469,15 +469,52 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-10-08-0381", 
-      "OutageName": "4608019000 Cry Creek", 
+      "OutageName": "REC-4603502", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.56441586715835, 
-        "X": -85.15002503677039
+        "Y": 34.52711098158289, 
+        "X": -85.15720979966657
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.49319149157081, 
+          "X": -85.16860772753508
+        }, 
+        {
+          "Y": 34.510334133769916, 
+          "X": -85.16819960555576
+        }, 
+        {
+          "Y": 34.51293172091074, 
+          "X": -85.16810470081718
+        }, 
+        {
+          "Y": 34.56441586715835, 
+          "X": -85.15002503677039
+        }, 
+        {
+          "Y": 34.557098000383874, 
+          "X": -85.14605235262624
+        }, 
+        {
+          "Y": 34.55553484774887, 
+          "X": -85.1453697966351
+        }, 
+        {
+          "Y": 34.54705932742788, 
+          "X": -85.14237138183442
+        }, 
+        {
+          "Y": 34.50830590445905, 
+          "X": -85.15959504579905
+        }, 
+        {
+          "Y": 34.49512754081646, 
+          "X": -85.16656254942595
+        }
+      ], 
       "MapLocation": null
     }, 
     {
@@ -1477,6 +1514,44 @@
         }
       ], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 1, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-10-08T17:36:02-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-10-08-0408", 
+      "OutageName": "8019087002", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.9511400448252, 
+        "X": -84.73654707589074
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
@@ -1487,7 +1562,7 @@
     }, 
     {
       "County": "Chattooga", 
-      "Count": 43
+      "Count": 121
     }, 
     {
       "County": "Gordon", 
@@ -1495,7 +1570,7 @@
     }, 
     {
       "County": "Murray", 
-      "Count": 110
+      "Count": 111
     }, 
     {
       "County": "Walker", 
