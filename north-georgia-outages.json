@@ -562,7 +562,7 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 528, 
+      "CustomersOutNow": 151, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -577,7 +577,7 @@
       "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
-      "CustomersRestored": 0, 
+      "CustomersRestored": 377, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-10-08-0390", 
@@ -585,8 +585,8 @@
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.94920015485302, 
-        "X": -85.16580944331008
+        "Y": 34.94817564829852, 
+        "X": -85.16664617943199
       }, 
       "Feeder": null, 
       "OutagePolygon": [
@@ -595,44 +595,48 @@
           "X": -85.17904049803914
         }, 
         {
-          "Y": 34.963421500732, 
-          "X": -85.16627433757901
+          "Y": 34.95172954509457, 
+          "X": -85.17344534724016
         }, 
         {
-          "Y": 34.967664211636475, 
-          "X": -85.15870684319731
+          "Y": 34.9528886696503, 
+          "X": -85.17029583193023
         }, 
         {
-          "Y": 34.96743390531654, 
-          "X": -85.15597311208762
+          "Y": 34.9525860849636, 
+          "X": -85.16707201241456
         }, 
         {
-          "Y": 34.9658998094322, 
-          "X": -85.15463372092856
+          "Y": 34.95222768657234, 
+          "X": -85.16332134679101
         }, 
         {
-          "Y": 34.959405812222556, 
-          "X": -85.15641947662792
+          "Y": 34.95024284605214, 
+          "X": -85.16195513446843
         }, 
         {
-          "Y": 34.931621740314334, 
-          "X": -85.16479220911395
+          "Y": 34.9476228816544, 
+          "X": -85.16086873413609
         }, 
         {
-          "Y": 34.930813971794095, 
-          "X": -85.16527079270573
+          "Y": 34.94619601194952, 
+          "X": -85.16201879144266
         }, 
         {
-          "Y": 34.93183572625763, 
-          "X": -85.17110074954785
+          "Y": 34.94521942141586, 
+          "X": -85.16291736116571
         }, 
         {
-          "Y": 34.934219181880096, 
-          "X": -85.17464754103477
+          "Y": 34.94321954037774, 
+          "X": -85.16513688367114
         }, 
         {
-          "Y": 34.9392518084116, 
-          "X": -85.17704459554898
+          "Y": 34.94315175307055, 
+          "X": -85.16657726534457
+        }, 
+        {
+          "Y": 34.94338930339563, 
+          "X": -85.16710494654029
         }
       ], 
       "MapLocation": null
@@ -1436,14 +1440,14 @@
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-10-08-0428", 
-      "OutageName": "7124007000", 
+      "OutageName": "7124007000 - river rd", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
@@ -1491,13 +1495,51 @@
       "Feeder": null, 
       "OutagePolygon": [], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 1, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-10-08T18:56:39-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-10-08-0430", 
+      "OutageName": "3516031000", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.593770266052935, 
+        "X": -85.28129071892884
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
   "Areas": [
     {
       "County": "Catoosa", 
-      "Count": 811
+      "Count": 434
     }, 
     {
       "County": "Chattooga", 
@@ -1513,7 +1555,7 @@
     }, 
     {
       "County": "Walker", 
-      "Count": 173
+      "Count": 174
     }, 
     {
       "County": "Whitfield", 
