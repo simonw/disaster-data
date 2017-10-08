@@ -50,7 +50,7 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 3, 
+      "CustomersOutNow": 149, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -69,26 +69,66 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-10-08-0297", 
-      "OutageName": "F2517501-AGNEW RD TRION", 
+      "OutageName": "REC-2513501", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.59666652048625, 
-        "X": -85.35281328130577
+        "Y": 34.57399287565941, 
+        "X": -85.38199248379465
       }, 
       "Feeder": null, 
       "OutagePolygon": [
         {
-          "Y": 34.59683053461858, 
-          "X": -85.35325794357281
+          "Y": 34.56023838790819, 
+          "X": -85.40884716688272
         }, 
         {
-          "Y": 34.59710213959511, 
-          "X": -85.35314094925671
+          "Y": 34.56079616667154, 
+          "X": -85.40880863523819
         }, 
         {
-          "Y": 34.59606688724506, 
-          "X": -85.3520409510878
+          "Y": 34.565785896704156, 
+          "X": -85.405225696814
+        }, 
+        {
+          "Y": 34.5827503740575, 
+          "X": -85.39207523782595
+        }, 
+        {
+          "Y": 34.584402282822914, 
+          "X": -85.39003565992635
+        }, 
+        {
+          "Y": 34.609331568988175, 
+          "X": -85.35096845092622
+        }, 
+        {
+          "Y": 34.60879038430726, 
+          "X": -85.35026614914888
+        }, 
+        {
+          "Y": 34.59238132150624, 
+          "X": -85.35079392042276
+        }, 
+        {
+          "Y": 34.58498686024912, 
+          "X": -85.35291049461884
+        }, 
+        {
+          "Y": 34.55601989738064, 
+          "X": -85.3787651168269
+        }, 
+        {
+          "Y": 34.552393672407455, 
+          "X": -85.38325312019973
+        }, 
+        {
+          "Y": 34.551796939946215, 
+          "X": -85.38718509172217
+        }, 
+        {
+          "Y": 34.55223363062296, 
+          "X": -85.40676754877772
         }
       ], 
       "MapLocation": null
@@ -172,7 +212,7 @@
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
@@ -243,12 +283,16 @@
   "Trucks": [], 
   "Areas": [
     {
+      "County": "Chattooga", 
+      "Count": 115
+    }, 
+    {
       "County": "Gordon", 
       "Count": 28
     }, 
     {
       "County": "Walker", 
-      "Count": 24
+      "Count": 55
     }, 
     {
       "County": "Whitfield", 
