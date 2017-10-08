@@ -208,12 +208,12 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 4, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
       "CustomersAffected": null, 
-      "OutageStartTime": "2017-10-08T08:06:53-04:00", 
+      "OutageStartTime": "2017-10-08T08:08:12-04:00", 
       "Dispatcher": null, 
       "Substation": null, 
       "UplineElement": null, 
@@ -226,16 +226,29 @@
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
-      "OutageRecID": "2017-10-08-0315", 
-      "OutageName": "5405032007", 
+      "OutageRecID": "2017-10-08-0316", 
+      "OutageName": "T3508004", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.70542334786539, 
-        "X": -85.00437818056535
+        "Y": 34.623764956432, 
+        "X": -85.25480330869657
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.62341598332558, 
+          "X": -85.25526699549934
+        }, 
+        {
+          "Y": 34.62433105516048, 
+          "X": -85.2544635127116
+        }, 
+        {
+          "Y": 34.623547830809926, 
+          "X": -85.25467941787873
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -246,8 +259,12 @@
       "Count": 47
     }, 
     {
+      "County": "Walker", 
+      "Count": 4
+    }, 
+    {
       "County": "Whitfield", 
-      "Count": 1007
+      "Count": 1006
     }
   ]
 }
