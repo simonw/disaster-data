@@ -1356,7 +1356,7 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-10-08-0434", 
-      "OutageName": "F8103508", 
+      "OutageName": "F8103508 - hwy 411", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
@@ -1383,6 +1383,77 @@
         }
       ], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 20, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-10-08T19:38:35-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-10-08-0436", 
+      "OutageName": "REC-8009510", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.9824151373097, 
+        "X": -84.7281898618659
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.98016982565594, 
+          "X": -84.73069572628694
+        }, 
+        {
+          "Y": 34.983675837667846, 
+          "X": -84.73012052548538
+        }, 
+        {
+          "Y": 34.98578006383732, 
+          "X": -84.72974922955477
+        }, 
+        {
+          "Y": 34.987150367339986, 
+          "X": -84.72756797526026
+        }, 
+        {
+          "Y": 34.98133151126058, 
+          "X": -84.72478611389757
+        }, 
+        {
+          "Y": 34.98106780331069, 
+          "X": -84.72479953026304
+        }, 
+        {
+          "Y": 34.98013731457282, 
+          "X": -84.72815757178678
+        }, 
+        {
+          "Y": 34.98000837483244, 
+          "X": -84.72964222239244
+        }
+      ], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
@@ -1401,7 +1472,7 @@
     }, 
     {
       "County": "Murray", 
-      "Count": 110
+      "Count": 129
     }, 
     {
       "County": "Walker", 
@@ -1409,7 +1480,7 @@
     }, 
     {
       "County": "Whitfield", 
-      "Count": 7
+      "Count": 8
     }
   ]
 }
