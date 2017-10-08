@@ -3,7 +3,84 @@
     "CallsLastHour": 0, 
     "CustomerCalls": 0
   }, 
-  "Outages": [], 
+  "Outages": [
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 41, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-10-08T04:32:53-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-10-08-0295", 
+      "OutageName": "REC-3418500", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.66517516467276, 
+        "X": -85.26010282223204
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.66557889094116, 
+          "X": -85.27224068972258
+        }, 
+        {
+          "Y": 34.6696769311924, 
+          "X": -85.26902335023482
+        }, 
+        {
+          "Y": 34.66949871453906, 
+          "X": -85.25938562846564
+        }, 
+        {
+          "Y": 34.66811392447142, 
+          "X": -85.24801656985335
+        }, 
+        {
+          "Y": 34.66749976013967, 
+          "X": -85.24834855406068
+        }, 
+        {
+          "Y": 34.65989031837557, 
+          "X": -85.25350492276344
+        }, 
+        {
+          "Y": 34.66039075898048, 
+          "X": -85.26464198522893
+        }, 
+        {
+          "Y": 34.660752018742286, 
+          "X": -85.26566087752691
+        }
+      ], 
+      "MapLocation": null
+    }
+  ], 
   "Trucks": [], 
-  "Areas": null
+  "Areas": [
+    {
+      "County": "Walker", 
+      "Count": 41
+    }
+  ]
 }
