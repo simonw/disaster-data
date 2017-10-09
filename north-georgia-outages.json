@@ -183,7 +183,7 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-10-09-0522", 
-      "OutageName": "F5722517", 
+      "OutageName": "F5722517- ROLAND HAYES PKWAY", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
@@ -215,7 +215,7 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -234,15 +234,24 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-10-09-0523", 
-      "OutageName": "3207012001", 
+      "OutageName": "T3207012", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.82775627773465, 
-        "X": -85.27774000595035
+        "Y": 34.82785425725961, 
+        "X": -85.27779905332048
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.82795223678457, 
+          "X": -85.27785810069061
+        }, 
+        {
+          "Y": 34.82775627773465, 
+          "X": -85.27774000595035
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -262,7 +271,7 @@
     }, 
     {
       "County": "Walker", 
-      "Count": 2
+      "Count": 3
     }, 
     {
       "County": "Whitfield", 
