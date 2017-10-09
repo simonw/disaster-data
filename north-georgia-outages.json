@@ -621,7 +621,7 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 7, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -640,15 +640,32 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-10-08-0440", 
-      "OutageName": "4012184000-OLD THREE NOTCH FT O", 
+      "OutageName": "F4012515", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.95286137431836, 
-        "X": -85.1654648079976
+        "Y": 34.95350907815794, 
+        "X": -85.165299611123
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.95363024907223, 
+          "X": -85.16659215109556
+        }, 
+        {
+          "Y": 34.95469388065951, 
+          "X": -85.1650778931037
+        }, 
+        {
+          "Y": 34.95285080858167, 
+          "X": -85.16406359229515
+        }, 
+        {
+          "Y": 34.95286137431836, 
+          "X": -85.1654648079976
+        }
+      ], 
       "MapLocation": null
     }, 
     {
@@ -914,13 +931,51 @@
         }
       ], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 1, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-10-08T22:11:52-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-10-08-0455", 
+      "OutageName": "4012086000", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.95776405669986, 
+        "X": -85.16383660232887
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
   "Areas": [
     {
       "County": "Catoosa", 
-      "Count": 1549
+      "Count": 1556
     }, 
     {
       "County": "Gordon", 
