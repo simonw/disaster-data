@@ -321,14 +321,14 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 4, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -340,22 +340,35 @@
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-10-09-0475", 
-      "OutageName": "4012048001", 
+      "OutageName": "T4012048", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.960274725339744, 
-        "X": -85.16563573888413
+        "Y": 34.96005402701521, 
+        "X": -85.16537471469915
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.960274725339744, 
+          "X": -85.16563573888413
+        }, 
+        {
+          "Y": 34.9598812748304, 
+          "X": -85.16512230164209
+        }, 
+        {
+          "Y": 34.96000608087547, 
+          "X": -85.16536610357123
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -363,7 +376,7 @@
   "Areas": [
     {
       "County": "Catoosa", 
-      "Count": 1
+      "Count": 4
     }, 
     {
       "County": "Gordon", 
