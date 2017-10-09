@@ -41,6 +41,77 @@
       "Feeder": null, 
       "OutagePolygon": [], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 21, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-10-09T18:53:34-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-10-09-0532", 
+      "OutageName": "F2303500", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.781835304204705, 
+        "X": -85.3517282056758
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.77993767911188, 
+          "X": -85.35537806525036
+        }, 
+        {
+          "Y": 34.78204034855853, 
+          "X": -85.35499828433049
+        }, 
+        {
+          "Y": 34.78263615296636, 
+          "X": -85.35477982630547
+        }, 
+        {
+          "Y": 34.784611206508, 
+          "X": -85.3531165859921
+        }, 
+        {
+          "Y": 34.783995912115365, 
+          "X": -85.34825862934616
+        }, 
+        {
+          "Y": 34.781984332026155, 
+          "X": -85.34756611953078
+        }, 
+        {
+          "Y": 34.7806322172262, 
+          "X": -85.34760855933044
+        }, 
+        {
+          "Y": 34.77884458512514, 
+          "X": -85.35211957532053
+        }
+      ], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
@@ -48,6 +119,10 @@
     {
       "County": "Murray", 
       "Count": 1
+    }, 
+    {
+      "County": "Walker", 
+      "Count": 21
     }
   ]
 }
