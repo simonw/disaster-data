@@ -63,34 +63,51 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 5, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
       "CustomersAffected": null, 
-      "OutageStartTime": "2017-10-10T09:10:20-04:00", 
+      "OutageStartTime": "2017-10-10T09:14:26-04:00", 
       "Dispatcher": null, 
       "Substation": null, 
       "UplineElement": null, 
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
-      "OutageRecID": "2017-10-10-0541", 
-      "OutageName": "3123023000", 
+      "OutageRecID": "2017-10-10-0542", 
+      "OutageName": "F3118519", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.86701753608756, 
-        "X": -85.25557358914752
+        "Y": 34.86874234570986, 
+        "X": -85.25518815732957
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.869189063010985, 
+          "X": -85.25575400238989
+        }, 
+        {
+          "Y": 34.869229416973106, 
+          "X": -85.25438170385337
+        }, 
+        {
+          "Y": 34.86850046390602, 
+          "X": -85.25497810176107
+        }, 
+        {
+          "Y": 34.86805043894935, 
+          "X": -85.25563882131392
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -98,7 +115,7 @@
   "Areas": [
     {
       "County": "Catoosa", 
-      "Count": 1
+      "Count": 5
     }, 
     {
       "County": "Whitfield", 
