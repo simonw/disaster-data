@@ -153,7 +153,7 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
@@ -165,7 +165,7 @@
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
       "CustomersAffected": null, 
-      "OutageStartTime": "2017-10-10T13:13:40-04:00", 
+      "OutageStartTime": "2017-10-10T13:14:49-04:00", 
       "Dispatcher": null, 
       "Substation": null, 
       "UplineElement": null, 
@@ -178,7 +178,7 @@
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
-      "OutageRecID": "2017-10-10-0571", 
+      "OutageRecID": "2017-10-10-0572", 
       "OutageName": "3019218009", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
@@ -189,6 +189,57 @@
       "Feeder": null, 
       "OutagePolygon": [], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 3, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-10-10T13:15:33-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": true, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-10-10-0573", 
+      "OutageName": "T4112063", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.88632651813605, 
+        "X": -85.1641945828236
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.8864161446899, 
+          "X": -85.16452392805928
+        }, 
+        {
+          "Y": 34.88650726330381, 
+          "X": -85.16405162003038
+        }, 
+        {
+          "Y": 34.88605614641445, 
+          "X": -85.16400820038115
+        }
+      ], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
@@ -196,6 +247,10 @@
     {
       "County": null, 
       "Count": 1
+    }, 
+    {
+      "County": "Catoosa", 
+      "Count": 3
     }, 
     {
       "County": "Gordon", 
