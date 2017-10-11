@@ -69,6 +69,10 @@
     "outageDevices": [
       {
         "latitude": "35.36463", 
+        "longitude": "-119.00394"
+      }, 
+      {
+        "latitude": "35.36463", 
         "longitude": "-119.00364"
       }, 
       {
@@ -78,17 +82,14 @@
       {
         "latitude": "35.36497", 
         "longitude": "-119.00419"
-      }, 
-      {
-        "latitude": "35.36463", 
-        "longitude": "-119.00394"
       }
     ], 
     "hazardFlag": "1", 
-    "lastUpdateTime": "1507707054", 
-    "estCustAffected": "42", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
     "longitude": "-119.00284", 
+    "lastUpdateTime": "1507709157", 
+    "estCustAffected": "42", 
+    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewEta": "1507711860", 
     "latitude": "35.36436", 
     "outageStartTime": "1507706340", 
     "cause": "Unknown - PG&E will be assessing the cause.", 
@@ -2096,13 +2097,13 @@
   }, 
   {
     "hazardFlag": "4", 
-    "lastUpdateTime": "1507706789", 
+    "lastUpdateTime": "1507709031", 
     "estCustAffected": "10", 
     "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "longitude": "-122.6544", 
     "latitude": "38.24117", 
     "outageStartTime": "1507594299", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1896933", 
     "regionName": "Petaluma"
   }, 
@@ -2401,21 +2402,6 @@
     "cause": "Unknown - PG&E will be assessing the cause.", 
     "outageNumber": "1898049", 
     "regionName": "San Francisco"
-  }, 
-  {
-    "currentEtor": "1507716000", 
-    "hazardFlag": "1", 
-    "longitude": "-122.03441", 
-    "lastUpdateTime": "1507706079", 
-    "autoEtor": "1507716000", 
-    "crewEta": "1507706760", 
-    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "estCustAffected": "1", 
-    "latitude": "36.95224", 
-    "outageStartTime": "1507703044", 
-    "cause": "Unknown - PG&E is investigating the cause.", 
-    "outageNumber": "1898046", 
-    "regionName": "Santa Cruz"
   }, 
   {
     "hazardFlag": "0", 
@@ -2782,6 +2768,45 @@
   {
     "outageDevices": [
       {
+        "latitude": "38.46748", 
+        "longitude": "-122.72901"
+      }, 
+      {
+        "latitude": "38.47176", 
+        "longitude": "-122.73023"
+      }, 
+      {
+        "latitude": "38.47301", 
+        "longitude": "-122.73108"
+      }, 
+      {
+        "latitude": "38.47451", 
+        "longitude": "-122.73222"
+      }, 
+      {
+        "latitude": "38.47617", 
+        "longitude": "-122.73364"
+      }, 
+      {
+        "latitude": "38.47191", 
+        "longitude": "-122.73766"
+      }
+    ], 
+    "hazardFlag": "1", 
+    "longitude": "-122.73775", 
+    "lastUpdateTime": "1507651049", 
+    "estCustAffected": "199", 
+    "crewCurrentStatus": "PG&E repair crew is en route to the outage location.", 
+    "crewEta": "1507654800", 
+    "latitude": "38.47208", 
+    "outageStartTime": "1507547580", 
+    "cause": "Found a broken power pole in the area", 
+    "outageNumber": "1895645", 
+    "regionName": "Santa Rosa"
+  }, 
+  {
+    "outageDevices": [
+      {
         "latitude": "38.42765", 
         "longitude": "-122.58196"
       }, 
@@ -2835,45 +2860,6 @@
     "outageStartTime": "1507527240", 
     "cause": "Fire in the area.", 
     "outageNumber": "1894119", 
-    "regionName": "Santa Rosa"
-  }, 
-  {
-    "outageDevices": [
-      {
-        "latitude": "38.46748", 
-        "longitude": "-122.72901"
-      }, 
-      {
-        "latitude": "38.47176", 
-        "longitude": "-122.73023"
-      }, 
-      {
-        "latitude": "38.47301", 
-        "longitude": "-122.73108"
-      }, 
-      {
-        "latitude": "38.47451", 
-        "longitude": "-122.73222"
-      }, 
-      {
-        "latitude": "38.47617", 
-        "longitude": "-122.73364"
-      }, 
-      {
-        "latitude": "38.47191", 
-        "longitude": "-122.73766"
-      }
-    ], 
-    "hazardFlag": "1", 
-    "longitude": "-122.73775", 
-    "lastUpdateTime": "1507651049", 
-    "estCustAffected": "199", 
-    "crewCurrentStatus": "PG&E repair crew is en route to the outage location.", 
-    "crewEta": "1507654800", 
-    "latitude": "38.47208", 
-    "outageStartTime": "1507547580", 
-    "cause": "Found a broken power pole in the area", 
-    "outageNumber": "1895645", 
     "regionName": "Santa Rosa"
   }, 
   {
@@ -3399,6 +3385,20 @@
     "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1895878", 
     "regionName": "Sonoma"
+  }, 
+  {
+    "currentEtor": "1507719600", 
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1507709200", 
+    "autoEtor": "1507719600", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-122.40307", 
+    "latitude": "37.66369", 
+    "outageStartTime": "1507708981", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1898064", 
+    "regionName": "South San Francisco"
   }, 
   {
     "hazardFlag": "0", 
