@@ -67,10 +67,11 @@
   }, 
   {
     "hazardFlag": "0", 
+    "longitude": "-119.07197", 
     "lastUpdateTime": "1507689890", 
     "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
-    "longitude": "-119.07197", 
+    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewEta": "1507698120", 
     "latitude": "35.32989", 
     "outageStartTime": "1507678635", 
     "cause": "Unknown - PG&E will be assessing the cause.", 
@@ -480,7 +481,7 @@
   }, 
   {
     "hazardFlag": "0", 
-    "lastUpdateTime": "1507657150", 
+    "lastUpdateTime": "1507696534", 
     "estCustAffected": "14", 
     "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
     "longitude": "-122.57373", 
@@ -544,9 +545,9 @@
     ], 
     "hazardFlag": "0", 
     "longitude": "-122.59787", 
-    "lastUpdateTime": "1507696127", 
+    "lastUpdateTime": "1507696428", 
     "crewEta": "1507698900", 
-    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "estCustAffected": "382", 
     "latitude": "38.58033", 
     "outageStartTime": "1507546200", 
@@ -1523,7 +1524,7 @@
   }, 
   {
     "hazardFlag": "0", 
-    "lastUpdateTime": "1507682545", 
+    "lastUpdateTime": "1507696418", 
     "estCustAffected": "1", 
     "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
     "longitude": "-122.31152", 
@@ -1741,6 +1742,18 @@
     "outageStartTime": "1507671900", 
     "cause": "Unknown - PG&E will be assessing the cause.", 
     "outageNumber": "1897722", 
+    "regionName": "Napa"
+  }, 
+  {
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1507696460", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-122.32053", 
+    "latitude": "38.32442", 
+    "outageStartTime": "1507696440", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1898018", 
     "regionName": "Napa"
   }, 
   {
@@ -2044,18 +2057,6 @@
     "regionName": "Napa"
   }, 
   {
-    "hazardFlag": "0", 
-    "lastUpdateTime": "1507692552", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
-    "longitude": "-122.18974", 
-    "latitude": "37.75496", 
-    "outageStartTime": "1507692547", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
-    "outageNumber": "1897998", 
-    "regionName": "Oakland"
-  }, 
-  {
     "currentEtor": "1507702620", 
     "hazardFlag": "2", 
     "longitude": "-122.17725", 
@@ -2108,9 +2109,9 @@
     "regionName": "Pacifica"
   }, 
   {
-    "currentEtor": "1507698000", 
+    "currentEtor": "1507721580", 
     "hazardFlag": "1", 
-    "lastUpdateTime": "1507664386", 
+    "lastUpdateTime": "1507696394", 
     "estCustAffected": "27", 
     "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
     "longitude": "-122.47974", 
@@ -2456,6 +2457,18 @@
   }, 
   {
     "hazardFlag": "0", 
+    "lastUpdateTime": "1507696618", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-122.42201", 
+    "latitude": "37.72744", 
+    "outageStartTime": "1507696560", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1898019", 
+    "regionName": "San Francisco"
+  }, 
+  {
+    "hazardFlag": "0", 
     "lastUpdateTime": "1507542337", 
     "estCustAffected": "29", 
     "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
@@ -2714,6 +2727,10 @@
     "outageDevices": [
       {
         "latitude": "38.42228", 
+        "longitude": "-122.59967"
+      }, 
+      {
+        "latitude": "38.42228", 
         "longitude": "-122.59798"
       }, 
       {
@@ -2763,10 +2780,6 @@
       {
         "latitude": "38.46217", 
         "longitude": "-122.65168"
-      }, 
-      {
-        "latitude": "38.42228", 
-        "longitude": "-122.59967"
       }
     ], 
     "hazardFlag": "1", 
