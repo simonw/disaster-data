@@ -5,49 +5,58 @@
   }, 
   "Outages": [
     {
-      "Verified": true, 
+      "Verified": false, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
       "CustomersAffected": null, 
-      "OutageStartTime": "2017-10-12T08:52:54-04:00", 
+      "OutageStartTime": "2017-10-12T09:37:49-04:00", 
       "Dispatcher": null, 
       "Substation": null, 
       "UplineElement": null, 
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": true, 
+      "CrewDispatched": false, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
-      "OutageRecID": "2017-10-12-0648", 
-      "OutageName": "8202091001", 
+      "OutageRecID": "2017-10-12-0650", 
+      "OutageName": "F6724513", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.84931804274096, 
-        "X": -84.76129873516712
+        "Y": 34.451742709748785, 
+        "X": -84.93445137651396
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.4515261917641, 
+          "X": -84.93478853995735
+        }, 
+        {
+          "Y": 34.45195922773347, 
+          "X": -84.93411421307057
+        }
+      ], 
       "MapLocation": null
     }
   ], 
   "Trucks": [], 
   "Areas": [
     {
-      "County": "Murray", 
-      "Count": 1
+      "County": "Gordon", 
+      "Count": 2
     }
   ]
 }
