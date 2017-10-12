@@ -370,50 +370,63 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 7, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
       "CustomersAffected": null, 
-      "OutageStartTime": "2017-10-12T10:52:20-04:00", 
+      "OutageStartTime": "2017-10-12T10:57:11-04:00", 
       "Dispatcher": null, 
       "Substation": null, 
       "UplineElement": null, 
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
-      "OutageRecID": "2017-10-12-0660", 
-      "OutageName": "6617067001", 
+      "OutageRecID": "2017-10-12-0661", 
+      "OutageName": "F8203504", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.5263812392506, 
-        "X": -84.96766343165191
+        "Y": 34.8466576056387, 
+        "X": -84.75997898789707
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.845777263288134, 
+          "X": -84.76009182655568
+        }, 
+        {
+          "Y": 34.84745001400095, 
+          "X": -84.76006489944473
+        }, 
+        {
+          "Y": 34.84810958842399, 
+          "X": -84.76000803691895
+        }, 
+        {
+          "Y": 34.84529355684171, 
+          "X": -84.75975118866893
+        }
+      ], 
       "MapLocation": null
     }
   ], 
   "Trucks": [], 
   "Areas": [
-    {
-      "County": null, 
-      "Count": 1
-    }, 
     {
       "County": "Chattooga", 
       "Count": 2
@@ -424,7 +437,7 @@
     }, 
     {
       "County": "Murray", 
-      "Count": 1
+      "Count": 8
     }, 
     {
       "County": "Walker", 
