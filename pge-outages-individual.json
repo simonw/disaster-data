@@ -1870,11 +1870,12 @@
   {
     "currentEtor": "1507915800", 
     "hazardFlag": "1", 
-    "lastUpdateTime": "1507904400", 
-    "autoEtor": "1507915800", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
     "longitude": "-121.9368", 
+    "lastUpdateTime": "1507904528", 
+    "autoEtor": "1507915800", 
+    "crewEta": "1507908120", 
+    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "estCustAffected": "1", 
     "latitude": "36.60184", 
     "outageStartTime": "1507904395", 
     "cause": "Unknown - PG&E will be assessing the cause.", 
@@ -1968,20 +1969,6 @@
     "cause": "Unknown - PG&E will be assessing the cause.", 
     "outageNumber": "1899676", 
     "regionName": "Redwood Valley"
-  }, 
-  {
-    "currentEtor": "1507917600", 
-    "hazardFlag": "0", 
-    "lastUpdateTime": "1507904400", 
-    "autoEtor": "1507917600", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
-    "longitude": "-122.44496", 
-    "latitude": "37.62874", 
-    "outageStartTime": "1507904340", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
-    "outageNumber": "1899800", 
-    "regionName": "San Bruno"
   }, 
   {
     "hazardFlag": "0", 
@@ -2242,6 +2229,10 @@
     "outageDevices": [
       {
         "latitude": "38.42228", 
+        "longitude": "-122.59967"
+      }, 
+      {
+        "latitude": "38.42228", 
         "longitude": "-122.59798"
       }, 
       {
@@ -2287,14 +2278,10 @@
       {
         "latitude": "38.43775", 
         "longitude": "-122.61261"
-      }, 
-      {
-        "latitude": "38.42228", 
-        "longitude": "-122.59967"
       }
     ], 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1507873258", 
+    "lastUpdateTime": "1507904508", 
     "estCustAffected": "1551", 
     "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
     "longitude": "-122.58779", 
@@ -2517,18 +2504,6 @@
     "regionName": "Santa Rosa"
   }, 
   {
-    "hazardFlag": "0", 
-    "lastUpdateTime": "1507870367", 
-    "estCustAffected": "16", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
-    "longitude": "-122.75536", 
-    "latitude": "38.47998", 
-    "outageStartTime": "1507870012", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
-    "outageNumber": "1899730", 
-    "regionName": "Santa Rosa"
-  }, 
-  {
     "outageDevices": [
       {
         "latitude": "38.46748", 
@@ -2722,13 +2697,13 @@
       }
     ], 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1507872899", 
+    "lastUpdateTime": "1507904718", 
     "estCustAffected": "232", 
-    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "longitude": "-122.6337", 
     "latitude": "38.45873", 
     "outageStartTime": "1507542321", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1899615", 
     "regionName": "Santa Rosa"
   }, 
@@ -3187,20 +3162,5 @@
     "cause": "Field personnel have found a downed power line.", 
     "outageNumber": "1895878", 
     "regionName": "Sonoma"
-  }, 
-  {
-    "currentEtor": "1507913100", 
-    "hazardFlag": "1", 
-    "longitude": "-121.95242", 
-    "lastUpdateTime": "1507903207", 
-    "autoEtor": "1507913100", 
-    "crewEta": "1507904460", 
-    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "estCustAffected": "1", 
-    "latitude": "38.3663", 
-    "outageStartTime": "1507901498", 
-    "cause": "Unknown - PG&E is investigating the cause.", 
-    "outageNumber": "1899790", 
-    "regionName": "Vacaville"
   }
 ]
