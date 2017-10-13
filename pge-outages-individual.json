@@ -16,15 +16,29 @@
       }
     ], 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1507907172", 
+    "lastUpdateTime": "1507907230", 
     "estCustAffected": "39", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
     "longitude": "-121.76494", 
     "latitude": "36.95214", 
     "outageStartTime": "1507907118", 
     "cause": "Planned maintenance in the area.", 
     "outageNumber": "1899813", 
     "regionName": "Amesti"
+  }, 
+  {
+    "currentEtor": "1507920300", 
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1507907381", 
+    "autoEtor": "1507920300", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-120.11339", 
+    "latitude": "34.63692", 
+    "outageStartTime": "1507907380", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1899817", 
+    "regionName": "Ballard"
   }, 
   {
     "currentEtor": "1507960800", 
@@ -393,7 +407,7 @@
   {
     "currentEtor": "1507915800", 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1507906922", 
+    "lastUpdateTime": "1507907311", 
     "autoEtor": "1507915800", 
     "estCustAffected": "1", 
     "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
@@ -491,15 +505,15 @@
     "outageDevices": [
       {
         "latitude": "35.29882", 
-        "longitude": "-118.91365"
-      }, 
-      {
-        "latitude": "35.29882", 
         "longitude": "-118.91301"
       }, 
       {
         "latitude": "35.29944", 
         "longitude": "-118.91322"
+      }, 
+      {
+        "latitude": "35.29882", 
+        "longitude": "-118.91365"
       }
     ], 
     "hazardFlag": "0", 
@@ -1076,10 +1090,10 @@
       }
     ], 
     "hazardFlag": "3", 
-    "lastUpdateTime": "1507904379", 
+    "lastUpdateTime": "1507907360", 
     "autoEtor": "1507910400", 
     "estCustAffected": "9", 
-    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
+    "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
     "longitude": "-121.07278", 
     "latitude": "38.02647", 
     "outageStartTime": "1507898008", 
@@ -2078,18 +2092,6 @@
   }, 
   {
     "hazardFlag": "0", 
-    "lastUpdateTime": "1507743714", 
-    "estCustAffected": "19", 
-    "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
-    "longitude": "-122.70178", 
-    "latitude": "38.46463", 
-    "outageStartTime": "1507525162", 
-    "cause": "There is a transformer overload.", 
-    "outageNumber": "1894002", 
-    "regionName": "Santa Rosa"
-  }, 
-  {
-    "hazardFlag": "0", 
     "lastUpdateTime": "1507747007", 
     "estCustAffected": "18", 
     "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
@@ -2098,6 +2100,18 @@
     "outageStartTime": "1507537718", 
     "cause": "Unknown - PG&E will be assessing the cause.", 
     "outageNumber": "1898275", 
+    "regionName": "Santa Rosa"
+  }, 
+  {
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1507743714", 
+    "estCustAffected": "19", 
+    "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
+    "longitude": "-122.70178", 
+    "latitude": "38.46463", 
+    "outageStartTime": "1507525162", 
+    "cause": "There is a transformer overload.", 
+    "outageNumber": "1894002", 
     "regionName": "Santa Rosa"
   }, 
   {
@@ -2183,6 +2197,18 @@
     "regionName": "Santa Rosa"
   }, 
   {
+    "hazardFlag": "1", 
+    "lastUpdateTime": "1507754174", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
+    "longitude": "-122.7513", 
+    "latitude": "38.44558", 
+    "outageStartTime": "1507736400", 
+    "cause": "Found damaged equipment on a power pole.", 
+    "outageNumber": "1898205", 
+    "regionName": "Santa Rosa"
+  }, 
+  {
     "hazardFlag": "0", 
     "lastUpdateTime": "1507821765", 
     "estCustAffected": "1", 
@@ -2221,23 +2247,7 @@
     "regionName": "Santa Rosa"
   }, 
   {
-    "hazardFlag": "1", 
-    "lastUpdateTime": "1507754174", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
-    "longitude": "-122.7513", 
-    "latitude": "38.44558", 
-    "outageStartTime": "1507736400", 
-    "cause": "Found damaged equipment on a power pole.", 
-    "outageNumber": "1898205", 
-    "regionName": "Santa Rosa"
-  }, 
-  {
     "outageDevices": [
-      {
-        "latitude": "38.42228", 
-        "longitude": "-122.59967"
-      }, 
       {
         "latitude": "38.42228", 
         "longitude": "-122.59798"
@@ -2285,6 +2295,10 @@
       {
         "latitude": "38.43775", 
         "longitude": "-122.61261"
+      }, 
+      {
+        "latitude": "38.42228", 
+        "longitude": "-122.59967"
       }
     ], 
     "hazardFlag": "0", 
@@ -3146,5 +3160,19 @@
     "cause": "Field personnel have found a downed power line.", 
     "outageNumber": "1895878", 
     "regionName": "Sonoma"
+  }, 
+  {
+    "currentEtor": "1507919400", 
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1507907361", 
+    "autoEtor": "1507919400", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-120.71832", 
+    "latitude": "35.55372", 
+    "outageStartTime": "1507907220", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1899814", 
+    "regionName": "Templeton"
   }
 ]
