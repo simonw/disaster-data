@@ -26,13 +26,13 @@
   }, 
   {
     "hazardFlag": "0", 
-    "lastUpdateTime": "1507883829", 
+    "lastUpdateTime": "1507887589", 
     "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "longitude": "-119.14771", 
     "latitude": "35.41035", 
     "outageStartTime": "1507883100", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1899756", 
     "regionName": "Bakersfield"
   }, 
@@ -1968,12 +1968,12 @@
       }
     ], 
     "hazardFlag": "1", 
-    "lastUpdateTime": "1507887367", 
+    "lastUpdateTime": "1507887621", 
     "estCustAffected": "744", 
     "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
     "longitude": "-122.24154", 
     "latitude": "40.18268", 
-    "outageStartTime": "1507886820", 
+    "outageStartTime": "1507886580", 
     "cause": "Unknown - PG&E will be assessing the cause.", 
     "outageNumber": "1899771", 
     "regionName": "Red Bluff"
@@ -2117,18 +2117,6 @@
   }, 
   {
     "hazardFlag": "0", 
-    "lastUpdateTime": "1507747007", 
-    "estCustAffected": "18", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
-    "longitude": "-122.74709", 
-    "latitude": "38.48277", 
-    "outageStartTime": "1507537718", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
-    "outageNumber": "1898275", 
-    "regionName": "Santa Rosa"
-  }, 
-  {
-    "hazardFlag": "0", 
     "lastUpdateTime": "1507743714", 
     "estCustAffected": "19", 
     "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
@@ -2137,6 +2125,18 @@
     "outageStartTime": "1507525162", 
     "cause": "There is a transformer overload.", 
     "outageNumber": "1894002", 
+    "regionName": "Santa Rosa"
+  }, 
+  {
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1507747007", 
+    "estCustAffected": "18", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-122.74709", 
+    "latitude": "38.48277", 
+    "outageStartTime": "1507537718", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1898275", 
     "regionName": "Santa Rosa"
   }, 
   {
@@ -2275,6 +2275,10 @@
     "outageDevices": [
       {
         "latitude": "38.42228", 
+        "longitude": "-122.59967"
+      }, 
+      {
+        "latitude": "38.42228", 
         "longitude": "-122.59798"
       }, 
       {
@@ -2320,10 +2324,6 @@
       {
         "latitude": "38.43775", 
         "longitude": "-122.61261"
-      }, 
-      {
-        "latitude": "38.42228", 
-        "longitude": "-122.59967"
       }
     ], 
     "hazardFlag": "0", 
