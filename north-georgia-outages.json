@@ -5,14 +5,14 @@
   }, 
   "Outages": [
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 2, 
+      "CustomersOutNow": 1, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -30,25 +30,54 @@
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
-      "OutageRecID": "2017-10-13-0717", 
-      "OutageName": "T5222001", 
+      "OutageRecID": "2017-10-14-0721", 
+      "OutageName": "SC-226375", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.79580351756239, 
-        "X": -85.077136769897
+        "Y": 34.796165844732556, 
+        "X": -85.07724035065392
       }, 
       "Feeder": null, 
-      "OutagePolygon": [
-        {
-          "Y": 34.796165844732556, 
-          "X": -85.07724035065392
-        }, 
-        {
-          "Y": 34.79544119039222, 
-          "X": -85.07703318914007
-        }
-      ], 
+      "OutagePolygon": [], 
+      "MapLocation": null
+    }, 
+    {
+      "Verified": true, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 1, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-10-14T00:17:51-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": true, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-10-14-0722", 
+      "OutageName": "5222001001", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.79544119039222, 
+        "X": -85.07703318914007
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [], 
       "MapLocation": null
     }
   ], 
