@@ -13,6 +13,18 @@
     "regionName": "Arroyo Grande"
   }, 
   {
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1507971593", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-119.25698", 
+    "latitude": "35.36796", 
+    "outageStartTime": "1507971585", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1900519", 
+    "regionName": "Bakersfield"
+  }, 
+  {
     "currentEtor": "1507981500", 
     "hazardFlag": "1", 
     "lastUpdateTime": "1507967051", 
@@ -827,18 +839,6 @@
     "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1900510", 
     "regionName": "Castro Valley"
-  }, 
-  {
-    "hazardFlag": "0", 
-    "lastUpdateTime": "1507971234", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
-    "longitude": "-121.52756", 
-    "latitude": "39.64667", 
-    "outageStartTime": "1507971060", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
-    "outageNumber": "1900518", 
-    "regionName": "Cherokee"
   }, 
   {
     "currentEtor": "1508007600", 
@@ -4620,9 +4620,9 @@
         "longitude": "-121.04929"
       }
     ], 
-    "hazardFlag": "2", 
+    "hazardFlag": "3", 
     "longitude": "-121.02639", 
-    "lastUpdateTime": "1507971199", 
+    "lastUpdateTime": "1507971479", 
     "autoEtor": "1507979700", 
     "crewEta": "1507971960", 
     "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
@@ -5415,7 +5415,7 @@
   }, 
   {
     "hazardFlag": "0", 
-    "lastUpdateTime": "1507760221", 
+    "lastUpdateTime": "1507971706", 
     "estCustAffected": "3", 
     "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
     "longitude": "-122.44974", 
@@ -5423,6 +5423,40 @@
     "outageStartTime": "1507525020", 
     "cause": "Fire in the area.", 
     "outageNumber": "1897493", 
+    "regionName": "Saint Helena"
+  }, 
+  {
+    "outageDevices": [
+      {
+        "latitude": "38.46351", 
+        "longitude": "-122.48346"
+      }, 
+      {
+        "latitude": "38.46401", 
+        "longitude": "-122.46277"
+      }, 
+      {
+        "latitude": "38.46631", 
+        "longitude": "-122.46383"
+      }, 
+      {
+        "latitude": "38.47155", 
+        "longitude": "-122.47268"
+      }, 
+      {
+        "latitude": "38.46937", 
+        "longitude": "-122.48435"
+      }
+    ], 
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1507971706", 
+    "estCustAffected": "11", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-122.46242", 
+    "latitude": "38.46391", 
+    "outageStartTime": "1507971600", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1900520", 
     "regionName": "Saint Helena"
   }, 
   {
@@ -6615,6 +6649,10 @@
     "outageDevices": [
       {
         "latitude": "38.48226", 
+        "longitude": "-122.62381"
+      }, 
+      {
+        "latitude": "38.48226", 
         "longitude": "-122.62174"
       }, 
       {
@@ -6672,10 +6710,6 @@
       {
         "latitude": "38.4823", 
         "longitude": "-122.63448"
-      }, 
-      {
-        "latitude": "38.48226", 
-        "longitude": "-122.62381"
       }
     ], 
     "hazardFlag": "1", 
