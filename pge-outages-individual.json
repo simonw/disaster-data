@@ -56,7 +56,7 @@
       }
     ], 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508096277", 
+    "lastUpdateTime": "1508096878", 
     "estCustAffected": "112", 
     "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
     "longitude": "-122.08993", 
@@ -149,7 +149,7 @@
   }, 
   {
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508087838", 
+    "lastUpdateTime": "1508096931", 
     "estCustAffected": "1", 
     "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
     "longitude": "-122.51846", 
@@ -755,21 +755,6 @@
     "cause": "Found a broken power pole in the area", 
     "outageNumber": "1897768", 
     "regionName": "Cloverdale"
-  }, 
-  {
-    "currentEtor": "1508097600", 
-    "hazardFlag": "0", 
-    "longitude": "-120.05568", 
-    "lastUpdateTime": "1508089047", 
-    "autoEtor": "1508097600", 
-    "crewEta": "1508091660", 
-    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "estCustAffected": "1", 
-    "latitude": "38.15371", 
-    "outageStartTime": "1508085337", 
-    "cause": "Unknown - PG&E is investigating the cause.", 
-    "outageNumber": "1901220", 
-    "regionName": "Cold Springs-Tuolumne"
   }, 
   {
     "currentEtor": "1508106600", 
@@ -1449,7 +1434,7 @@
       }
     ], 
     "hazardFlag": "7", 
-    "lastUpdateTime": "1508095174", 
+    "lastUpdateTime": "1508096818", 
     "estCustAffected": "1754", 
     "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
     "longitude": "-122.5163", 
@@ -3001,6 +2986,20 @@
     "regionName": "Larkfield-Wikiup"
   }, 
   {
+    "currentEtor": "1508103000", 
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1508097027", 
+    "autoEtor": "1508103000", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-121.40989", 
+    "latitude": "39.30547", 
+    "outageStartTime": "1508097018", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1901345", 
+    "regionName": "Loma Rica"
+  }, 
+  {
     "currentEtor": "1508098500", 
     "hazardFlag": "0", 
     "lastUpdateTime": "1508092295", 
@@ -3079,9 +3078,9 @@
   {
     "currentEtor": "1508103720", 
     "hazardFlag": "1", 
-    "lastUpdateTime": "1508096579", 
+    "lastUpdateTime": "1508096822", 
     "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
     "longitude": "-121.02412", 
     "latitude": "38.99486", 
     "outageStartTime": "1508088013", 
@@ -3799,7 +3798,7 @@
     ], 
     "hazardFlag": "1", 
     "longitude": "-122.29915", 
-    "lastUpdateTime": "1508094682", 
+    "lastUpdateTime": "1508097005", 
     "crewEta": "1508019000", 
     "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
     "estCustAffected": "375", 
@@ -4532,10 +4531,11 @@
   }, 
   {
     "hazardFlag": "1", 
-    "lastUpdateTime": "1508095673", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
     "longitude": "-122.30978", 
+    "lastUpdateTime": "1508096873", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewEta": "1508100420", 
     "latitude": "38.32425", 
     "outageStartTime": "1508095669", 
     "cause": "Unknown - PG&E will be assessing the cause.", 
@@ -4670,9 +4670,9 @@
   }, 
   {
     "hazardFlag": "1", 
-    "lastUpdateTime": "1507918320", 
+    "lastUpdateTime": "1508096902", 
     "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
+    "crewCurrentStatus": "PG&E repair crew is en route to the outage location.", 
     "longitude": "-122.24569", 
     "latitude": "38.29509", 
     "outageStartTime": "1507831435", 
@@ -5369,7 +5369,7 @@
       }
     ], 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508096143", 
+    "lastUpdateTime": "1508096881", 
     "estCustAffected": "106", 
     "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
     "longitude": "-122.4228", 
@@ -8326,7 +8326,7 @@
       }
     ], 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508094486", 
+    "lastUpdateTime": "1508096852", 
     "estCustAffected": "7", 
     "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
     "longitude": "-122.66128", 
@@ -9378,6 +9378,34 @@
     "cause": "Found damage to an underground power cable.", 
     "outageNumber": "1901096", 
     "regionName": "Stockton"
+  }, 
+  {
+    "currentEtor": "1508103000", 
+    "outageDevices": [
+      {
+        "latitude": "38.0679", 
+        "longitude": "-121.91082"
+      }, 
+      {
+        "latitude": "38.08532", 
+        "longitude": "-121.90367"
+      }, 
+      {
+        "latitude": "38.08177", 
+        "longitude": "-121.9173"
+      }
+    ], 
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1508097027", 
+    "autoEtor": "1508103000", 
+    "estCustAffected": "5", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-121.89416", 
+    "latitude": "38.08832", 
+    "outageStartTime": "1508096823", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1901344", 
+    "regionName": "Suisun City"
   }, 
   {
     "currentEtor": "1508511600", 
