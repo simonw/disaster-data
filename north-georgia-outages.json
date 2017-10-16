@@ -56,44 +56,6 @@
       "MapLocation": null
     }, 
     {
-      "Verified": true, 
-      "TroubledElement": null, 
-      "CustomersServed": null, 
-      "Actions": null, 
-      "Status": null, 
-      "District": null, 
-      "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
-      "CrewResponsible": null, 
-      "CustomerResponsible": null, 
-      "OutagedPhase": null, 
-      "CustomersAffected": null, 
-      "OutageStartTime": "2017-10-16T09:33:08-04:00", 
-      "Dispatcher": null, 
-      "Substation": null, 
-      "UplineElement": null, 
-      "OutageStatus": null, 
-      "EstimatedTime": null, 
-      "Notes": null, 
-      "CrewDispatched": true, 
-      "VerifiedCause": null, 
-      "CostEstimate": null, 
-      "CustomersRestored": 0, 
-      "PriorityCustomers": null, 
-      "CustomersOutInitially": null, 
-      "OutageRecID": "2017-10-16-0765", 
-      "OutageName": "T4716005", 
-      "OutageEndTime": null, 
-      "ClosingDispatcher": null, 
-      "OutageLocation": {
-        "Y": 34.46108940293606, 
-        "X": -85.1837396920521
-      }, 
-      "Feeder": null, 
-      "OutagePolygon": [], 
-      "MapLocation": null
-    }, 
-    {
       "Verified": false, 
       "TroubledElement": null, 
       "CustomersServed": null, 
@@ -253,7 +215,7 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -272,15 +234,24 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-10-16-0771", 
-      "OutageName": "6622002001", 
+      "OutageName": "T6622002", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.52189246166761, 
-        "X": -84.96814608868571
+        "Y": 34.52205740333926, 
+        "X": -84.96836233284517
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.52222234501091, 
+          "X": -84.96857857700465
+        }, 
+        {
+          "Y": 34.52189246166761, 
+          "X": -84.96814608868571
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -291,12 +262,8 @@
       "Count": 2
     }, 
     {
-      "County": "Chattooga", 
-      "Count": 1
-    }, 
-    {
       "County": "Gordon", 
-      "Count": 1
+      "Count": 2
     }, 
     {
       "County": "Walker", 
