@@ -249,7 +249,7 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -267,13 +267,60 @@
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
-      "OutageRecID": "2017-10-16-0778", 
-      "OutageName": "7801084001- TRIMBLE HOLLOW RD", 
+      "OutageRecID": "2017-10-16-0779", 
+      "OutageName": "T7801084- TRIMBLE HOLLOW", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.42955590882115, 
-        "X": -84.89409876930867
+        "Y": 34.42932427831589, 
+        "X": -84.89428657590861
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.42909264781063, 
+          "X": -84.89447438250855
+        }, 
+        {
+          "Y": 34.42955590882115, 
+          "X": -84.89409876930867
+        }
+      ], 
+      "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 1, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-10-16T10:54:19-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-10-16-0780", 
+      "OutageName": "8203015000", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.848352615826606, 
+        "X": -84.74497519101398
       }, 
       "Feeder": null, 
       "OutagePolygon": [], 
@@ -288,7 +335,11 @@
     }, 
     {
       "County": "Gordon", 
-      "Count": 2
+      "Count": 3
+    }, 
+    {
+      "County": "Murray", 
+      "Count": 1
     }, 
     {
       "County": "Walker", 
