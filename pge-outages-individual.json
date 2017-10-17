@@ -4670,15 +4670,27 @@
     "regionName": "San Francisco"
   }, 
   {
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1508215127", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-122.44223", 
+    "latitude": "37.80005", 
+    "outageStartTime": "1508215080", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1902316", 
+    "regionName": "San Francisco"
+  }, 
+  {
     "currentEtor": "1508222760", 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508213188", 
+    "lastUpdateTime": "1508216704", 
     "estCustAffected": "7", 
-    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
+    "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
     "longitude": "-121.86017", 
     "latitude": "37.34741", 
     "outageStartTime": "1508207880", 
-    "cause": "Unknown - PG&E is investigating the cause.", 
+    "cause": "There is a problem with the transformer.", 
     "outageNumber": "1902296", 
     "regionName": "San Jose"
   }, 
@@ -7337,19 +7349,6 @@
     "regionName": "Santa Rosa"
   }, 
   {
-    "hazardFlag": "0", 
-    "longitude": "-119.34992", 
-    "lastUpdateTime": "1508215106", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "crewEta": "1508216400", 
-    "latitude": "35.52816", 
-    "outageStartTime": "1508209080", 
-    "cause": "A foreign object caused the outage.", 
-    "outageNumber": "1902300", 
-    "regionName": "Shafter"
-  }, 
-  {
     "currentEtor": "1508727600", 
     "hazardFlag": "0", 
     "lastUpdateTime": "1508209520", 
@@ -7579,6 +7578,10 @@
     "outageDevices": [
       {
         "latitude": "38.33723", 
+        "longitude": "-122.49238"
+      }, 
+      {
+        "latitude": "38.33723", 
         "longitude": "-122.49047"
       }, 
       {
@@ -7588,10 +7591,6 @@
       {
         "latitude": "38.33776", 
         "longitude": "-122.49201"
-      }, 
-      {
-        "latitude": "38.33723", 
-        "longitude": "-122.49238"
       }
     ], 
     "hazardFlag": "0", 
@@ -8137,5 +8136,32 @@
     "cause": "There is a problem with the transformer.", 
     "outageNumber": "1902302", 
     "regionName": "Valley Springs"
+  }, 
+  {
+    "outageDevices": [
+      {
+        "latitude": "35.52152", 
+        "longitude": "-119.35435"
+      }, 
+      {
+        "latitude": "35.52175", 
+        "longitude": "-119.34995"
+      }, 
+      {
+        "latitude": "35.53102", 
+        "longitude": "-119.34989"
+      }
+    ], 
+    "hazardFlag": "0", 
+    "longitude": "-119.34991", 
+    "lastUpdateTime": "1508216696", 
+    "estCustAffected": "6", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
+    "crewEta": "1508216400", 
+    "latitude": "35.52897", 
+    "outageStartTime": "1508209080", 
+    "cause": "A foreign object caused the outage.", 
+    "outageNumber": "1902300", 
+    "regionName": "Wasco"
   }
 ]
