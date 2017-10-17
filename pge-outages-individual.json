@@ -796,19 +796,6 @@
     "regionName": "Fairfield"
   }, 
   {
-    "currentEtor": "1508227200", 
-    "hazardFlag": "0", 
-    "lastUpdateTime": "1508214267", 
-    "estCustAffected": "26", 
-    "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
-    "longitude": "-122.05198", 
-    "latitude": "38.25401", 
-    "outageStartTime": "1508177451", 
-    "cause": "Found damage to underground equipment.", 
-    "outageNumber": "1901900", 
-    "regionName": "Fairfield"
-  }, 
-  {
     "currentEtor": "1508223540", 
     "outageDevices": [
       {
@@ -4324,15 +4311,27 @@
     "currentEtor": "1508229360", 
     "hazardFlag": "1", 
     "longitude": "-120.85756", 
-    "lastUpdateTime": "1508218575", 
+    "lastUpdateTime": "1508221113", 
     "crewEta": "1508221860", 
-    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "estCustAffected": "1", 
     "latitude": "37.76783", 
     "outageStartTime": "1508210001", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1902304", 
     "regionName": "Oakdale"
+  }, 
+  {
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1508221188", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-122.17308", 
+    "latitude": "37.76304", 
+    "outageStartTime": "1508221186", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1902328", 
+    "regionName": "Oakland"
   }, 
   {
     "currentEtor": "1508309940", 
@@ -4547,12 +4546,13 @@
     "regionName": "San Francisco"
   }, 
   {
-    "currentEtor": "1508222760", 
+    "currentEtor": "1508245200", 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508220094", 
-    "estCustAffected": "7", 
-    "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
     "longitude": "-121.86017", 
+    "lastUpdateTime": "1508221052", 
+    "crewEta": "1508229900", 
+    "crewCurrentStatus": "PG&E repair crew is en route to the outage location.", 
+    "estCustAffected": "7", 
     "latitude": "37.34741", 
     "outageStartTime": "1508207880", 
     "cause": "There is a problem with the transformer.", 
@@ -7390,10 +7390,6 @@
     "outageDevices": [
       {
         "latitude": "38.33723", 
-        "longitude": "-122.49238"
-      }, 
-      {
-        "latitude": "38.33723", 
         "longitude": "-122.49047"
       }, 
       {
@@ -7403,6 +7399,10 @@
       {
         "latitude": "38.33776", 
         "longitude": "-122.49201"
+      }, 
+      {
+        "latitude": "38.33723", 
+        "longitude": "-122.49238"
       }
     ], 
     "hazardFlag": "0", 
