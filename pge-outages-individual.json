@@ -834,10 +834,10 @@
   {
     "currentEtor": "1508218200", 
     "hazardFlag": "1", 
-    "lastUpdateTime": "1508209209", 
+    "lastUpdateTime": "1508209420", 
     "autoEtor": "1508218200", 
     "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
     "longitude": "-122.12689", 
     "latitude": "37.45695", 
     "outageStartTime": "1508209197", 
@@ -3798,7 +3798,7 @@
       }
     ], 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508209277", 
+    "lastUpdateTime": "1508209353", 
     "estCustAffected": "10", 
     "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
     "longitude": "-122.24394", 
@@ -3966,14 +3966,15 @@
     "regionName": "Napa"
   }, 
   {
+    "currentEtor": "1508727600", 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508110099", 
+    "lastUpdateTime": "1508209562", 
     "estCustAffected": "2", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
     "longitude": "-122.24576", 
     "latitude": "38.44058", 
     "outageStartTime": "1507523520", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "cause": "Fire in the area.", 
     "outageNumber": "1901420", 
     "regionName": "Napa"
   }, 
@@ -4738,18 +4739,6 @@
     "regionName": "Saint Helena"
   }, 
   {
-    "hazardFlag": "1", 
-    "lastUpdateTime": "1508205733", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "longitude": "-122.50205", 
-    "latitude": "37.74962", 
-    "outageStartTime": "1508202851", 
-    "cause": "Unknown - PG&E is investigating the cause.", 
-    "outageNumber": "1902270", 
-    "regionName": "San Francisco"
-  }, 
-  {
     "currentEtor": "1508213700", 
     "hazardFlag": "0", 
     "lastUpdateTime": "1508207950", 
@@ -4884,7 +4873,7 @@
     "regionName": "Santa Maria"
   }, 
   {
-    "currentEtor": "1508211000", 
+    "currentEtor": "1508232600", 
     "outageDevices": [
       {
         "latitude": "34.88953", 
@@ -4916,10 +4905,9 @@
       }
     ], 
     "hazardFlag": "1", 
-    "lastUpdateTime": "1508207488", 
-    "autoEtor": "1508211000", 
+    "lastUpdateTime": "1508209348", 
     "estCustAffected": "34", 
-    "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
+    "crewCurrentStatus": "PG&E repair crew is en route to the outage location.", 
     "longitude": "-120.44622", 
     "latitude": "34.91055", 
     "outageStartTime": "1508197260", 
@@ -7471,14 +7459,15 @@
     "regionName": "Shafter"
   }, 
   {
+    "currentEtor": "1508727600", 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508177451", 
+    "lastUpdateTime": "1508209520", 
     "estCustAffected": "3", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
     "longitude": "-122.26715", 
     "latitude": "38.36153", 
     "outageStartTime": "1507523520", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "cause": "Fire in the area.", 
     "outageNumber": "1901899", 
     "regionName": "Silverado Resort"
   }, 
@@ -7699,6 +7688,10 @@
     "outageDevices": [
       {
         "latitude": "38.33723", 
+        "longitude": "-122.49238"
+      }, 
+      {
+        "latitude": "38.33723", 
         "longitude": "-122.49047"
       }, 
       {
@@ -7708,10 +7701,6 @@
       {
         "latitude": "38.33776", 
         "longitude": "-122.49201"
-      }, 
-      {
-        "latitude": "38.33723", 
-        "longitude": "-122.49238"
       }
     ], 
     "hazardFlag": "0", 
