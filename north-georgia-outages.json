@@ -195,7 +195,7 @@
       "MapLocation": null
     }, 
     {
-      "Verified": true, 
+      "Verified": false, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
@@ -207,26 +207,26 @@
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
       "CustomersAffected": null, 
-      "OutageStartTime": "2017-10-18T11:21:37-04:00", 
+      "OutageStartTime": "2017-10-18T11:27:56-04:00", 
       "Dispatcher": null, 
       "Substation": null, 
       "UplineElement": null, 
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": true, 
+      "CrewDispatched": false, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
-      "OutageRecID": "2017-10-18-0893", 
-      "OutageName": "6124025000", 
+      "OutageRecID": "2017-10-18-0894", 
+      "OutageName": "6310087003", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.86167942463013, 
-        "X": -84.93973555544424
+        "Y": 34.770589778299225, 
+        "X": -84.9102527554877
       }, 
       "Feeder": null, 
       "OutagePolygon": [], 
@@ -235,6 +235,10 @@
   ], 
   "Trucks": [], 
   "Areas": [
+    {
+      "County": null, 
+      "Count": 1
+    }, 
     {
       "County": "Gordon", 
       "Count": 2
@@ -246,10 +250,6 @@
     {
       "County": "Walker", 
       "Count": 2
-    }, 
-    {
-      "County": "Whitfield", 
-      "Count": 1
     }
   ]
 }
