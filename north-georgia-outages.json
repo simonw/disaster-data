@@ -5,7 +5,7 @@
   }, 
   "Outages": [
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
@@ -41,6 +41,53 @@
       "Feeder": null, 
       "OutagePolygon": [], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 2, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-10-18T14:47:29-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": true, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-10-18-0916", 
+      "OutageName": "T6104028", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.911566999520886, 
+        "X": -84.93235225664304
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.911586537034715, 
+          "X": -84.93243439834926
+        }, 
+        {
+          "Y": 34.91154746200705, 
+          "X": -84.93227011493683
+        }
+      ], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
@@ -48,6 +95,10 @@
     {
       "County": "Walker", 
       "Count": 1
+    }, 
+    {
+      "County": "Whitfield", 
+      "Count": 2
     }
   ]
 }
