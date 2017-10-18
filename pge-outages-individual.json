@@ -26,7 +26,7 @@
   }, 
   {
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508298141", 
+    "lastUpdateTime": "1508298941", 
     "estCustAffected": "11", 
     "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
     "longitude": "-119.12373", 
@@ -927,7 +927,7 @@
       }
     ], 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508298652", 
+    "lastUpdateTime": "1508298733", 
     "autoEtor": "1508312700", 
     "estCustAffected": "4", 
     "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
@@ -1063,10 +1063,11 @@
   }, 
   {
     "hazardFlag": "1", 
+    "longitude": "-123.80295", 
     "lastUpdateTime": "1508297067", 
     "estCustAffected": "1", 
     "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
-    "longitude": "-123.80295", 
+    "crewEta": "1508299560", 
     "latitude": "39.46699", 
     "outageStartTime": "1508296918", 
     "cause": "Unknown - PG&E will be assessing the cause.", 
@@ -1114,14 +1115,14 @@
       }
     ], 
     "hazardFlag": "1", 
-    "lastUpdateTime": "1508298639", 
+    "lastUpdateTime": "1508298784", 
     "autoEtor": "1508303700", 
     "estCustAffected": "44", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "longitude": "-119.85888", 
     "latitude": "36.69209", 
     "outageStartTime": "1508292413", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1902928", 
     "regionName": "Fresno"
   }, 
@@ -3086,10 +3087,10 @@
     "regionName": "Los Gatos"
   }, 
   {
-    "currentEtor": "1508306400", 
+    "currentEtor": "1508324400", 
     "hazardFlag": "1", 
     "longitude": "-121.93335", 
-    "lastUpdateTime": "1508295638", 
+    "lastUpdateTime": "1508298731", 
     "crewEta": "1508288400", 
     "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
     "estCustAffected": "1", 
@@ -3741,9 +3742,9 @@
   }, 
   {
     "hazardFlag": "1", 
-    "lastUpdateTime": "1508298593", 
+    "lastUpdateTime": "1508298768", 
     "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
     "longitude": "-122.28537", 
     "latitude": "38.31992", 
     "outageStartTime": "1508298427", 
@@ -4339,19 +4340,6 @@
     "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1902541", 
     "regionName": "Potter Valley"
-  }, 
-  {
-    "currentEtor": "1508299200", 
-    "hazardFlag": "0", 
-    "lastUpdateTime": "1508285475", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
-    "longitude": "-123.22872", 
-    "latitude": "39.33677", 
-    "outageStartTime": "1508270531", 
-    "cause": "Fire in the area.", 
-    "outageNumber": "1902647", 
-    "regionName": "Redwood Valley"
   }, 
   {
     "currentEtor": "1508309100", 
@@ -7095,10 +7083,6 @@
     "outageDevices": [
       {
         "latitude": "38.33723", 
-        "longitude": "-122.49238"
-      }, 
-      {
-        "latitude": "38.33723", 
         "longitude": "-122.49047"
       }, 
       {
@@ -7108,6 +7092,10 @@
       {
         "latitude": "38.33776", 
         "longitude": "-122.49201"
+      }, 
+      {
+        "latitude": "38.33723", 
+        "longitude": "-122.49238"
       }
     ], 
     "hazardFlag": "0", 
