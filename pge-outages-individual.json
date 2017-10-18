@@ -863,6 +863,18 @@
   }, 
   {
     "hazardFlag": "1", 
+    "lastUpdateTime": "1508301469", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-122.29455", 
+    "latitude": "37.90648", 
+    "outageStartTime": "1508301463", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1902975", 
+    "regionName": "El Cerrito"
+  }, 
+  {
+    "hazardFlag": "1", 
     "lastUpdateTime": "1508292505", 
     "estCustAffected": "1", 
     "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
@@ -2941,14 +2953,14 @@
   {
     "currentEtor": "1508309100", 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508299188", 
+    "lastUpdateTime": "1508301556", 
     "autoEtor": "1508309100", 
     "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "longitude": "-121.27031", 
     "latitude": "38.8658", 
     "outageStartTime": "1508299141", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1902970", 
     "regionName": "Lincoln"
   }, 
@@ -4154,21 +4166,6 @@
     "regionName": "Potter Valley"
   }, 
   {
-    "currentEtor": "1508309100", 
-    "hazardFlag": "0", 
-    "longitude": "-121.25917", 
-    "lastUpdateTime": "1508300679", 
-    "autoEtor": "1508309100", 
-    "crewEta": "1508301840", 
-    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "estCustAffected": "1", 
-    "latitude": "38.80182", 
-    "outageStartTime": "1508298509", 
-    "cause": "Unknown - PG&E is investigating the cause.", 
-    "outageNumber": "1902966", 
-    "regionName": "Rocklin"
-  }, 
-  {
     "currentEtor": "1508396340", 
     "hazardFlag": "0", 
     "lastUpdateTime": "1508295265", 
@@ -4271,14 +4268,14 @@
   {
     "currentEtor": "1508312700", 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508301162", 
+    "lastUpdateTime": "1508301553", 
     "autoEtor": "1508312700", 
     "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "longitude": "-121.86492", 
     "latitude": "37.40819", 
     "outageStartTime": "1508301162", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1902974", 
     "regionName": "San Jose"
   }, 
@@ -5482,8 +5479,8 @@
       }
     ], 
     "hazardFlag": "1", 
-    "lastUpdateTime": "1508301015", 
-    "estCustAffected": "776", 
+    "lastUpdateTime": "1508301663", 
+    "estCustAffected": "749", 
     "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
     "longitude": "-122.74434", 
     "latitude": "38.45328", 
@@ -5921,6 +5918,32 @@
     "outageStartTime": "1507527600", 
     "cause": "Found a broken power pole in the area", 
     "outageNumber": "1900838", 
+    "regionName": "Santa Rosa"
+  }, 
+  {
+    "outageDevices": [
+      {
+        "latitude": "38.49144", 
+        "longitude": "-122.69909"
+      }, 
+      {
+        "latitude": "38.49144", 
+        "longitude": "-122.69658"
+      }, 
+      {
+        "latitude": "38.49172", 
+        "longitude": "-122.69755"
+      }
+    ], 
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1508301663", 
+    "estCustAffected": "21", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-122.6993", 
+    "latitude": "38.49165", 
+    "outageStartTime": "1507537718", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1902977", 
     "regionName": "Santa Rosa"
   }, 
   {
@@ -6887,10 +6910,6 @@
     "outageDevices": [
       {
         "latitude": "38.33723", 
-        "longitude": "-122.49238"
-      }, 
-      {
-        "latitude": "38.33723", 
         "longitude": "-122.49047"
       }, 
       {
@@ -6900,6 +6919,10 @@
       {
         "latitude": "38.33776", 
         "longitude": "-122.49201"
+      }, 
+      {
+        "latitude": "38.33723", 
+        "longitude": "-122.49238"
       }
     ], 
     "hazardFlag": "0", 
