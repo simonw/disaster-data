@@ -119,7 +119,7 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
@@ -145,12 +145,50 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-10-18-0898", 
-      "OutageName": "8004046000", 
+      "OutageName": "8004046000 HWY 411", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
         "Y": 34.985989073207456, 
         "X": -84.73860664609776
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [], 
+      "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 1, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-10-18T12:09:42-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": true, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-10-18-0899", 
+      "OutageName": "6118141001", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.88169209785773, 
+        "X": -84.94934406506346
       }, 
       "Feeder": null, 
       "OutagePolygon": [], 
@@ -166,6 +204,10 @@
     {
       "County": "Murray", 
       "Count": 2
+    }, 
+    {
+      "County": "Whitfield", 
+      "Count": 1
     }
   ]
 }
