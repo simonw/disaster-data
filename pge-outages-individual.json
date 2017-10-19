@@ -18,15 +18,15 @@
         "longitude": "-122.28286"
       }
     ], 
-    "hazardFlag": "2", 
+    "hazardFlag": "3", 
     "longitude": "-122.27898", 
-    "lastUpdateTime": "1508420484", 
+    "lastUpdateTime": "1508420721", 
     "estCustAffected": "13", 
-    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "crewEta": "1508421600", 
     "latitude": "40.4412", 
     "outageStartTime": "1508417760", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1903823", 
     "regionName": "Anderson"
   }, 
@@ -4034,11 +4034,12 @@
   {
     "currentEtor": "1508431500", 
     "hazardFlag": "1", 
-    "lastUpdateTime": "1508420083", 
-    "autoEtor": "1508431500", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
     "longitude": "-121.73971", 
+    "lastUpdateTime": "1508420780", 
+    "autoEtor": "1508431500", 
+    "crewEta": "1508424360", 
+    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "estCustAffected": "1", 
     "latitude": "36.74588", 
     "outageStartTime": "1508420078", 
     "cause": "Unknown - PG&E will be assessing the cause.", 
@@ -4089,14 +4090,14 @@
     "currentEtor": "1508429700", 
     "hazardFlag": "0", 
     "longitude": "-120.67939", 
-    "lastUpdateTime": "1508418419", 
+    "lastUpdateTime": "1508420734", 
     "autoEtor": "1508429700", 
     "crewEta": "1508421120", 
-    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "estCustAffected": "1", 
     "latitude": "35.30085", 
     "outageStartTime": "1508414820", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1903820", 
     "regionName": "San Luis Obispo"
   }, 
@@ -5630,6 +5631,10 @@
     "outageDevices": [
       {
         "latitude": "38.51114", 
+        "longitude": "-122.7093"
+      }, 
+      {
+        "latitude": "38.51114", 
         "longitude": "-122.7079"
       }, 
       {
@@ -5639,10 +5644,6 @@
       {
         "latitude": "38.5128", 
         "longitude": "-122.70449"
-      }, 
-      {
-        "latitude": "38.51114", 
-        "longitude": "-122.7093"
       }
     ], 
     "hazardFlag": "0", 
