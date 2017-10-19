@@ -36,12 +36,13 @@
     "regionName": "Bolinas"
   }, 
   {
-    "currentEtor": "1508398200", 
+    "currentEtor": "1508409000", 
     "hazardFlag": "1", 
-    "lastUpdateTime": "1508391196", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
     "longitude": "-122.10418", 
+    "lastUpdateTime": "1508396674", 
+    "crewEta": "1508399400", 
+    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "estCustAffected": "1", 
     "latitude": "37.14748", 
     "outageStartTime": "1508375655", 
     "cause": "Unknown - PG&E will be assessing the cause.", 
@@ -871,21 +872,6 @@
     "cause": "Fire in the area.", 
     "outageNumber": "1901314", 
     "regionName": "Calistoga"
-  }, 
-  {
-    "currentEtor": "1508404500", 
-    "hazardFlag": "1", 
-    "longitude": "-121.94923", 
-    "lastUpdateTime": "1508392316", 
-    "autoEtor": "1508404500", 
-    "crewEta": "1508392200", 
-    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "estCustAffected": "1", 
-    "latitude": "36.98296", 
-    "outageStartTime": "1508392172", 
-    "cause": "Unknown - PG&E is investigating the cause.", 
-    "outageNumber": "1903788", 
-    "regionName": "Capitola"
   }, 
   {
     "currentEtor": "1508727600", 
@@ -4027,7 +4013,7 @@
     "regionName": "Occidental"
   }, 
   {
-    "currentEtor": "1508398200", 
+    "currentEtor": "1508403600", 
     "outageDevices": [
       {
         "latitude": "37.64928", 
@@ -4051,8 +4037,7 @@
       }
     ], 
     "hazardFlag": "4", 
-    "lastUpdateTime": "1508395991", 
-    "autoEtor": "1508398200", 
+    "lastUpdateTime": "1508396649", 
     "estCustAffected": "289", 
     "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "longitude": "-122.48993", 
@@ -4101,41 +4086,6 @@
     "cause": "Unknown - PG&E will be assessing the cause.", 
     "outageNumber": "1903789", 
     "regionName": "Petaluma"
-  }, 
-  {
-    "currentEtor": "1508364000", 
-    "outageDevices": [
-      {
-        "latitude": "37.6706", 
-        "longitude": "-121.90375"
-      }, 
-      {
-        "latitude": "37.67472", 
-        "longitude": "-121.90114"
-      }, 
-      {
-        "latitude": "37.6743", 
-        "longitude": "-121.90297"
-      }, 
-      {
-        "latitude": "37.67203", 
-        "longitude": "-121.9045"
-      }, 
-      {
-        "latitude": "37.67135", 
-        "longitude": "-121.90422"
-      }
-    ], 
-    "hazardFlag": "0", 
-    "lastUpdateTime": "1508395858", 
-    "estCustAffected": "84", 
-    "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
-    "longitude": "-121.90405", 
-    "latitude": "37.67272", 
-    "outageStartTime": "1508395680", 
-    "cause": "Planned maintenance in the area.", 
-    "outageNumber": "1903800", 
-    "regionName": "Pleasanton"
   }, 
   {
     "outageDevices": [
@@ -5841,6 +5791,10 @@
     "outageDevices": [
       {
         "latitude": "38.51114", 
+        "longitude": "-122.7093"
+      }, 
+      {
+        "latitude": "38.51114", 
         "longitude": "-122.7079"
       }, 
       {
@@ -5850,10 +5804,6 @@
       {
         "latitude": "38.5128", 
         "longitude": "-122.70449"
-      }, 
-      {
-        "latitude": "38.51114", 
-        "longitude": "-122.7093"
       }
     ], 
     "hazardFlag": "0", 
