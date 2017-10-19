@@ -109,7 +109,7 @@
     "regionName": "Calistoga"
   }, 
   {
-    "currentEtor": "1508569140", 
+    "currentEtor": "1508741940", 
     "outageDevices": [
       {
         "latitude": "38.56825", 
@@ -149,7 +149,7 @@
       }
     ], 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508370945", 
+    "lastUpdateTime": "1508424622", 
     "estCustAffected": "28", 
     "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
     "longitude": "-122.5786", 
@@ -668,7 +668,7 @@
     "regionName": "Calistoga"
   }, 
   {
-    "currentEtor": "1508554380", 
+    "currentEtor": "1508738400", 
     "outageDevices": [
       {
         "latitude": "38.56707", 
@@ -712,9 +712,9 @@
       }
     ], 
     "hazardFlag": "1", 
-    "lastUpdateTime": "1508383604", 
+    "lastUpdateTime": "1508424562", 
     "estCustAffected": "140", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
     "longitude": "-122.6299", 
     "latitude": "38.56671", 
     "outageStartTime": "1507530195", 
@@ -1000,10 +1000,10 @@
   {
     "currentEtor": "1508436000", 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508424312", 
+    "lastUpdateTime": "1508424435", 
     "autoEtor": "1508436000", 
     "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
     "longitude": "-120.98632", 
     "latitude": "37.79322", 
     "outageStartTime": "1508423820", 
@@ -1013,10 +1013,11 @@
   }, 
   {
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508423900", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
     "longitude": "-124.16526", 
+    "lastUpdateTime": "1508424553", 
+    "estCustAffected": "34", 
+    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewEta": "1508425440", 
     "latitude": "40.80416", 
     "outageStartTime": "1508423900", 
     "cause": "Unknown - PG&E will be assessing the cause.", 
@@ -2068,15 +2069,29 @@
       }
     ], 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508360455", 
+    "lastUpdateTime": "1508424648", 
     "estCustAffected": "10", 
-    "crewCurrentStatus": "PG&E is unable to access the affected equipment.", 
+    "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
     "longitude": "-122.51511", 
     "latitude": "38.39687", 
     "outageStartTime": "1507527070", 
-    "cause": "Fire in the area.", 
+    "cause": "Found a broken power pole in the area", 
     "outageNumber": "1903370", 
     "regionName": "Glen Ellen"
+  }, 
+  {
+    "currentEtor": "1508436900", 
+    "hazardFlag": "1", 
+    "lastUpdateTime": "1508424650", 
+    "autoEtor": "1508436900", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-121.17608", 
+    "latitude": "39.13187", 
+    "outageStartTime": "1508424635", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1903841", 
+    "regionName": "Grass Valley"
   }, 
   {
     "currentEtor": "1508475600", 
@@ -2701,7 +2716,7 @@
       }
     ], 
     "hazardFlag": "1", 
-    "lastUpdateTime": "1508385470", 
+    "lastUpdateTime": "1508424669", 
     "estCustAffected": "17", 
     "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
     "longitude": "-122.56978", 
@@ -4133,10 +4148,11 @@
   {
     "currentEtor": "1508453100", 
     "hazardFlag": "1", 
-    "lastUpdateTime": "1508424324", 
-    "estCustAffected": "4", 
-    "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
     "longitude": "-121.73974", 
+    "lastUpdateTime": "1508424553", 
+    "crewEta": "1508439600", 
+    "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
+    "estCustAffected": "4", 
     "latitude": "36.74532", 
     "outageStartTime": "1508420078", 
     "cause": "Found a damaged power pole in the area.", 
@@ -4171,6 +4187,18 @@
     "regionName": "San Bruno"
   }, 
   {
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1508424706", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-122.40489", 
+    "latitude": "37.79146", 
+    "outageStartTime": "1508424687", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1903842", 
+    "regionName": "San Francisco"
+  }, 
+  {
     "currentEtor": "1508428800", 
     "outageDevices": [
       {
@@ -4199,7 +4227,7 @@
       }
     ], 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508422788", 
+    "lastUpdateTime": "1508424648", 
     "autoEtor": "1508428800", 
     "estCustAffected": "119", 
     "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
@@ -4209,21 +4237,6 @@
     "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1903822", 
     "regionName": "San Jose"
-  }, 
-  {
-    "currentEtor": "1508429700", 
-    "hazardFlag": "0", 
-    "longitude": "-120.67939", 
-    "lastUpdateTime": "1508422493", 
-    "autoEtor": "1508429700", 
-    "crewEta": "1508421120", 
-    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "estCustAffected": "1", 
-    "latitude": "35.30085", 
-    "outageStartTime": "1508414820", 
-    "cause": "Unknown - PG&E is investigating the cause.", 
-    "outageNumber": "1903820", 
-    "regionName": "San Luis Obispo"
   }, 
   {
     "hazardFlag": "0", 
@@ -4642,9 +4655,9 @@
       }
     ], 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508389288", 
+    "lastUpdateTime": "1508424577", 
     "estCustAffected": "7", 
-    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "longitude": "-122.59983", 
     "latitude": "38.4431", 
     "outageStartTime": "1507991160", 
@@ -5756,10 +5769,6 @@
     "outageDevices": [
       {
         "latitude": "38.51114", 
-        "longitude": "-122.7093"
-      }, 
-      {
-        "latitude": "38.51114", 
         "longitude": "-122.7079"
       }, 
       {
@@ -5769,6 +5778,10 @@
       {
         "latitude": "38.5128", 
         "longitude": "-122.70449"
+      }, 
+      {
+        "latitude": "38.51114", 
+        "longitude": "-122.7093"
       }
     ], 
     "hazardFlag": "0", 
