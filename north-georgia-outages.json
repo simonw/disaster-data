@@ -191,14 +191,14 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 4, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -210,22 +210,35 @@
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-10-19-0960", 
-      "OutageName": "6311018002", 
+      "OutageName": "T6311018", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.753671710160475, 
-        "X": -84.99547889965021
+        "Y": 34.75361893233207, 
+        "X": -84.99550334373781
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.75356004329806, 
+          "X": -84.99554889905453
+        }, 
+        {
+          "Y": 34.753671710160475, 
+          "X": -84.99547889965021
+        }, 
+        {
+          "Y": 34.75362504353765, 
+          "X": -84.99548223250865
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -245,7 +258,7 @@
     }, 
     {
       "County": "Whitfield", 
-      "Count": 1
+      "Count": 4
     }
   ]
 }
