@@ -851,11 +851,10 @@
   }, 
   {
     "hazardFlag": "0", 
-    "longitude": "-121.90762", 
-    "lastUpdateTime": "1508595657", 
+    "lastUpdateTime": "1508597632", 
     "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "crewEta": "1508594760", 
+    "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
+    "longitude": "-121.90762", 
     "latitude": "36.55285", 
     "outageStartTime": "1508590580", 
     "cause": "PG&E staff have found damage on the service line.", 
@@ -895,9 +894,9 @@
       }
     ], 
     "hazardFlag": "3", 
-    "lastUpdateTime": "1508544067", 
+    "lastUpdateTime": "1508597755", 
     "estCustAffected": "29", 
-    "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
+    "crewCurrentStatus": "PG&E is unable to access the affected equipment.", 
     "longitude": "-122.98103", 
     "latitude": "38.77624", 
     "outageStartTime": "1507530480", 
@@ -1011,7 +1010,7 @@
     "regionName": "Fresno"
   }, 
   {
-    "currentEtor": "1508598000", 
+    "currentEtor": "1508601600", 
     "outageDevices": [
       {
         "latitude": "36.76582", 
@@ -1027,7 +1026,7 @@
       }
     ], 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508576839", 
+    "lastUpdateTime": "1508597776", 
     "estCustAffected": "5", 
     "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
     "longitude": "-119.72764", 
@@ -1538,6 +1537,7 @@
     "regionName": "Glen Ellen"
   }, 
   {
+    "currentEtor": "1508648400", 
     "outageDevices": [
       {
         "latitude": "38.34655", 
@@ -1553,9 +1553,9 @@
       }
     ], 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508546961", 
+    "lastUpdateTime": "1508597487", 
     "estCustAffected": "10", 
-    "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
+    "crewCurrentStatus": "PG&E repair crew is en route to the outage location.", 
     "longitude": "-122.49902", 
     "latitude": "38.34602", 
     "outageStartTime": "1508524074", 
@@ -1850,6 +1850,18 @@
     "outageStartTime": "1507527070", 
     "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1901014", 
+    "regionName": "Kenwood"
+  }, 
+  {
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1508597565", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-122.55944", 
+    "latitude": "38.42729", 
+    "outageStartTime": "1508597520", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1906661", 
     "regionName": "Kenwood"
   }, 
   {
@@ -2148,6 +2160,20 @@
     "cause": "Planned maintenance in the area.", 
     "outageNumber": "1906652", 
     "regionName": "Milpitas"
+  }, 
+  {
+    "currentEtor": "1508611500", 
+    "hazardFlag": "1", 
+    "lastUpdateTime": "1508597595", 
+    "autoEtor": "1508611500", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-122.51669", 
+    "latitude": "37.53701", 
+    "outageStartTime": "1508597585", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1906662", 
+    "regionName": "Montara"
   }, 
   {
     "currentEtor": "1508738400", 
@@ -3133,8 +3159,8 @@
   }, 
   {
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508585757", 
-    "estCustAffected": "1", 
+    "lastUpdateTime": "1508597755", 
+    "estCustAffected": "21", 
     "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
     "longitude": "-122.35727", 
     "latitude": "37.94658", 
@@ -3184,51 +3210,16 @@
       }
     ], 
     "hazardFlag": "2", 
-    "lastUpdateTime": "1508595922", 
-    "estCustAffected": "520", 
-    "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
     "longitude": "-122.34708", 
+    "lastUpdateTime": "1508595922", 
+    "crewEta": "1508601600", 
+    "crewCurrentStatus": "PG&E repair crew is en route to the outage location.", 
+    "estCustAffected": "520", 
     "latitude": "37.93909", 
     "outageStartTime": "1508572380", 
     "cause": "Field personnel have found a downed power line.", 
     "outageNumber": "1906619", 
     "regionName": "Richmond"
-  }, 
-  {
-    "currentEtor": "1508612400", 
-    "outageDevices": [
-      {
-        "latitude": "36.39326", 
-        "longitude": "-119.87882"
-      }, 
-      {
-        "latitude": "36.39475", 
-        "longitude": "-119.87403"
-      }, 
-      {
-        "latitude": "36.39775", 
-        "longitude": "-119.87365"
-      }, 
-      {
-        "latitude": "36.39476", 
-        "longitude": "-119.87837"
-      }, 
-      {
-        "latitude": "36.39391", 
-        "longitude": "-119.87925"
-      }
-    ], 
-    "hazardFlag": "1", 
-    "longitude": "-119.87033", 
-    "lastUpdateTime": "1508574957", 
-    "crewEta": "1508576160", 
-    "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
-    "estCustAffected": "6", 
-    "latitude": "36.39479", 
-    "outageStartTime": "1508520900", 
-    "cause": "Found a damaged power pole in the area.", 
-    "outageNumber": "1905921", 
-    "regionName": "Riverdale"
   }, 
   {
     "currentEtor": "1508742060", 
