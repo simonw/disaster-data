@@ -1189,9 +1189,9 @@
     "regionName": "Geyserville"
   }, 
   {
-    "currentEtor": "1508574600", 
+    "currentEtor": "1508581800", 
     "hazardFlag": "1", 
-    "lastUpdateTime": "1508559220", 
+    "lastUpdateTime": "1508574836", 
     "estCustAffected": "8", 
     "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
     "longitude": "-121.57036", 
@@ -3294,9 +3294,9 @@
     ], 
     "hazardFlag": "2", 
     "longitude": "-122.34708", 
-    "lastUpdateTime": "1508574551", 
+    "lastUpdateTime": "1508574924", 
     "estCustAffected": "1840", 
-    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "crewEta": "1508575380", 
     "latitude": "37.93909", 
     "outageStartTime": "1508572380", 
@@ -3330,9 +3330,9 @@
     ], 
     "hazardFlag": "1", 
     "longitude": "-119.87033", 
-    "lastUpdateTime": "1508565697", 
+    "lastUpdateTime": "1508574957", 
     "crewEta": "1508576160", 
-    "crewCurrentStatus": "PG&E repair crew is en route to the outage location.", 
+    "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
     "estCustAffected": "6", 
     "latitude": "36.39479", 
     "outageStartTime": "1508520900", 
@@ -5175,20 +5175,12 @@
     "regionName": "Sonoma"
   }, 
   {
-    "hazardFlag": "1", 
-    "lastUpdateTime": "1508569290", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
-    "longitude": "-122.45088", 
-    "latitude": "37.87669", 
-    "outageStartTime": "1508524894", 
-    "cause": "Unknown - PG&E is investigating the cause.", 
-    "outageNumber": "1906017", 
-    "regionName": "Tiburon"
-  }, 
-  {
     "currentEtor": "1508612400", 
     "outageDevices": [
+      {
+        "latitude": "41.0763", 
+        "longitude": "-124.14372"
+      }, 
       {
         "latitude": "41.0763", 
         "longitude": "-124.14303"
@@ -5216,10 +5208,6 @@
       {
         "latitude": "41.07631", 
         "longitude": "-124.1448"
-      }, 
-      {
-        "latitude": "41.0763", 
-        "longitude": "-124.14372"
       }
     ], 
     "hazardFlag": "2", 
@@ -5288,7 +5276,7 @@
     "outageDevices": [
       {
         "latitude": "35.59839", 
-        "longitude": "-119.34853"
+        "longitude": "-119.34806"
       }, 
       {
         "latitude": "35.59839", 
@@ -5301,6 +5289,10 @@
       {
         "latitude": "35.60022", 
         "longitude": "-119.34753"
+      }, 
+      {
+        "latitude": "35.59839", 
+        "longitude": "-119.34853"
       }
     ], 
     "hazardFlag": "0", 
