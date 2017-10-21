@@ -14,7 +14,7 @@
   {
     "currentEtor": "1508563800", 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508558594", 
+    "lastUpdateTime": "1508561729", 
     "estCustAffected": "27", 
     "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
     "longitude": "-120.60344", 
@@ -80,13 +80,13 @@
     "currentEtor": "1508568540", 
     "hazardFlag": "0", 
     "longitude": "-122.21612", 
-    "lastUpdateTime": "1508556999", 
+    "lastUpdateTime": "1508561672", 
     "crewEta": "1508562420", 
-    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "estCustAffected": "1", 
     "latitude": "37.16834", 
     "outageStartTime": "1508497921", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1905217", 
     "regionName": "Boulder Creek"
   }, 
@@ -1017,7 +1017,7 @@
     "hazardFlag": "0", 
     "lastUpdateTime": "1508560093", 
     "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
     "longitude": "-121.54651", 
     "latitude": "38.38276", 
     "outageStartTime": "1508538484", 
@@ -1531,7 +1531,7 @@
   {
     "currentEtor": "1508599920", 
     "hazardFlag": "2", 
-    "lastUpdateTime": "1508558898", 
+    "lastUpdateTime": "1508561674", 
     "estCustAffected": "32", 
     "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
     "longitude": "-119.7642", 
@@ -3702,9 +3702,9 @@
   }, 
   {
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508554585", 
+    "lastUpdateTime": "1508561766", 
     "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "longitude": "-122.18885", 
     "latitude": "37.79602", 
     "outageStartTime": "1508554574", 
@@ -5418,10 +5418,6 @@
     "outageDevices": [
       {
         "latitude": "38.51114", 
-        "longitude": "-122.7093"
-      }, 
-      {
-        "latitude": "38.51114", 
         "longitude": "-122.7079"
       }, 
       {
@@ -5431,6 +5427,10 @@
       {
         "latitude": "38.5128", 
         "longitude": "-122.70449"
+      }, 
+      {
+        "latitude": "38.51114", 
+        "longitude": "-122.7093"
       }
     ], 
     "hazardFlag": "0", 
@@ -5637,6 +5637,10 @@
   {
     "currentEtor": "1508605800", 
     "outageDevices": [
+      {
+        "latitude": "36.59435", 
+        "longitude": "-119.59126"
+      }, 
       {
         "latitude": "36.59435", 
         "longitude": "-119.59033"
@@ -6111,36 +6115,6 @@
     "regionName": "Sonoma"
   }, 
   {
-    "outageDevices": [
-      {
-        "latitude": "37.35798", 
-        "longitude": "-120.88943"
-      }, 
-      {
-        "latitude": "37.35831", 
-        "longitude": "-120.88661"
-      }, 
-      {
-        "latitude": "37.36012", 
-        "longitude": "-120.87814"
-      }, 
-      {
-        "latitude": "37.36204", 
-        "longitude": "-120.88218"
-      }
-    ], 
-    "hazardFlag": "0", 
-    "lastUpdateTime": "1508561282", 
-    "estCustAffected": "8", 
-    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "longitude": "-120.87818", 
-    "latitude": "37.35343", 
-    "outageStartTime": "1508551963", 
-    "cause": "Unknown - PG&E is investigating the cause.", 
-    "outageNumber": "1906517", 
-    "regionName": "Stevinson"
-  }, 
-  {
     "hazardFlag": "0", 
     "lastUpdateTime": "1508560635", 
     "estCustAffected": "1", 
@@ -6211,8 +6185,8 @@
         "longitude": "-124.14333"
       }
     ], 
-    "hazardFlag": "1", 
-    "lastUpdateTime": "1508561457", 
+    "hazardFlag": "2", 
+    "lastUpdateTime": "1508561743", 
     "estCustAffected": "425", 
     "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
     "longitude": "-124.14328", 
