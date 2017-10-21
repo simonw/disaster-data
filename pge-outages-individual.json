@@ -55,6 +55,18 @@
     "regionName": "Bakersfield"
   }, 
   {
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1508598009", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-118.96053", 
+    "latitude": "35.36183", 
+    "outageStartTime": "1508598002", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1906664", 
+    "regionName": "Bakersfield"
+  }, 
+  {
     "currentEtor": "1508616000", 
     "hazardFlag": "0", 
     "lastUpdateTime": "1508566849", 
@@ -81,19 +93,6 @@
     "regionName": "Berkeley"
   }, 
   {
-    "hazardFlag": "0", 
-    "longitude": "-119.89322", 
-    "lastUpdateTime": "1508597209", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "crewEta": "1508598000", 
-    "latitude": "36.9746", 
-    "outageStartTime": "1508586780", 
-    "cause": "PG&E staff have found a connection in need of repair.", 
-    "outageNumber": "1906640", 
-    "regionName": "Bonadelle Ranchos-Madera Ranchos"
-  }, 
-  {
     "currentEtor": "1508626800", 
     "outageDevices": [
       {
@@ -116,7 +115,7 @@
     "hazardFlag": "0", 
     "lastUpdateTime": "1508593659", 
     "estCustAffected": "20", 
-    "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
+    "crewCurrentStatus": "PG&E repair crew is en route to the outage location.", 
     "longitude": "-122.20099", 
     "latitude": "37.16527", 
     "outageStartTime": "1508497921", 
@@ -905,8 +904,8 @@
     "regionName": "Cloverdale"
   }, 
   {
-    "hazardFlag": "1", 
-    "lastUpdateTime": "1508558780", 
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1508597840", 
     "estCustAffected": "4", 
     "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
     "longitude": "-123.02536", 
@@ -935,7 +934,7 @@
     "hazardFlag": "0", 
     "longitude": "-120.02963", 
     "lastUpdateTime": "1508593527", 
-    "crewEta": "1508599860", 
+    "crewEta": "1508603460", 
     "crewCurrentStatus": "PG&E repair crew is en route to the outage location.", 
     "estCustAffected": "2", 
     "latitude": "38.82283", 
@@ -3285,13 +3284,13 @@
   }, 
   {
     "hazardFlag": "1", 
-    "lastUpdateTime": "1508597116", 
+    "lastUpdateTime": "1508598077", 
     "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "longitude": "-122.43047", 
     "latitude": "37.77299", 
     "outageStartTime": "1508596475", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1906657", 
     "regionName": "San Francisco"
   }, 
@@ -3614,33 +3613,25 @@
     "currentEtor": "1508727240", 
     "outageDevices": [
       {
-        "latitude": "38.50448", 
-        "longitude": "-122.70323"
+        "latitude": "38.5102", 
+        "longitude": "-122.71329"
       }, 
       {
-        "latitude": "38.50947", 
-        "longitude": "-122.70761"
+        "latitude": "38.51043", 
+        "longitude": "-122.71135"
       }, 
       {
-        "latitude": "38.51115", 
-        "longitude": "-122.71072"
+        "latitude": "38.51092", 
+        "longitude": "-122.71297"
       }, 
       {
         "latitude": "38.5108", 
         "longitude": "-122.71542"
-      }, 
-      {
-        "latitude": "38.50645", 
-        "longitude": "-122.70879"
-      }, 
-      {
-        "latitude": "38.50463", 
-        "longitude": "-122.70473"
       }
     ], 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508554507", 
-    "estCustAffected": "25", 
+    "lastUpdateTime": "1508597804", 
+    "estCustAffected": "8", 
     "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
     "longitude": "-122.68664", 
     "latitude": "38.5039", 
@@ -4933,10 +4924,6 @@
     "outageDevices": [
       {
         "latitude": "41.0763", 
-        "longitude": "-124.14372"
-      }, 
-      {
-        "latitude": "41.0763", 
         "longitude": "-124.14303"
       }, 
       {
@@ -4962,6 +4949,10 @@
       {
         "latitude": "41.07631", 
         "longitude": "-124.1448"
+      }, 
+      {
+        "latitude": "41.0763", 
+        "longitude": "-124.14372"
       }
     ], 
     "hazardFlag": "3", 
