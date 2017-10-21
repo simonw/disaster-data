@@ -13,19 +13,6 @@
     "regionName": "Antioch"
   }, 
   {
-    "hazardFlag": "1", 
-    "longitude": "-120.12502", 
-    "lastUpdateTime": "1508564283", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "crewEta": "1508564400", 
-    "latitude": "36.00052", 
-    "outageStartTime": "1508557561", 
-    "cause": "Unknown - PG&E is investigating the cause.", 
-    "outageNumber": "1906560", 
-    "regionName": "Avenal"
-  }, 
-  {
     "currentEtor": "1508616000", 
     "hazardFlag": "0", 
     "lastUpdateTime": "1508548455", 
@@ -84,7 +71,7 @@
     "regionName": "Boulder Creek"
   }, 
   {
-    "currentEtor": "1508567400", 
+    "currentEtor": "1508572800", 
     "outageDevices": [
       {
         "latitude": "35.78589", 
@@ -108,7 +95,7 @@
       }
     ], 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508565156", 
+    "lastUpdateTime": "1508565905", 
     "estCustAffected": "8", 
     "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "longitude": "-120.91805", 
@@ -2576,6 +2563,18 @@
     "regionName": "Livermore"
   }, 
   {
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1508565707", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-121.75396", 
+    "latitude": "37.68659", 
+    "outageStartTime": "1508565660", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1906592", 
+    "regionName": "Livermore"
+  }, 
+  {
     "currentEtor": "1508572800", 
     "hazardFlag": "0", 
     "lastUpdateTime": "1508555467", 
@@ -3719,19 +3718,6 @@
     "regionName": "Pope Valley"
   }, 
   {
-    "currentEtor": "1508597820", 
-    "hazardFlag": "0", 
-    "lastUpdateTime": "1508565604", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
-    "longitude": "-122.21424", 
-    "latitude": "37.37402", 
-    "outageStartTime": "1508554320", 
-    "cause": "Unknown - PG&E is investigating the cause.", 
-    "outageNumber": "1906537", 
-    "regionName": "Portola Valley"
-  }, 
-  {
     "currentEtor": "1508612400", 
     "outageDevices": [
       {
@@ -3924,15 +3910,16 @@
     "regionName": "Salinas"
   }, 
   {
+    "currentEtor": "1508572920", 
     "hazardFlag": "0", 
     "longitude": "-122.44594", 
-    "lastUpdateTime": "1508564385", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "lastUpdateTime": "1508565966", 
     "crewEta": "1508565840", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
+    "estCustAffected": "1", 
     "latitude": "37.76471", 
     "outageStartTime": "1508563301", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1906575", 
     "regionName": "San Francisco"
   }, 
@@ -5315,7 +5302,7 @@
     "outageDevices": [
       {
         "latitude": "36.59435", 
-        "longitude": "-119.59239"
+        "longitude": "-119.59126"
       }, 
       {
         "latitude": "36.59435", 
@@ -5344,6 +5331,10 @@
       {
         "latitude": "36.5945", 
         "longitude": "-119.59282"
+      }, 
+      {
+        "latitude": "36.59435", 
+        "longitude": "-119.59239"
       }
     ], 
     "hazardFlag": "1", 
