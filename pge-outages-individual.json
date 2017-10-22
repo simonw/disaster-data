@@ -65,9 +65,9 @@
   {
     "hazardFlag": "1", 
     "longitude": "-122.26808", 
-    "lastUpdateTime": "1508694880", 
+    "lastUpdateTime": "1508696070", 
     "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "crewEta": "1508698560", 
     "latitude": "37.89392", 
     "outageStartTime": "1508694639", 
@@ -771,13 +771,13 @@
   }, 
   {
     "hazardFlag": "1", 
-    "lastUpdateTime": "1508693656", 
+    "lastUpdateTime": "1508696042", 
     "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "longitude": "-122.01163", 
     "latitude": "37.93995", 
     "outageStartTime": "1508693497", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1907187", 
     "regionName": "Concord"
   }, 
@@ -796,17 +796,43 @@
     "regionName": "Daly City"
   }, 
   {
-    "currentEtor": "1508706900", 
+    "currentEtor": "1508705100", 
+    "outageDevices": [
+      {
+        "latitude": "38.3794", 
+        "longitude": "-121.7081"
+      }, 
+      {
+        "latitude": "38.37947", 
+        "longitude": "-121.69406"
+      }, 
+      {
+        "latitude": "38.38008", 
+        "longitude": "-121.68923"
+      }, 
+      {
+        "latitude": "38.39404", 
+        "longitude": "-121.678"
+      }, 
+      {
+        "latitude": "38.39406", 
+        "longitude": "-121.67907"
+      }, 
+      {
+        "latitude": "38.39413", 
+        "longitude": "-121.68904"
+      }
+    ], 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508695406", 
-    "autoEtor": "1508706900", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
-    "longitude": "-121.73051", 
-    "latitude": "38.39217", 
-    "outageStartTime": "1508695405", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
-    "outageNumber": "1907198", 
+    "lastUpdateTime": "1508696186", 
+    "autoEtor": "1508705100", 
+    "estCustAffected": "12", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
+    "longitude": "-121.6941", 
+    "latitude": "38.37375", 
+    "outageStartTime": "1508694300", 
+    "cause": "Unknown - PG&E is investigating the cause.", 
+    "outageNumber": "1907202", 
     "regionName": "Dixon"
   }, 
   {
@@ -868,6 +894,7 @@
     "regionName": "Geyserville"
   }, 
   {
+    "currentEtor": "1508728260", 
     "outageDevices": [
       {
         "latitude": "38.75047", 
@@ -899,9 +926,9 @@
       }
     ], 
     "hazardFlag": "3", 
-    "lastUpdateTime": "1508603545", 
+    "lastUpdateTime": "1508695928", 
     "estCustAffected": "26", 
-    "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
+    "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
     "longitude": "-122.9082", 
     "latitude": "38.77298", 
     "outageStartTime": "1507530480", 
@@ -968,7 +995,7 @@
   }, 
   {
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508695766", 
+    "lastUpdateTime": "1508695929", 
     "estCustAffected": "1", 
     "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
     "longitude": "-122.48707", 
@@ -1079,14 +1106,13 @@
   }, 
   {
     "hazardFlag": "2", 
-    "longitude": "-120.94668", 
-    "lastUpdateTime": "1508695719", 
+    "lastUpdateTime": "1508695885", 
     "estCustAffected": "13", 
-    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "crewEta": "1508695440", 
+    "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
+    "longitude": "-120.94668", 
     "latitude": "40.14126", 
     "outageStartTime": "1508691060", 
-    "cause": "Unknown - PG&E is investigating the cause.", 
+    "cause": "A vehicle has hit a power pole.", 
     "outageNumber": "1907165", 
     "regionName": "Greenville"
   }, 
@@ -1303,9 +1329,9 @@
   {
     "currentEtor": "1508713200", 
     "hazardFlag": "1", 
-    "lastUpdateTime": "1508600176", 
+    "lastUpdateTime": "1508696060", 
     "estCustAffected": "2", 
-    "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
+    "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
     "longitude": "-122.57079", 
     "latitude": "38.3989", 
     "outageStartTime": "1508546400", 
@@ -1460,6 +1486,20 @@
     "cause": "Field personnel have found a downed power line.", 
     "outageNumber": "1907083", 
     "regionName": "Mendota"
+  }, 
+  {
+    "currentEtor": "1508707800", 
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1508696170", 
+    "autoEtor": "1508707800", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-120.86238", 
+    "latitude": "35.39536", 
+    "outageStartTime": "1508696167", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1907204", 
+    "regionName": "Morro Bay"
   }, 
   {
     "currentEtor": "1508738400", 
@@ -2274,9 +2314,9 @@
     "currentEtor": "1508724000", 
     "hazardFlag": "0", 
     "longitude": "-121.36579", 
-    "lastUpdateTime": "1508688469", 
+    "lastUpdateTime": "1508695947", 
     "crewEta": "1508698800", 
-    "crewCurrentStatus": "PG&E repair crew is en route to the outage location.", 
+    "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
     "estCustAffected": "1", 
     "latitude": "39.55263", 
     "outageStartTime": "1508621289", 
@@ -2317,6 +2357,18 @@
     "outageStartTime": "1508523488", 
     "cause": "Found damaged equipment on a power pole.", 
     "outageNumber": "1905981", 
+    "regionName": "Oroville"
+  }, 
+  {
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1508696135", 
+    "estCustAffected": "2", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-121.36608", 
+    "latitude": "39.55364", 
+    "outageStartTime": "1508696092", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1907203", 
     "regionName": "Oroville"
   }, 
   {
@@ -2485,41 +2537,6 @@
     "cause": "Unknown - PG&E will be assessing the cause.", 
     "outageNumber": "1907181", 
     "regionName": "San Luis Obispo"
-  }, 
-  {
-    "currentEtor": "1508695200", 
-    "outageDevices": [
-      {
-        "latitude": "37.96629", 
-        "longitude": "-122.33774"
-      }, 
-      {
-        "latitude": "37.96788", 
-        "longitude": "-122.33857"
-      }, 
-      {
-        "latitude": "37.96837", 
-        "longitude": "-122.33981"
-      }, 
-      {
-        "latitude": "37.96776", 
-        "longitude": "-122.34072"
-      }, 
-      {
-        "latitude": "37.96649", 
-        "longitude": "-122.33963"
-      }
-    ], 
-    "hazardFlag": "0", 
-    "lastUpdateTime": "1508690268", 
-    "estCustAffected": "12", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
-    "longitude": "-122.33999", 
-    "latitude": "37.96554", 
-    "outageStartTime": "1508689980", 
-    "cause": "Planned maintenance in the area.", 
-    "outageNumber": "1907158", 
-    "regionName": "San Pablo"
   }, 
   {
     "currentEtor": "1508720400", 
