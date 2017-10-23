@@ -40,7 +40,7 @@
   }, 
   {
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508714866", 
+    "lastUpdateTime": "1508729140", 
     "estCustAffected": "1", 
     "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
     "longitude": "-118.94444", 
@@ -1081,54 +1081,15 @@
   {
     "hazardFlag": "0", 
     "longitude": "-119.94262", 
-    "lastUpdateTime": "1508726223", 
+    "lastUpdateTime": "1508728901", 
     "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "crewEta": "1508728920", 
     "latitude": "36.9287", 
     "outageStartTime": "1508725380", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1907385", 
     "regionName": "Madera"
-  }, 
-  {
-    "outageDevices": [
-      {
-        "latitude": "37.69548", 
-        "longitude": "-121.26976"
-      }, 
-      {
-        "latitude": "37.69935", 
-        "longitude": "-121.24032"
-      }, 
-      {
-        "latitude": "37.72493", 
-        "longitude": "-121.24325"
-      }, 
-      {
-        "latitude": "37.73335", 
-        "longitude": "-121.25838"
-      }, 
-      {
-        "latitude": "37.73614", 
-        "longitude": "-121.2635"
-      }, 
-      {
-        "latitude": "37.73046", 
-        "longitude": "-121.27352"
-      }
-    ], 
-    "hazardFlag": "0", 
-    "longitude": "-121.23969", 
-    "lastUpdateTime": "1508727337", 
-    "estCustAffected": "71", 
-    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "crewEta": "1508727120", 
-    "latitude": "37.69934", 
-    "outageStartTime": "1508724420", 
-    "cause": "Unknown - PG&E is investigating the cause.", 
-    "outageNumber": "1907378", 
-    "regionName": "Manteca"
   }, 
   {
     "currentEtor": "1508736600", 
@@ -1586,11 +1547,12 @@
   {
     "currentEtor": "1508738400", 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508727046", 
-    "autoEtor": "1508738400", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
     "longitude": "-121.02893", 
+    "lastUpdateTime": "1508728875", 
+    "autoEtor": "1508738400", 
+    "crewEta": "1508734260", 
+    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "estCustAffected": "1", 
     "latitude": "38.85726", 
     "outageStartTime": "1508727000", 
     "cause": "Unknown - PG&E will be assessing the cause.", 
@@ -1627,7 +1589,7 @@
     "hazardFlag": "0", 
     "lastUpdateTime": "1508728731", 
     "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
     "longitude": "-123.1601", 
     "latitude": "39.2654", 
     "outageStartTime": "1508726460", 
@@ -1711,31 +1673,15 @@
     "regionName": "Salinas"
   }, 
   {
-    "currentEtor": "1508738400", 
-    "hazardFlag": "0", 
-    "lastUpdateTime": "1508728125", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
-    "longitude": "-122.49547", 
-    "latitude": "37.73528", 
-    "outageStartTime": "1508726160", 
-    "cause": "Unplanned emergency repairs.", 
-    "outageNumber": "1907395", 
-    "regionName": "San Francisco"
-  }, 
-  {
+    "currentEtor": "1508741940", 
     "outageDevices": [
       {
         "latitude": "37.76282", 
         "longitude": "-122.46091"
       }, 
       {
-        "latitude": "37.76346", 
-        "longitude": "-122.45974"
-      }, 
-      {
-        "latitude": "37.7642", 
-        "longitude": "-122.45942"
+        "latitude": "37.76343", 
+        "longitude": "-122.46083"
       }, 
       {
         "latitude": "37.76412", 
@@ -1743,19 +1689,19 @@
       }
     ], 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508728722", 
-    "estCustAffected": "184", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
-    "longitude": "-122.45971", 
-    "latitude": "37.76443", 
-    "outageStartTime": "1508728620", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
-    "outageNumber": "1907397", 
+    "lastUpdateTime": "1508729153", 
+    "estCustAffected": "123", 
+    "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
+    "longitude": "-122.45974", 
+    "latitude": "37.76345", 
+    "outageStartTime": "1508728080", 
+    "cause": "Planned maintenance in the area.", 
+    "outageNumber": "1907401", 
     "regionName": "San Francisco"
   }, 
   {
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508728683", 
+    "lastUpdateTime": "1508729049", 
     "estCustAffected": "1", 
     "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
     "longitude": "-122.46239", 
@@ -1959,6 +1905,18 @@
     "outageStartTime": "1507532159", 
     "cause": "Fire in the area.", 
     "outageNumber": "1900114", 
+    "regionName": "Santa Rosa"
+  }, 
+  {
+    "hazardFlag": "1", 
+    "lastUpdateTime": "1508729136", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-122.69818", 
+    "latitude": "38.51317", 
+    "outageStartTime": "1508728984", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1907400", 
     "regionName": "Santa Rosa"
   }, 
   {
@@ -2429,13 +2387,13 @@
   }, 
   {
     "hazardFlag": "1", 
-    "lastUpdateTime": "1508728092", 
+    "lastUpdateTime": "1508729104", 
     "estCustAffected": "3", 
-    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "longitude": "-122.9111", 
     "latitude": "38.36584", 
     "outageStartTime": "1508726296", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1907388", 
     "regionName": "Sebastopol"
   }, 
