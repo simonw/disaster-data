@@ -65,23 +65,22 @@
     "regionName": "Bakersfield"
   }, 
   {
-    "hazardFlag": "1", 
-    "longitude": "-122.26613", 
-    "lastUpdateTime": "1508863881", 
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1508865285", 
     "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "crewEta": "1508866920", 
-    "latitude": "37.88157", 
-    "outageStartTime": "1508861975", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-122.28117", 
+    "latitude": "37.87508", 
+    "outageStartTime": "1508865275", 
     "cause": "Unknown - PG&E will be assessing the cause.", 
-    "outageNumber": "1908491", 
+    "outageNumber": "1908557", 
     "regionName": "Berkeley"
   }, 
   {
     "hazardFlag": "1", 
-    "lastUpdateTime": "1508864450", 
+    "lastUpdateTime": "1508865228", 
     "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
     "longitude": "-122.28503", 
     "latitude": "37.87712", 
     "outageStartTime": "1508864440", 
@@ -270,13 +269,13 @@
   }, 
   {
     "hazardFlag": "1", 
-    "lastUpdateTime": "1508861048", 
+    "lastUpdateTime": "1508865223", 
     "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "longitude": "-122.60923", 
     "latitude": "38.59054", 
     "outageStartTime": "1508860875", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1908471", 
     "regionName": "Calistoga"
   }, 
@@ -671,9 +670,9 @@
   }, 
   {
     "hazardFlag": "1", 
-    "lastUpdateTime": "1508864510", 
+    "lastUpdateTime": "1508865354", 
     "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
     "longitude": "-121.81957", 
     "latitude": "39.74733", 
     "outageStartTime": "1508864501", 
@@ -975,6 +974,34 @@
     "regionName": "Glen Ellen"
   }, 
   {
+    "currentEtor": "1508875200", 
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1508865396", 
+    "autoEtor": "1508875200", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-121.07268", 
+    "latitude": "39.2208", 
+    "outageStartTime": "1508864760", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1908560", 
+    "regionName": "Grass Valley"
+  }, 
+  {
+    "currentEtor": "1508877000", 
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1508865385", 
+    "autoEtor": "1508877000", 
+    "estCustAffected": "6", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-119.71887", 
+    "latitude": "36.40177", 
+    "outageStartTime": "1508865240", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1908556", 
+    "regionName": "Hardwick"
+  }, 
+  {
     "currentEtor": "1508877900", 
     "hazardFlag": "0", 
     "longitude": "-121.42285", 
@@ -1020,7 +1047,7 @@
       }
     ], 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508864545", 
+    "lastUpdateTime": "1508865184", 
     "estCustAffected": "21", 
     "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "longitude": "-122.54145", 
@@ -1132,15 +1159,27 @@
   {
     "currentEtor": "1508873400", 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508860788", 
+    "lastUpdateTime": "1508865180", 
     "estCustAffected": "28", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
     "longitude": "-121.30765", 
     "latitude": "38.88668", 
     "outageStartTime": "1508859780", 
     "cause": "Planned maintenance in the area.", 
     "outageNumber": "1908463", 
     "regionName": "Lincoln"
+  }, 
+  {
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1508865396", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-123.72787", 
+    "latitude": "39.26009", 
+    "outageStartTime": "1508865360", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1908564", 
+    "regionName": "Little River"
   }, 
   {
     "currentEtor": "1508869800", 
@@ -1162,7 +1201,7 @@
     "longitude": "-121.19701", 
     "lastUpdateTime": "1508861866", 
     "crewEta": "1508864640", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
     "estCustAffected": "1", 
     "latitude": "38.10164", 
     "outageStartTime": "1508851226", 
@@ -1299,20 +1338,16 @@
     "currentEtor": "1508868000", 
     "outageDevices": [
       {
-        "latitude": "37.08059", 
-        "longitude": "-121.5848"
+        "latitude": "37.08311", 
+        "longitude": "-121.59365"
       }, 
       {
-        "latitude": "37.09432", 
-        "longitude": "-121.58278"
+        "latitude": "37.08355", 
+        "longitude": "-121.59255"
       }, 
       {
-        "latitude": "37.09524", 
-        "longitude": "-121.58349"
-      }, 
-      {
-        "latitude": "37.09982", 
-        "longitude": "-121.58825"
+        "latitude": "37.08983", 
+        "longitude": "-121.59627"
       }, 
       {
         "latitude": "37.10487", 
@@ -1325,20 +1360,12 @@
       {
         "latitude": "37.10169", 
         "longitude": "-121.60527"
-      }, 
-      {
-        "latitude": "37.08311", 
-        "longitude": "-121.59365"
-      }, 
-      {
-        "latitude": "37.08083", 
-        "longitude": "-121.58611"
       }
     ], 
     "hazardFlag": "1", 
-    "lastUpdateTime": "1508861862", 
+    "lastUpdateTime": "1508865313", 
     "autoEtor": "1508868000", 
-    "estCustAffected": "241", 
+    "estCustAffected": "86", 
     "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "longitude": "-121.6207", 
     "latitude": "37.1206", 
@@ -1578,6 +1605,20 @@
   }, 
   {
     "currentEtor": "1508877000", 
+    "hazardFlag": "1", 
+    "lastUpdateTime": "1508865367", 
+    "autoEtor": "1508877000", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-119.50844", 
+    "latitude": "37.22851", 
+    "outageStartTime": "1508865361", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1908561", 
+    "regionName": "North Fork"
+  }, 
+  {
+    "currentEtor": "1508877000", 
     "hazardFlag": "0", 
     "lastUpdateTime": "1508864314", 
     "estCustAffected": "1", 
@@ -1665,6 +1706,18 @@
     "regionName": "Oakland"
   }, 
   {
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1508865296", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-122.23323", 
+    "latitude": "37.83856", 
+    "outageStartTime": "1508865289", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1908558", 
+    "regionName": "Oakland"
+  }, 
+  {
     "currentEtor": "1508882400", 
     "hazardFlag": "0", 
     "lastUpdateTime": "1508861024", 
@@ -1676,6 +1729,18 @@
     "cause": "Planned maintenance in the area.", 
     "outageNumber": "1908472", 
     "regionName": "Old Fig Garden"
+  }, 
+  {
+    "hazardFlag": "1", 
+    "lastUpdateTime": "1508865383", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-122.20351", 
+    "latitude": "37.88997", 
+    "outageStartTime": "1508865379", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1908562", 
+    "regionName": "Orinda"
   }, 
   {
     "currentEtor": "1508889600", 
@@ -1713,19 +1778,6 @@
     "regionName": "Oroville"
   }, 
   {
-    "currentEtor": "1508873400", 
-    "hazardFlag": "0", 
-    "lastUpdateTime": "1508859463", 
-    "estCustAffected": "2", 
-    "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
-    "longitude": "-121.496", 
-    "latitude": "39.48558", 
-    "outageStartTime": "1508856900", 
-    "cause": "Planned maintenance in the area.", 
-    "outageNumber": "1908433", 
-    "regionName": "Oroville East"
-  }, 
-  {
     "currentEtor": "1508868000", 
     "hazardFlag": "0", 
     "lastUpdateTime": "1508864804", 
@@ -1752,6 +1804,18 @@
     "cause": "Unknown - PG&E will be assessing the cause.", 
     "outageNumber": "1908544", 
     "regionName": "Pacifica"
+  }, 
+  {
+    "hazardFlag": "1", 
+    "lastUpdateTime": "1508865394", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-121.5797", 
+    "latitude": "39.75843", 
+    "outageStartTime": "1508865385", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1908563", 
+    "regionName": "Paradise"
   }, 
   {
     "hazardFlag": "1", 
@@ -1843,6 +1907,20 @@
     "outageStartTime": "1508861712", 
     "cause": "Unknown - PG&E will be assessing the cause.", 
     "outageNumber": "1908483", 
+    "regionName": "Prunedale"
+  }, 
+  {
+    "currentEtor": "1508877900", 
+    "hazardFlag": "1", 
+    "lastUpdateTime": "1508865357", 
+    "autoEtor": "1508877900", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-121.64127", 
+    "latitude": "36.84206", 
+    "outageStartTime": "1508865346", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1908559", 
     "regionName": "Prunedale"
   }, 
   {
@@ -2057,7 +2135,7 @@
       }
     ], 
     "hazardFlag": "2", 
-    "lastUpdateTime": "1508864707", 
+    "lastUpdateTime": "1508865310", 
     "estCustAffected": "144", 
     "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "longitude": "-121.8931", 
@@ -2948,14 +3026,14 @@
     "currentEtor": "1508877000", 
     "hazardFlag": "1", 
     "longitude": "-121.99702", 
-    "lastUpdateTime": "1508864180", 
+    "lastUpdateTime": "1508865278", 
     "autoEtor": "1508877000", 
     "crewEta": "1508866860", 
-    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "estCustAffected": "1", 
     "latitude": "36.96442", 
     "outageStartTime": "1508863984", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1908539", 
     "regionName": "Twin Lakes"
   }, 
@@ -2990,14 +3068,14 @@
   {
     "currentEtor": "1508875200", 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508863930", 
+    "lastUpdateTime": "1508865346", 
     "autoEtor": "1508875200", 
     "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "longitude": "-121.52394", 
     "latitude": "38.5692", 
     "outageStartTime": "1508863925", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1908537", 
     "regionName": "West Sacramento"
   }, 
@@ -3027,5 +3105,19 @@
     "cause": "Planned maintenance in the area.", 
     "outageNumber": "1908508", 
     "regionName": "Woodside"
+  }, 
+  {
+    "currentEtor": "1508874300", 
+    "hazardFlag": "1", 
+    "lastUpdateTime": "1508865282", 
+    "autoEtor": "1508874300", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-121.6873", 
+    "latitude": "39.1407", 
+    "outageStartTime": "1508865275", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1908555", 
+    "regionName": "Yuba City"
   }
 ]
