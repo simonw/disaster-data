@@ -164,44 +164,6 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
-      "CrewResponsible": null, 
-      "CustomerResponsible": null, 
-      "OutagedPhase": null, 
-      "CustomersAffected": null, 
-      "OutageStartTime": "2017-10-24T14:39:12-04:00", 
-      "Dispatcher": null, 
-      "Substation": null, 
-      "UplineElement": null, 
-      "OutageStatus": null, 
-      "EstimatedTime": null, 
-      "Notes": null, 
-      "CrewDispatched": true, 
-      "VerifiedCause": null, 
-      "CostEstimate": null, 
-      "CustomersRestored": 0, 
-      "PriorityCustomers": null, 
-      "CustomersOutInitially": null, 
-      "OutageRecID": "2017-10-24-1097", 
-      "OutageName": "3415020000", 
-      "OutageEndTime": null, 
-      "ClosingDispatcher": null, 
-      "OutageLocation": {
-        "Y": 34.68526371776658, 
-        "X": -85.20082235822896
-      }, 
-      "Feeder": null, 
-      "OutagePolygon": [], 
-      "MapLocation": null
-    }, 
-    {
-      "Verified": true, 
-      "TroubledElement": null, 
-      "CustomersServed": null, 
-      "Actions": null, 
-      "Status": null, 
-      "District": null, 
-      "SuspectedCause": null, 
       "CustomersOutNow": 3, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
@@ -244,10 +206,52 @@
         }
       ], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 1, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-10-24T15:39:44-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-10-24-1102", 
+      "OutageName": "1620006000", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.52604164648375, 
+        "X": -85.39771864994552
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
   "Areas": [
+    {
+      "County": "Chattooga", 
+      "Count": 1
+    }, 
     {
       "County": "Gordon", 
       "Count": 24
@@ -258,7 +262,7 @@
     }, 
     {
       "County": "Walker", 
-      "Count": 2
+      "Count": 1
     }, 
     {
       "County": "Whitfield", 
