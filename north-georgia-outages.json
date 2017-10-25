@@ -135,44 +135,6 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
-      "CrewResponsible": null, 
-      "CustomerResponsible": null, 
-      "OutagedPhase": null, 
-      "CustomersAffected": null, 
-      "OutageStartTime": "2017-10-25T13:20:12-04:00", 
-      "Dispatcher": null, 
-      "Substation": null, 
-      "UplineElement": null, 
-      "OutageStatus": null, 
-      "EstimatedTime": null, 
-      "Notes": null, 
-      "CrewDispatched": true, 
-      "VerifiedCause": null, 
-      "CostEstimate": null, 
-      "CustomersRestored": 0, 
-      "PriorityCustomers": null, 
-      "CustomersOutInitially": null, 
-      "OutageRecID": "2017-10-25-1134", 
-      "OutageName": "7323070000", 
-      "OutageEndTime": null, 
-      "ClosingDispatcher": null, 
-      "OutageLocation": {
-        "Y": 34.73178858945842, 
-        "X": -84.84490386680814
-      }, 
-      "Feeder": null, 
-      "OutagePolygon": [], 
-      "MapLocation": null
-    }, 
-    {
-      "Verified": true, 
-      "TroubledElement": null, 
-      "CustomersServed": null, 
-      "Actions": null, 
-      "Status": null, 
-      "District": null, 
-      "SuspectedCause": null, 
       "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
@@ -274,6 +236,65 @@
         }
       ], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": true, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 6, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-10-25T13:35:17-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": true, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-10-25-1139", 
+      "OutageName": "PC-4827", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.97159089396108, 
+        "X": -84.65757115519958
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.9588857420145, 
+          "X": -84.67097703083813
+        }, 
+        {
+          "Y": 34.97977558513412, 
+          "X": -84.65227168515851
+        }, 
+        {
+          "Y": 34.976178630416584, 
+          "X": -84.65265309980651
+        }, 
+        {
+          "Y": 34.97405758078616, 
+          "X": -84.65350601777426
+        }, 
+        {
+          "Y": 34.969056931454055, 
+          "X": -84.65844794242047
+        }
+      ], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
@@ -284,7 +305,7 @@
     }, 
     {
       "County": "Murray", 
-      "Count": 1
+      "Count": 6
     }, 
     {
       "County": "Whitfield", 
