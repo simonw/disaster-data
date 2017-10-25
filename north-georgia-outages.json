@@ -141,41 +141,58 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 5, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
       "CustomersAffected": null, 
-      "OutageStartTime": "2017-10-25T09:41:27-04:00", 
+      "OutageStartTime": "2017-10-25T09:49:17-04:00", 
       "Dispatcher": null, 
       "Substation": null, 
       "UplineElement": null, 
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
-      "OutageRecID": "2017-10-25-1122", 
-      "OutageName": "1314012002", 
+      "OutageRecID": "2017-10-25-1123", 
+      "OutageName": "F8012525- TENNGA RD", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.74287676995452, 
-        "X": -85.41689402140445
+        "Y": 34.964676311446965, 
+        "X": -84.77153850869938
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.96547400411883, 
+          "X": -84.77279946841026
+        }, 
+        {
+          "Y": 34.965722584378774, 
+          "X": -84.77193430879147
+        }, 
+        {
+          "Y": 34.96387460795091, 
+          "X": -84.77070942581379
+        }, 
+        {
+          "Y": 34.96363404933932, 
+          "X": -84.77071083178204
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -191,11 +208,11 @@
     }, 
     {
       "County": "Murray", 
-      "Count": 1
+      "Count": 6
     }, 
     {
       "County": "Walker", 
-      "Count": 2
+      "Count": 1
     }
   ]
 }
