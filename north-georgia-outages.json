@@ -3,7 +3,84 @@
     "CallsLastHour": 0, 
     "CustomerCalls": 0
   }, 
-  "Outages": [], 
+  "Outages": [
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 22, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-10-26T06:59:33-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-10-26-1158", 
+      "OutageName": "F5101521", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.91301242089948, 
+        "X": -85.08332537857507
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.91407470570233, 
+          "X": -85.084419454839
+        }, 
+        {
+          "Y": 34.914170706453646, 
+          "X": -85.08376026533051
+        }, 
+        {
+          "Y": 34.91410240856969, 
+          "X": -85.08329885852316
+        }, 
+        {
+          "Y": 34.91324581114132, 
+          "X": -85.08286517230337
+        }, 
+        {
+          "Y": 34.913164009365424, 
+          "X": -85.08285997382421
+        }, 
+        {
+          "Y": 34.91257653685854, 
+          "X": -85.0828363139245
+        }, 
+        {
+          "Y": 34.91122316872258, 
+          "X": -85.08299180734107
+        }, 
+        {
+          "Y": 34.91154202038231, 
+          "X": -85.08357118251475
+        }
+      ], 
+      "MapLocation": null
+    }
+  ], 
   "Trucks": [], 
-  "Areas": null
+  "Areas": [
+    {
+      "County": "Catoosa", 
+      "Count": 22
+    }
+  ]
 }
