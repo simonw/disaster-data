@@ -238,18 +238,6 @@
     "regionName": "Concord"
   }, 
   {
-    "hazardFlag": "0", 
-    "lastUpdateTime": "1508986678", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
-    "longitude": "-122.53053", 
-    "latitude": "37.92232", 
-    "outageStartTime": "1508986620", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
-    "outageNumber": "1909622", 
-    "regionName": "Corte Madera"
-  }, 
-  {
     "currentEtor": "1508993280", 
     "hazardFlag": "1", 
     "lastUpdateTime": "1508984382", 
@@ -281,7 +269,7 @@
     "lastUpdateTime": "1508984735", 
     "autoEtor": "1508994000", 
     "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
     "longitude": "-122.25946", 
     "latitude": "37.46825", 
     "outageStartTime": "1508984727", 
@@ -293,9 +281,9 @@
     "currentEtor": "1508996100", 
     "hazardFlag": "0", 
     "longitude": "-120.98315", 
-    "lastUpdateTime": "1508987179", 
+    "lastUpdateTime": "1508987405", 
     "crewEta": "1508989020", 
-    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "estCustAffected": "1", 
     "latitude": "37.84225", 
     "outageStartTime": "1508971817", 
@@ -563,11 +551,12 @@
   {
     "currentEtor": "1508991300", 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1508981154", 
-    "autoEtor": "1508991300", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
     "longitude": "-122.1069", 
+    "lastUpdateTime": "1508987528", 
+    "autoEtor": "1508991300", 
+    "crewEta": "1508989260", 
+    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "estCustAffected": "1", 
     "latitude": "37.38302", 
     "outageStartTime": "1508981149", 
     "cause": "Unknown - PG&E will be assessing the cause.", 
@@ -951,7 +940,7 @@
     ], 
     "hazardFlag": "0", 
     "longitude": "-122.42301", 
-    "lastUpdateTime": "1508986855", 
+    "lastUpdateTime": "1508987398", 
     "estCustAffected": "18", 
     "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "crewEta": "1508986920", 
@@ -962,45 +951,16 @@
     "regionName": "Saint Helena"
   }, 
   {
-    "currentEtor": "1508987700", 
     "hazardFlag": "1", 
-    "lastUpdateTime": "1508983576", 
-    "autoEtor": "1508987700", 
+    "lastUpdateTime": "1508987556", 
     "estCustAffected": "1", 
     "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "longitude": "-122.43989", 
-    "latitude": "37.63147", 
-    "outageStartTime": "1508977751", 
-    "cause": "Unknown - PG&E is investigating the cause.", 
-    "outageNumber": "1909572", 
-    "regionName": "San Bruno"
-  }, 
-  {
-    "hazardFlag": "1", 
     "longitude": "-122.40199", 
-    "lastUpdateTime": "1508986848", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
-    "crewEta": "1508988600", 
     "latitude": "37.78987", 
     "outageStartTime": "1508986109", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1909621", 
     "regionName": "San Francisco"
-  }, 
-  {
-    "currentEtor": "1508988600", 
-    "hazardFlag": "0", 
-    "lastUpdateTime": "1508982614", 
-    "autoEtor": "1508988600", 
-    "estCustAffected": "6", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
-    "longitude": "-121.90138", 
-    "latitude": "37.25345", 
-    "outageStartTime": "1508978711", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
-    "outageNumber": "1909581", 
-    "regionName": "San Jose"
   }, 
   {
     "currentEtor": "1509000300", 
@@ -1246,63 +1206,73 @@
     "regionName": "Santa Rosa"
   }, 
   {
-    "hazardFlag": "0", 
-    "lastUpdateTime": "1508987136", 
-    "estCustAffected": "1", 
+    "outageDevices": [
+      {
+        "latitude": "38.34801", 
+        "longitude": "-122.83037"
+      }, 
+      {
+        "latitude": "38.34812", 
+        "longitude": "-122.82581"
+      }, 
+      {
+        "latitude": "38.35551", 
+        "longitude": "-122.80088"
+      }, 
+      {
+        "latitude": "38.37778", 
+        "longitude": "-122.80041"
+      }, 
+      {
+        "latitude": "38.37792", 
+        "longitude": "-122.80169"
+      }, 
+      {
+        "latitude": "38.38067", 
+        "longitude": "-122.85263"
+      }, 
+      {
+        "latitude": "38.37889", 
+        "longitude": "-122.85835"
+      }, 
+      {
+        "latitude": "38.37825", 
+        "longitude": "-122.85897"
+      }, 
+      {
+        "latitude": "38.37783", 
+        "longitude": "-122.85935"
+      }, 
+      {
+        "latitude": "38.37654", 
+        "longitude": "-122.86037"
+      }, 
+      {
+        "latitude": "38.36873", 
+        "longitude": "-122.86375"
+      }, 
+      {
+        "latitude": "38.3626", 
+        "longitude": "-122.86463"
+      }, 
+      {
+        "latitude": "38.35482", 
+        "longitude": "-122.84954"
+      }, 
+      {
+        "latitude": "38.35347", 
+        "longitude": "-122.84621"
+      }
+    ], 
+    "hazardFlag": "7", 
+    "lastUpdateTime": "1508987558", 
+    "estCustAffected": "1148", 
     "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
-    "longitude": "-122.82581", 
-    "latitude": "38.34812", 
+    "longitude": "-122.8063", 
+    "latitude": "38.37835", 
     "outageStartTime": "1508987100", 
     "cause": "Unknown - PG&E will be assessing the cause.", 
-    "outageNumber": "1909624", 
-    "regionName": "Sebastopol"
-  }, 
-  {
-    "hazardFlag": "0", 
-    "lastUpdateTime": "1508987200", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
-    "longitude": "-122.8457", 
-    "latitude": "38.35592", 
-    "outageStartTime": "1508987160", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
-    "outageNumber": "1909626", 
-    "regionName": "Sebastopol"
-  }, 
-  {
-    "hazardFlag": "0", 
-    "lastUpdateTime": "1508987221", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
-    "longitude": "-122.86245", 
-    "latitude": "38.37069", 
-    "outageStartTime": "1508987217", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
-    "outageNumber": "1909627", 
-    "regionName": "Sebastopol"
-  }, 
-  {
-    "hazardFlag": "1", 
-    "lastUpdateTime": "1508987232", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
-    "longitude": "-122.80916", 
-    "latitude": "38.36242", 
-    "outageStartTime": "1508987223", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
-    "outageNumber": "1909628", 
-    "regionName": "Sebastopol"
-  }, 
-  {
-    "hazardFlag": "0", 
-    "lastUpdateTime": "1508987243", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
-    "longitude": "-122.80775", 
-    "latitude": "38.36161", 
-    "outageStartTime": "1508987220", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
-    "outageNumber": "1909629", 
+    "outageNumber": "1909625", 
     "regionName": "Sebastopol"
   }, 
   {
@@ -1332,19 +1302,5 @@
     "cause": "Unknown - PG&E will be assessing the cause.", 
     "outageNumber": "1909585", 
     "regionName": "Stockton"
-  }, 
-  {
-    "currentEtor": "1508992380", 
-    "hazardFlag": "1", 
-    "longitude": "-122.03054", 
-    "lastUpdateTime": "1508987092", 
-    "crewEta": "1508987400", 
-    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "estCustAffected": "1", 
-    "latitude": "37.3453", 
-    "outageStartTime": "1508976703", 
-    "cause": "Unknown - PG&E is investigating the cause.", 
-    "outageNumber": "1909564", 
-    "regionName": "Sunnyvale"
   }
 ]
