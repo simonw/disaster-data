@@ -393,7 +393,7 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
@@ -419,7 +419,7 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-10-26-1173", 
-      "OutageName": "8711030000 - MT OLIVE C", 
+      "OutageName": "8711030000", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
@@ -715,6 +715,10 @@
   "Trucks": [], 
   "Areas": [
     {
+      "County": null, 
+      "Count": 1
+    }, 
+    {
       "County": "Catoosa", 
       "Count": 6
     }, 
@@ -732,7 +736,7 @@
     }, 
     {
       "County": "Whitfield", 
-      "Count": 10
+      "Count": 9
     }
   ]
 }
