@@ -3,7 +3,88 @@
     "CallsLastHour": 0, 
     "CustomerCalls": 0
   }, 
-  "Outages": [], 
+  "Outages": [
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 21, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-10-26T17:41:56-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-10-26-1198", 
+      "OutageName": "F7303519", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.777361106660514, 
+        "X": -84.85366175056166
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.77873463734001, 
+          "X": -84.85431349951057
+        }, 
+        {
+          "Y": 34.7790871061616, 
+          "X": -84.85386415858335
+        }, 
+        {
+          "Y": 34.779737867893374, 
+          "X": -84.85297159193705
+        }, 
+        {
+          "Y": 34.7761574238761, 
+          "X": -84.85286967796137
+        }, 
+        {
+          "Y": 34.77585388602888, 
+          "X": -84.85299319833109
+        }, 
+        {
+          "Y": 34.775714251149, 
+          "X": -84.85350168624319
+        }, 
+        {
+          "Y": 34.77596397714809, 
+          "X": -84.85395521293042
+        }, 
+        {
+          "Y": 34.777099220763546, 
+          "X": -84.85420944136696
+        }, 
+        {
+          "Y": 34.777901589584076, 
+          "X": -84.85427728819096
+        }
+      ], 
+      "MapLocation": null
+    }
+  ], 
   "Trucks": [], 
-  "Areas": null
+  "Areas": [
+    {
+      "County": "Murray", 
+      "Count": 21
+    }
+  ]
 }
