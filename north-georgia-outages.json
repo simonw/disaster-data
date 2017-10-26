@@ -144,53 +144,6 @@
       "MapLocation": null
     }, 
     {
-      "Verified": true, 
-      "TroubledElement": null, 
-      "CustomersServed": null, 
-      "Actions": null, 
-      "Status": null, 
-      "District": null, 
-      "SuspectedCause": null, 
-      "CustomersOutNow": 2, 
-      "CrewResponsible": null, 
-      "CustomerResponsible": null, 
-      "OutagedPhase": null, 
-      "CustomersAffected": null, 
-      "OutageStartTime": "2017-10-26T10:53:16-04:00", 
-      "Dispatcher": null, 
-      "Substation": null, 
-      "UplineElement": null, 
-      "OutageStatus": null, 
-      "EstimatedTime": null, 
-      "Notes": null, 
-      "CrewDispatched": true, 
-      "VerifiedCause": null, 
-      "CostEstimate": null, 
-      "CustomersRestored": 0, 
-      "PriorityCustomers": null, 
-      "CustomersOutInitially": null, 
-      "OutageRecID": "2017-10-26-1176", 
-      "OutageName": "T7123012 BROWN RD", 
-      "OutageEndTime": null, 
-      "ClosingDispatcher": null, 
-      "OutageLocation": {
-        "Y": 34.863019402585735, 
-        "X": -84.85525037859286
-      }, 
-      "Feeder": null, 
-      "OutagePolygon": [
-        {
-          "Y": 34.86294583596007, 
-          "X": -84.85532307474419
-        }, 
-        {
-          "Y": 34.86309296921141, 
-          "X": -84.85517768244152
-        }
-      ], 
-      "MapLocation": null
-    }, 
-    {
       "Verified": false, 
       "TroubledElement": null, 
       "CustomersServed": null, 
@@ -236,6 +189,73 @@
         }
       ], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 45, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-10-26T13:26:44-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-10-26-1187", 
+      "OutageName": "REC-2219502", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.81485078690616, 
+        "X": -85.30650985730422
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.808606013836595, 
+          "X": -85.31941642813236
+        }, 
+        {
+          "Y": 34.82032031662608, 
+          "X": -85.31658356604612
+        }, 
+        {
+          "Y": 34.82349762737743, 
+          "X": -85.3066145282854
+        }, 
+        {
+          "Y": 34.8218965895832, 
+          "X": -85.30362416378775
+        }, 
+        {
+          "Y": 34.81654621506702, 
+          "X": -85.296365156463
+        }, 
+        {
+          "Y": 34.806863089148194, 
+          "X": -85.30123989774059
+        }, 
+        {
+          "Y": 34.80622565670468, 
+          "X": -85.30172526067432
+        }
+      ], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
@@ -253,8 +273,12 @@
       "Count": 10
     }, 
     {
+      "County": "Walker", 
+      "Count": 45
+    }, 
+    {
       "County": "Whitfield", 
-      "Count": 3
+      "Count": 1
     }
   ]
 }
