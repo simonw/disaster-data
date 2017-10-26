@@ -81,14 +81,14 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 5, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -100,22 +100,43 @@
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-10-26-1202", 
-      "OutageName": "7303092000", 
+      "OutageName": "T7303092", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.77737964002269, 
-        "X": -84.85420189187876
+        "Y": 34.7774062274097, 
+        "X": -84.85369955569509
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.777099220763546, 
+          "X": -84.85420944136696
+        }, 
+        {
+          "Y": 34.77737964002269, 
+          "X": -84.85420189187876
+        }, 
+        {
+          "Y": 34.77769810704422, 
+          "X": -84.85336770119233
+        }, 
+        {
+          "Y": 34.77749683062183, 
+          "X": -84.85333133261948
+        }, 
+        {
+          "Y": 34.77735733859622, 
+          "X": -84.85338741141791
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -127,7 +148,7 @@
     }, 
     {
       "County": "Murray", 
-      "Count": 1
+      "Count": 5
     }, 
     {
       "County": "Whitfield", 
