@@ -2,6 +2,32 @@
   "County": [
     {
       "longestDuration": null, 
+      "affected": "482", 
+      "ETORAltDesc": "Unknown", 
+      "percentAffected": "1.08", 
+      "PolyID": "599", 
+      "ETOR": null, 
+      "county": "Hall", 
+      "ETOREnd": null, 
+      "ETORBegin": null, 
+      "numCustomers": "44239", 
+      "position": "34.316902,-83.819673"
+    }, 
+    {
+      "longestDuration": null, 
+      "affected": "313", 
+      "ETORAltDesc": "Unknown", 
+      "percentAffected": "1.25", 
+      "PolyID": "598", 
+      "ETOR": null, 
+      "county": "Jackson", 
+      "ETOREnd": null, 
+      "ETORBegin": null, 
+      "numCustomers": "24928", 
+      "position": "34.13395,-83.566523"
+    }, 
+    {
+      "longestDuration": null, 
       "affected": "0", 
       "ETORAltDesc": null, 
       "percentAffected": "0", 
@@ -70,32 +96,6 @@
       "affected": "0", 
       "ETORAltDesc": null, 
       "percentAffected": "0", 
-      "PolyID": "599", 
-      "ETOR": null, 
-      "county": "Hall", 
-      "ETOREnd": null, 
-      "ETORBegin": null, 
-      "numCustomers": "44239", 
-      "position": "34.316902,-83.819673"
-    }, 
-    {
-      "longestDuration": null, 
-      "affected": "0", 
-      "ETORAltDesc": null, 
-      "percentAffected": "0", 
-      "PolyID": "598", 
-      "ETOR": null, 
-      "county": "Jackson", 
-      "ETOREnd": null, 
-      "ETORBegin": null, 
-      "numCustomers": "24928", 
-      "position": "34.13395,-83.566523"
-    }, 
-    {
-      "longestDuration": null, 
-      "affected": "0", 
-      "ETORAltDesc": null, 
-      "percentAffected": "0", 
       "PolyID": "603", 
       "ETOR": null, 
       "county": "Lumpkin", 
@@ -134,16 +134,29 @@
   "District": [
     {
       "longestDuration": null, 
-      "affected": "0", 
+      "affected": "581", 
       "district": "Gainesville District", 
-      "ETORAltDesc": null, 
-      "percentAffected": "0", 
+      "ETORAltDesc": "Unknown", 
+      "percentAffected": "1.23", 
       "PolyID": "237", 
       "ETOR": null, 
       "ETOREnd": null, 
       "ETORBegin": null, 
       "numCustomers": "47007", 
       "position": "34.348088,-83.857539"
+    }, 
+    {
+      "longestDuration": null, 
+      "affected": "214", 
+      "district": "Jefferson District", 
+      "ETORAltDesc": "Unknown", 
+      "percentAffected": ".45", 
+      "PolyID": "236", 
+      "ETOR": null, 
+      "ETOREnd": null, 
+      "ETORBegin": null, 
+      "numCustomers": "47544", 
+      "position": "34.140662,-83.580935"
     }, 
     {
       "longestDuration": null, 
@@ -161,19 +174,6 @@
     {
       "longestDuration": null, 
       "affected": "0", 
-      "district": "Jefferson District", 
-      "ETORAltDesc": null, 
-      "percentAffected": "0", 
-      "PolyID": "236", 
-      "ETOR": null, 
-      "ETOREnd": null, 
-      "ETORBegin": null, 
-      "numCustomers": "47544", 
-      "position": "34.140662,-83.580935"
-    }, 
-    {
-      "longestDuration": null, 
-      "affected": "0", 
       "district": "Neese District", 
       "ETORAltDesc": null, 
       "percentAffected": "0", 
@@ -185,5 +185,58 @@
       "position": "34.106761,-83.237858"
     }
   ], 
-  "Zip": []
+  "Zip": [
+    {
+      "longestDuration": null, 
+      "affected": "488", 
+      "ETORAltDesc": "Unknown", 
+      "percentAffected": "32.9", 
+      "ETOR": null, 
+      "PolyID": "153", 
+      "zip code": "30543", 
+      "ETOREnd": null, 
+      "ETORBegin": null, 
+      "numCustomers": "1483", 
+      "position": "34.296605,-83.647873"
+    }, 
+    {
+      "longestDuration": null, 
+      "affected": "202", 
+      "ETORAltDesc": "Unknown", 
+      "percentAffected": "47.52", 
+      "ETOR": null, 
+      "PolyID": "180", 
+      "zip code": "30575", 
+      "ETOREnd": null, 
+      "ETORBegin": null, 
+      "numCustomers": "425", 
+      "position": "34.201422,-83.711392"
+    }, 
+    {
+      "longestDuration": null, 
+      "affected": "54", 
+      "ETORAltDesc": "Unknown", 
+      "percentAffected": ".74", 
+      "ETOR": null, 
+      "PolyID": "120", 
+      "zip code": "30507", 
+      "ETOREnd": null, 
+      "ETORBegin": null, 
+      "numCustomers": "7248", 
+      "position": "34.260078,-83.766453"
+    }, 
+    {
+      "longestDuration": null, 
+      "affected": "51", 
+      "ETORAltDesc": "Unknown", 
+      "percentAffected": "4.18", 
+      "ETOR": null, 
+      "PolyID": "175", 
+      "zip code": "30567", 
+      "ETOREnd": null, 
+      "ETORBegin": null, 
+      "numCustomers": "1218", 
+      "position": "34.182863,-83.674659"
+    }
+  ]
 }
