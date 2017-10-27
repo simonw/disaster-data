@@ -52,7 +52,7 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
@@ -71,14 +71,14 @@
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-10-27-1226", 
-      "OutageName": "6803005770", 
+      "OutageName": "6803005770- enterprise dr", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
@@ -90,41 +90,58 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 4, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
       "CustomersAffected": null, 
-      "OutageStartTime": "2017-10-27T09:29:54-04:00", 
+      "OutageStartTime": "2017-10-27T09:37:18-04:00", 
       "Dispatcher": null, 
       "Substation": null, 
       "UplineElement": null, 
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
-      "OutageRecID": "2017-10-27-1227", 
-      "OutageName": "7719029000", 
+      "OutageRecID": "2017-10-27-1230", 
+      "OutageName": "T6606048 - goat rd", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.46639520359538, 
-        "X": -84.83005424029534
+        "Y": 34.5649996247723, 
+        "X": -84.98067593851248
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.5653048545682, 
+          "X": -84.98086490580778
+        }, 
+        {
+          "Y": 34.56526555851039, 
+          "X": -84.98070534005565
+        }, 
+        {
+          "Y": 34.56479976160096, 
+          "X": -84.98045513905892
+        }, 
+        {
+          "Y": 34.56462832440964, 
+          "X": -84.98067836912757
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -132,7 +149,7 @@
   "Areas": [
     {
       "County": "Gordon", 
-      "Count": 2
+      "Count": 5
     }, 
     {
       "County": "Whitfield", 
