@@ -5,7 +5,7 @@
   }, 
   "Outages": [
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
@@ -106,17 +106,120 @@
         }
       ], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 1109, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-10-27T08:11:21-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-10-27-1217", 
+      "OutageName": "BRK-29-314", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.45241575041386, 
+        "X": -84.82384167248756
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.47084246782248, 
+          "X": -84.88186679007653
+        }, 
+        {
+          "Y": 34.478289603901835, 
+          "X": -84.88186217989036
+        }, 
+        {
+          "Y": 34.478593847582296, 
+          "X": -84.88167104487692
+        }, 
+        {
+          "Y": 34.48689679593198, 
+          "X": -84.82757071253101
+        }, 
+        {
+          "Y": 34.48701426682035, 
+          "X": -84.82644389680414
+        }, 
+        {
+          "Y": 34.486432177740866, 
+          "X": -84.82299333871407
+        }, 
+        {
+          "Y": 34.47473529615679, 
+          "X": -84.77763912959193
+        }, 
+        {
+          "Y": 34.443530788697295, 
+          "X": -84.74119918976194
+        }, 
+        {
+          "Y": 34.398935891613775, 
+          "X": -84.75748639800106
+        }, 
+        {
+          "Y": 34.3976425648883, 
+          "X": -84.75843798148479
+        }, 
+        {
+          "Y": 34.396198664917925, 
+          "X": -84.79929742052104
+        }, 
+        {
+          "Y": 34.40680321917768, 
+          "X": -84.8149084011619
+        }, 
+        {
+          "Y": 34.46353789555113, 
+          "X": -84.88115345880703
+        }, 
+        {
+          "Y": 34.464367024991475, 
+          "X": -84.8812534726029
+        }
+      ], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
   "Areas": [
     {
       "County": "Catoosa", 
-      "Count": 3
+      "Count": 4
+    }, 
+    {
+      "County": "Gordon", 
+      "Count": 1107
     }, 
     {
       "County": "Walker", 
       "Count": 847
+    }, 
+    {
+      "County": "Whitfield", 
+      "Count": 1
     }
   ]
 }
