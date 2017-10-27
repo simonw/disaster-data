@@ -3,7 +3,112 @@
     "CallsLastHour": 0, 
     "CustomerCalls": 0
   }, 
-  "Outages": [], 
+  "Outages": [
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 665, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-10-27T16:54:54-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-10-27-1249", 
+      "OutageName": "REC-6208537", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.84422791643018, 
+        "X": -84.9618371913279
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.84265709588571, 
+          "X": -84.9752214952196
+        }, 
+        {
+          "Y": 34.850764196733685, 
+          "X": -84.97188023365592
+        }, 
+        {
+          "Y": 34.85138788713748, 
+          "X": -84.97158915316942
+        }, 
+        {
+          "Y": 34.85586254736479, 
+          "X": -84.95699647717798
+        }, 
+        {
+          "Y": 34.8559259961385, 
+          "X": -84.95475994247197
+        }, 
+        {
+          "Y": 34.855737309303045, 
+          "X": -84.95427613499659
+        }, 
+        {
+          "Y": 34.8424696921955, 
+          "X": -84.94560200389962
+        }, 
+        {
+          "Y": 34.84135923189691, 
+          "X": -84.94492014615813
+        }, 
+        {
+          "Y": 34.836852846389846, 
+          "X": -84.94647304932984
+        }, 
+        {
+          "Y": 34.83586333881626, 
+          "X": -84.9491225689099
+        }, 
+        {
+          "Y": 34.83767321594003, 
+          "X": -84.9662309849096
+        }, 
+        {
+          "Y": 34.837870509125864, 
+          "X": -84.9672333904935
+        }, 
+        {
+          "Y": 34.839275177860785, 
+          "X": -84.97423808729246
+        }, 
+        {
+          "Y": 34.83950278974288, 
+          "X": -84.97439382223821
+        }, 
+        {
+          "Y": 34.84021691192146, 
+          "X": -84.97462037999584
+        }
+      ], 
+      "MapLocation": null
+    }
+  ], 
   "Trucks": [], 
-  "Areas": null
+  "Areas": [
+    {
+      "County": "Whitfield", 
+      "Count": 665
+    }
+  ]
 }
