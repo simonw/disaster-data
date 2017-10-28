@@ -303,14 +303,14 @@
   {
     "currentEtor": "1509182100", 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1509170580", 
+    "lastUpdateTime": "1509173360", 
     "autoEtor": "1509182100", 
     "estCustAffected": "5", 
-    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "longitude": "-121.63681", 
     "latitude": "39.76197", 
     "outageStartTime": "1509170272", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1911203", 
     "regionName": "Paradise"
   }, 
@@ -427,14 +427,36 @@
   }, 
   {
     "currentEtor": "1509183000", 
+    "outageDevices": [
+      {
+        "latitude": "35.22216", 
+        "longitude": "-120.66943"
+      }, 
+      {
+        "latitude": "35.224", 
+        "longitude": "-120.66731"
+      }, 
+      {
+        "latitude": "35.22839", 
+        "longitude": "-120.66858"
+      }, 
+      {
+        "latitude": "35.22723", 
+        "longitude": "-120.67173"
+      }, 
+      {
+        "latitude": "35.22516", 
+        "longitude": "-120.67167"
+      }
+    ], 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1509172474", 
+    "lastUpdateTime": "1509173481", 
     "autoEtor": "1509183000", 
-    "estCustAffected": "6", 
+    "estCustAffected": "18", 
     "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
-    "longitude": "-120.66731", 
-    "latitude": "35.224", 
-    "outageStartTime": "1509172080", 
+    "longitude": "-120.67204", 
+    "latitude": "35.23013", 
+    "outageStartTime": "1509169980", 
     "cause": "Unknown - PG&E will be assessing the cause.", 
     "outageNumber": "1911207", 
     "regionName": "San Luis Obispo"
@@ -683,9 +705,9 @@
   {
     "currentEtor": "1509181200", 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1509167858", 
+    "lastUpdateTime": "1509173234", 
     "estCustAffected": "13", 
-    "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
+    "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
     "longitude": "-121.24304", 
     "latitude": "37.93748", 
     "outageStartTime": "1509147060", 
@@ -696,13 +718,13 @@
   {
     "currentEtor": "1509181200", 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1509173191", 
+    "lastUpdateTime": "1509173261", 
     "estCustAffected": "13", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
     "longitude": "-121.24291", 
     "latitude": "37.93555", 
     "outageStartTime": "1509167469", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "cause": "There is a problem with the transformer.", 
     "outageNumber": "1911196", 
     "regionName": "Stockton"
   }
