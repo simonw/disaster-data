@@ -3,7 +3,72 @@
     "CallsLastHour": 0, 
     "CustomerCalls": 0
   }, 
-  "Outages": [], 
+  "Outages": [
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 9, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-10-28T04:34:44-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": true, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-10-28-1255", 
+      "OutageName": "F4102518", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.91497729664961, 
+        "X": -85.17315484734794
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.91473933377893, 
+          "X": -85.17421988929313
+        }, 
+        {
+          "Y": 34.91518810628638, 
+          "X": -85.17361399863516
+        }, 
+        {
+          "Y": 34.91521416286681, 
+          "X": -85.17287041436738
+        }, 
+        {
+          "Y": 34.91512936686352, 
+          "X": -85.17240097060652
+        }, 
+        {
+          "Y": 34.9146155134524, 
+          "X": -85.1726689638375
+        }
+      ], 
+      "MapLocation": null
+    }
+  ], 
   "Trucks": [], 
-  "Areas": null
+  "Areas": [
+    {
+      "County": "Catoosa", 
+      "Count": 9
+    }
+  ]
 }
