@@ -195,14 +195,14 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 4, 
+      "CustomersOutNow": 50, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -214,43 +214,67 @@
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-10-30-1312", 
-      "OutageName": "T7319042", 
+      "OutageName": "F7319504", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.73700271277794, 
-        "X": -84.82438318597634
+        "Y": 34.73502020117788, 
+        "X": -84.82442020855999
       }, 
       "Feeder": null, 
       "OutagePolygon": [
         {
-          "Y": 34.73708217991925, 
-          "X": -84.82464526163668
+          "Y": 34.739868551172975, 
+          "X": -84.8248493663057
         }, 
         {
-          "Y": 34.73708485791645, 
-          "X": -84.82414934469583
+          "Y": 34.73995446174054, 
+          "X": -84.82428005923191
         }, 
         {
-          "Y": 34.73692873657278, 
-          "X": -84.82413177504277
+          "Y": 34.739704812810785, 
+          "X": -84.82414574864589
         }, 
         {
-          "Y": 34.73691507670326, 
-          "X": -84.8246063625301
+          "Y": 34.7343635689897, 
+          "X": -84.82384757346112
+        }, 
+        {
+          "Y": 34.730836181955745, 
+          "X": -84.82391387951415
+        }, 
+        {
+          "Y": 34.730382967131064, 
+          "X": -84.82445714813423
+        }, 
+        {
+          "Y": 34.730731281595396, 
+          "X": -84.82454451185521
+        }, 
+        {
+          "Y": 34.7325034311251, 
+          "X": -84.82464206995724
+        }, 
+        {
+          "Y": 34.73356113764999, 
+          "X": -84.82467900070834
+        }, 
+        {
+          "Y": 34.73829561760754, 
+          "X": -84.82484272778596
         }
       ], 
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
@@ -269,13 +293,13 @@
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
-      "OutageRecID": "2017-10-30-1313", 
+      "OutageRecID": "2017-10-30-1314", 
       "OutageName": "T7308139", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
@@ -295,13 +319,60 @@
         }
       ], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": true, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 2, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-10-30T13:45:27-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": true, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-10-30-1315", 
+      "OutageName": "T7308082", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.77354237460824, 
+        "X": -84.85523115664905
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.773611952980524, 
+          "X": -84.85561488530617
+        }, 
+        {
+          "Y": 34.773472796235964, 
+          "X": -84.85484742799194
+        }
+      ], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
   "Areas": [
     {
       "County": "Murray", 
-      "Count": 8
+      "Count": 55
     }, 
     {
       "County": "Walker", 
@@ -309,7 +380,7 @@
     }, 
     {
       "County": "Whitfield", 
-      "Count": 1
+      "Count": 2
     }
   ]
 }
