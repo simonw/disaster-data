@@ -315,52 +315,14 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
-      "CrewResponsible": null, 
-      "CustomerResponsible": null, 
-      "OutagedPhase": null, 
-      "CustomersAffected": null, 
-      "OutageStartTime": "2017-10-31T14:42:51-04:00", 
-      "Dispatcher": null, 
-      "Substation": null, 
-      "UplineElement": null, 
-      "OutageStatus": null, 
-      "EstimatedTime": null, 
-      "Notes": null, 
-      "CrewDispatched": false, 
-      "VerifiedCause": null, 
-      "CostEstimate": null, 
-      "CustomersRestored": 0, 
-      "PriorityCustomers": null, 
-      "CustomersOutInitially": null, 
-      "OutageRecID": "2017-10-31-1378", 
-      "OutageName": "4104202002", 
-      "OutageEndTime": null, 
-      "ClosingDispatcher": null, 
-      "OutageLocation": {
-        "Y": 34.911522524057624, 
-        "X": -85.1204422815772
-      }, 
-      "Feeder": null, 
-      "OutagePolygon": [], 
-      "MapLocation": null
-    }, 
-    {
-      "Verified": false, 
-      "TroubledElement": null, 
-      "CustomersServed": null, 
-      "Actions": null, 
-      "Status": null, 
-      "District": null, 
-      "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 3, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -372,22 +334,35 @@
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-10-31-1379", 
-      "OutageName": "8123089004", 
+      "OutageName": "T8123089", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.857533683773056, 
-        "X": -84.75319843472643
+        "Y": 34.85748915546744, 
+        "X": -84.75337721217613
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.85746673043988, 
+          "X": -84.75349994166281
+        }, 
+        {
+          "Y": 34.857533683773056, 
+          "X": -84.75319843472643
+        }, 
+        {
+          "Y": 34.85746705218939, 
+          "X": -84.75343326013918
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -395,7 +370,7 @@
   "Areas": [
     {
       "County": "Catoosa", 
-      "Count": 2
+      "Count": 1
     }, 
     {
       "County": "Floyd", 
@@ -407,7 +382,7 @@
     }, 
     {
       "County": "Murray", 
-      "Count": 1
+      "Count": 3
     }, 
     {
       "County": "Walker", 
