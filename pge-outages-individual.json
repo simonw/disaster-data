@@ -85,9 +85,9 @@
     "regionName": "Calistoga"
   }, 
   {
-    "currentEtor": "1509427800", 
+    "currentEtor": "1509436800", 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1509419551", 
+    "lastUpdateTime": "1509426186", 
     "estCustAffected": "1", 
     "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
     "longitude": "-122.66653", 
@@ -154,14 +154,14 @@
     ], 
     "hazardFlag": "2", 
     "longitude": "-122.66496", 
-    "lastUpdateTime": "1509424250", 
+    "lastUpdateTime": "1509426625", 
     "autoEtor": "1509434100", 
     "crewEta": "1509427800", 
-    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "estCustAffected": "157", 
     "latitude": "39.02735", 
     "outageStartTime": "1509423074", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1912624", 
     "regionName": "Clearlake Oaks"
   }, 
@@ -208,25 +208,12 @@
     "regionName": "Corte Madera"
   }, 
   {
-    "currentEtor": "1509438600", 
-    "hazardFlag": "0", 
-    "lastUpdateTime": "1509426156", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "longitude": "-122.01505", 
-    "latitude": "37.82429", 
-    "outageStartTime": "1509403314", 
-    "cause": "Unknown - PG&E is investigating the cause.", 
-    "outageNumber": "1912518", 
-    "regionName": "Danville"
-  }, 
-  {
     "currentEtor": "1509433200", 
     "hazardFlag": "0", 
     "lastUpdateTime": "1509421508", 
     "autoEtor": "1509433200", 
     "estCustAffected": "10", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
     "longitude": "-121.96618", 
     "latitude": "37.79122", 
     "outageStartTime": "1509420900", 
@@ -315,16 +302,17 @@
     "regionName": "Napa"
   }, 
   {
+    "currentEtor": "1509454800", 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1509422940", 
-    "estCustAffected": "8", 
-    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "longitude": "-122.65525", 
-    "latitude": "38.26563", 
-    "outageStartTime": "1509420409", 
-    "cause": "Unknown - PG&E is investigating the cause.", 
-    "outageNumber": "1912620", 
-    "regionName": "Petaluma"
+    "lastUpdateTime": "1509426596", 
+    "estCustAffected": "16", 
+    "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
+    "longitude": "-122.2288", 
+    "latitude": "37.48191", 
+    "outageStartTime": "1509426180", 
+    "cause": "Planned maintenance in the area.", 
+    "outageNumber": "1912633", 
+    "regionName": "Redwood City"
   }, 
   {
     "currentEtor": "1509456900", 
@@ -346,24 +334,16 @@
         "longitude": "-121.73764"
       }, 
       {
-        "latitude": "36.74803", 
-        "longitude": "-121.74796"
+        "latitude": "36.73312", 
+        "longitude": "-121.74536"
       }, 
       {
-        "latitude": "36.74988", 
-        "longitude": "-121.74996"
+        "latitude": "36.7384", 
+        "longitude": "-121.75168"
       }, 
       {
-        "latitude": "36.74969", 
-        "longitude": "-121.75038"
-      }, 
-      {
-        "latitude": "36.73918", 
-        "longitude": "-121.76359"
-      }, 
-      {
-        "latitude": "36.73534", 
-        "longitude": "-121.76421"
+        "latitude": "36.73513", 
+        "longitude": "-121.75963"
       }, 
       {
         "latitude": "36.72515", 
@@ -376,10 +356,10 @@
     ], 
     "hazardFlag": "1", 
     "longitude": "-121.7422", 
-    "lastUpdateTime": "1509424605", 
+    "lastUpdateTime": "1509426585", 
     "crewEta": "1509429600", 
     "crewCurrentStatus": "PG&E repair crew is en route to the outage location.", 
-    "estCustAffected": "51", 
+    "estCustAffected": "40", 
     "latitude": "36.75038", 
     "outageStartTime": "1509416460", 
     "cause": "A vehicle has hit a power pole.", 
@@ -400,6 +380,33 @@
     "regionName": "San Bruno"
   }, 
   {
+    "currentEtor": "1509447600", 
+    "outageDevices": [
+      {
+        "latitude": "37.78328", 
+        "longitude": "-122.40552"
+      }, 
+      {
+        "latitude": "37.78574", 
+        "longitude": "-122.40284"
+      }, 
+      {
+        "latitude": "37.78925", 
+        "longitude": "-122.39991"
+      }
+    ], 
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1509426250", 
+    "estCustAffected": "2", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-122.40719", 
+    "latitude": "37.77986", 
+    "outageStartTime": "1509426000", 
+    "cause": "Planned maintenance in the area.", 
+    "outageNumber": "1912632", 
+    "regionName": "San Francisco"
+  }, 
+  {
     "currentEtor": "1509449400", 
     "hazardFlag": "0", 
     "lastUpdateTime": "1509416652", 
@@ -411,21 +418,6 @@
     "cause": "There is a problem with the transformer.", 
     "outageNumber": "1912593", 
     "regionName": "San Luis Obispo"
-  }, 
-  {
-    "currentEtor": "1509435900", 
-    "hazardFlag": "1", 
-    "longitude": "-120.00506", 
-    "lastUpdateTime": "1509422993", 
-    "autoEtor": "1509435900", 
-    "crewEta": "1509423300", 
-    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "estCustAffected": "1", 
-    "latitude": "35.32469", 
-    "outageStartTime": "1509417298", 
-    "cause": "Unknown - PG&E is investigating the cause.", 
-    "outageNumber": "1912609", 
-    "regionName": "Santa Margarita"
   }, 
   {
     "currentEtor": "1509487200", 
@@ -537,10 +529,10 @@
     "regionName": "Soledad"
   }, 
   {
-    "currentEtor": "1509428040", 
+    "currentEtor": "1509440820", 
     "hazardFlag": "0", 
     "longitude": "-121.34713", 
-    "lastUpdateTime": "1509420900", 
+    "lastUpdateTime": "1509426456", 
     "crewEta": "1509427440", 
     "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
     "estCustAffected": "1", 
