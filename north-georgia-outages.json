@@ -293,44 +293,6 @@
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
       "CustomersAffected": null, 
-      "OutageStartTime": "2017-10-31T13:54:05-04:00", 
-      "Dispatcher": null, 
-      "Substation": null, 
-      "UplineElement": null, 
-      "OutageStatus": null, 
-      "EstimatedTime": null, 
-      "Notes": null, 
-      "CrewDispatched": false, 
-      "VerifiedCause": null, 
-      "CostEstimate": null, 
-      "CustomersRestored": 0, 
-      "PriorityCustomers": null, 
-      "CustomersOutInitially": null, 
-      "OutageRecID": "2017-10-31-1364", 
-      "OutageName": "6203038004", 
-      "OutageEndTime": null, 
-      "ClosingDispatcher": null, 
-      "OutageLocation": {
-        "Y": 34.84322561949831, 
-        "X": -84.9587131045646
-      }, 
-      "Feeder": null, 
-      "OutagePolygon": [], 
-      "MapLocation": null
-    }, 
-    {
-      "Verified": false, 
-      "TroubledElement": null, 
-      "CustomersServed": null, 
-      "Actions": null, 
-      "Status": null, 
-      "District": null, 
-      "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
-      "CrewResponsible": null, 
-      "CustomerResponsible": null, 
-      "OutagedPhase": null, 
-      "CustomersAffected": null, 
       "OutageStartTime": "2017-10-31T13:55:48-04:00", 
       "Dispatcher": null, 
       "Substation": null, 
@@ -355,10 +317,113 @@
       "Feeder": null, 
       "OutagePolygon": [], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": true, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 412, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-10-31T13:57:08-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-10-31-1369", 
+      "OutageName": "BRK-14-314", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.89698503393582, 
+        "X": -84.98075935051214
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.889892218886175, 
+          "X": -84.987894633486
+        }, 
+        {
+          "Y": 34.92138422711097, 
+          "X": -84.98603727266939
+        }, 
+        {
+          "Y": 34.92447270669993, 
+          "X": -84.98425902478836
+        }, 
+        {
+          "Y": 34.925869194165045, 
+          "X": -84.98262380160558
+        }, 
+        {
+          "Y": 34.9250385766324, 
+          "X": -84.9804295304707
+        }, 
+        {
+          "Y": 34.920946773843205, 
+          "X": -84.97016134516515
+        }, 
+        {
+          "Y": 34.89629961682753, 
+          "X": -84.95744611234869
+        }, 
+        {
+          "Y": 34.87137267886002, 
+          "X": -84.97711285592639
+        }, 
+        {
+          "Y": 34.87159385024142, 
+          "X": -84.97887035202743
+        }, 
+        {
+          "Y": 34.87187380237363, 
+          "X": -84.97930001005865
+        }, 
+        {
+          "Y": 34.87866146022227, 
+          "X": -84.98356669446554
+        }, 
+        {
+          "Y": 34.88506349170427, 
+          "X": -84.98740673950527
+        }, 
+        {
+          "Y": 34.8868443430184, 
+          "X": -84.98770311336895
+        }, 
+        {
+          "Y": 34.888477534516255, 
+          "X": -84.98781942128377
+        }
+      ], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
   "Areas": [
+    {
+      "County": null, 
+      "Count": 1
+    }, 
+    {
+      "County": "Catoosa", 
+      "Count": 1
+    }, 
     {
       "County": "Chattooga", 
       "Count": 1
@@ -373,7 +438,7 @@
     }, 
     {
       "County": "Whitfield", 
-      "Count": 7
+      "Count": 416
     }
   ]
 }
