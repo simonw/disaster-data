@@ -166,78 +166,7 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
-      "TroubledElement": null, 
-      "CustomersServed": null, 
-      "Actions": null, 
-      "Status": null, 
-      "District": null, 
-      "SuspectedCause": null, 
-      "CustomersOutNow": 50, 
-      "CrewResponsible": null, 
-      "CustomerResponsible": null, 
-      "OutagedPhase": null, 
-      "CustomersAffected": null, 
-      "OutageStartTime": "2017-11-01T09:29:39-04:00", 
-      "Dispatcher": null, 
-      "Substation": null, 
-      "UplineElement": null, 
-      "OutageStatus": null, 
-      "EstimatedTime": null, 
-      "Notes": null, 
-      "CrewDispatched": false, 
-      "VerifiedCause": null, 
-      "CostEstimate": null, 
-      "CustomersRestored": 0, 
-      "PriorityCustomers": null, 
-      "CustomersOutInitially": null, 
-      "OutageRecID": "2017-11-01-0007", 
-      "OutageName": "REC-7619504", 
-      "OutageEndTime": null, 
-      "ClosingDispatcher": null, 
-      "OutageLocation": {
-        "Y": 34.51559036875917, 
-        "X": -84.83167670399683
-      }, 
-      "Feeder": null, 
-      "OutagePolygon": [
-        {
-          "Y": 34.520461623958866, 
-          "X": -84.83718631012476
-        }, 
-        {
-          "Y": 34.526800489280156, 
-          "X": -84.83601736844348
-        }, 
-        {
-          "Y": 34.52821610066004, 
-          "X": -84.8352836332828
-        }, 
-        {
-          "Y": 34.515229609988396, 
-          "X": -84.82270520601351
-        }, 
-        {
-          "Y": 34.51413911910384, 
-          "X": -84.82216372885917
-        }, 
-        {
-          "Y": 34.50276154158453, 
-          "X": -84.83025656847536
-        }, 
-        {
-          "Y": 34.504823306564475, 
-          "X": -84.83313735985143
-        }, 
-        {
-          "Y": 34.51229115893308, 
-          "X": -84.83666345692414
-        }
-      ], 
-      "MapLocation": null
-    }, 
-    {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
@@ -256,7 +185,7 @@
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
@@ -286,13 +215,64 @@
         }
       ], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": true, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 3, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-11-01T09:29:39-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": true, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-11-01-0009", 
+      "OutageName": "PC-44572", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.50733944491372, 
+        "X": -84.82938370129214
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.50769062601004, 
+          "X": -84.83058468842465
+        }, 
+        {
+          "Y": 34.507828779736904, 
+          "X": -84.8293685437893
+        }, 
+        {
+          "Y": 34.506498928994205, 
+          "X": -84.82819787166248
+        }
+      ], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
   "Areas": [
     {
       "County": "Gordon", 
-      "Count": 50
+      "Count": 3
     }, 
     {
       "County": "Murray", 
