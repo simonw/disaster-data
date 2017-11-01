@@ -30,6 +30,19 @@
   {
     "currentEtor": "1509584400", 
     "hazardFlag": "0", 
+    "lastUpdateTime": "1509487738", 
+    "estCustAffected": "4", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-122.65538", 
+    "latitude": "38.55409", 
+    "outageStartTime": "1507529829", 
+    "cause": "Fire in the area.", 
+    "outageNumber": "1902648", 
+    "regionName": "Calistoga"
+  }, 
+  {
+    "currentEtor": "1509584400", 
+    "hazardFlag": "0", 
     "lastUpdateTime": "1509487787", 
     "estCustAffected": "3", 
     "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
@@ -50,19 +63,6 @@
     "outageStartTime": "1508863200", 
     "cause": "Unknown - PG&E will be assessing the cause.", 
     "outageNumber": "1913141", 
-    "regionName": "Calistoga"
-  }, 
-  {
-    "currentEtor": "1509584400", 
-    "hazardFlag": "0", 
-    "lastUpdateTime": "1509487738", 
-    "estCustAffected": "4", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
-    "longitude": "-122.65538", 
-    "latitude": "38.55409", 
-    "outageStartTime": "1507529829", 
-    "cause": "Fire in the area.", 
-    "outageNumber": "1902648", 
     "regionName": "Calistoga"
   }, 
   {
@@ -127,19 +127,6 @@
     "cause": "Found damaged equipment.", 
     "outageNumber": "1913065", 
     "regionName": "Greenfield"
-  }, 
-  {
-    "currentEtor": "1509519000", 
-    "hazardFlag": "1", 
-    "lastUpdateTime": "1509505591", 
-    "estCustAffected": "3", 
-    "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
-    "longitude": "-120.61355", 
-    "latitude": "34.96126", 
-    "outageStartTime": "1509502520", 
-    "cause": "Found damaged equipment on a power pole.", 
-    "outageNumber": "1913323", 
-    "regionName": "Guadalupe"
   }, 
   {
     "currentEtor": "1509512460", 
@@ -341,13 +328,13 @@
   {
     "currentEtor": "1509511260", 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1509506249", 
+    "lastUpdateTime": "1509508895", 
     "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "longitude": "-121.26431", 
     "latitude": "37.92663", 
     "outageStartTime": "1509484638", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1913147", 
     "regionName": "Stockton"
   }, 
@@ -355,7 +342,7 @@
     "currentEtor": "1509531300", 
     "hazardFlag": "0", 
     "longitude": "-122.20652", 
-    "lastUpdateTime": "1509505845", 
+    "lastUpdateTime": "1509508753", 
     "crewEta": "1509512400", 
     "crewCurrentStatus": "PG&E is sending a repair crew to the outage location.", 
     "estCustAffected": "4", 
@@ -395,50 +382,6 @@
     "outageStartTime": "1509501360", 
     "cause": "Unknown - PG&E will be assessing the cause.", 
     "outageNumber": "1913330", 
-    "regionName": "Yuba City"
-  }, 
-  {
-    "currentEtor": "1509511500", 
-    "outageDevices": [
-      {
-        "latitude": "38.99014", 
-        "longitude": "-121.70899"
-      }, 
-      {
-        "latitude": "39.0223", 
-        "longitude": "-121.64003"
-      }, 
-      {
-        "latitude": "39.02545", 
-        "longitude": "-121.63727"
-      }, 
-      {
-        "latitude": "39.069", 
-        "longitude": "-121.62972"
-      }, 
-      {
-        "latitude": "39.12888", 
-        "longitude": "-121.6879"
-      }, 
-      {
-        "latitude": "39.14352", 
-        "longitude": "-121.79818"
-      }, 
-      {
-        "latitude": "38.996", 
-        "longitude": "-121.72059"
-      }
-    ], 
-    "hazardFlag": "1", 
-    "lastUpdateTime": "1509508316", 
-    "autoEtor": "1509511500", 
-    "estCustAffected": "1061", 
-    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "longitude": "-121.69014", 
-    "latitude": "39.06947", 
-    "outageStartTime": "1509501360", 
-    "cause": "Unknown - PG&E is investigating the cause.", 
-    "outageNumber": "1913285", 
     "regionName": "Yuba City"
   }, 
   {
@@ -499,6 +442,50 @@
     "outageStartTime": "1509501360", 
     "cause": "Unknown - PG&E will be assessing the cause.", 
     "outageNumber": "1913298", 
+    "regionName": "Yuba City"
+  }, 
+  {
+    "currentEtor": "1509511500", 
+    "outageDevices": [
+      {
+        "latitude": "38.99014", 
+        "longitude": "-121.70899"
+      }, 
+      {
+        "latitude": "39.0223", 
+        "longitude": "-121.64003"
+      }, 
+      {
+        "latitude": "39.02545", 
+        "longitude": "-121.63727"
+      }, 
+      {
+        "latitude": "39.069", 
+        "longitude": "-121.62972"
+      }, 
+      {
+        "latitude": "39.12888", 
+        "longitude": "-121.6879"
+      }, 
+      {
+        "latitude": "39.14352", 
+        "longitude": "-121.79818"
+      }, 
+      {
+        "latitude": "38.996", 
+        "longitude": "-121.72059"
+      }
+    ], 
+    "hazardFlag": "1", 
+    "lastUpdateTime": "1509508316", 
+    "autoEtor": "1509511500", 
+    "estCustAffected": "1061", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
+    "longitude": "-121.69014", 
+    "latitude": "39.06947", 
+    "outageStartTime": "1509501360", 
+    "cause": "Unknown - PG&E is investigating the cause.", 
+    "outageNumber": "1913285", 
     "regionName": "Yuba City"
   }
 ]
