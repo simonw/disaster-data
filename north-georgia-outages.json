@@ -3,7 +3,76 @@
     "CallsLastHour": 0, 
     "CustomerCalls": 0
   }, 
-  "Outages": [], 
+  "Outages": [
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 8, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-11-02T08:00:10-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-11-02-0034", 
+      "OutageName": "F3619502", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.522086907875796, 
+        "X": -85.2112731395782
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.522841193118445, 
+          "X": -85.21680301399218
+        }, 
+        {
+          "Y": 34.522565488337726, 
+          "X": -85.20830051997827
+        }, 
+        {
+          "Y": 34.5221901181287, 
+          "X": -85.2087887217294
+        }, 
+        {
+          "Y": 34.521608774326566, 
+          "X": -85.20972719492813
+        }, 
+        {
+          "Y": 34.521596935391145, 
+          "X": -85.21012929902861
+        }, 
+        {
+          "Y": 34.5217189379522, 
+          "X": -85.21389008781257
+        }
+      ], 
+      "MapLocation": null
+    }
+  ], 
   "Trucks": [], 
-  "Areas": null
+  "Areas": [
+    {
+      "County": "Chattooga", 
+      "Count": 8
+    }
+  ]
 }
