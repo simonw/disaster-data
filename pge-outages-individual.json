@@ -68,7 +68,7 @@
       }
     ], 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1509634904", 
+    "lastUpdateTime": "1509635187", 
     "estCustAffected": "31", 
     "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
     "longitude": "-122.08673", 
@@ -81,11 +81,12 @@
   {
     "currentEtor": "1509649200", 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1509634731", 
-    "autoEtor": "1509649200", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
     "longitude": "-120.05188", 
+    "lastUpdateTime": "1509635095", 
+    "autoEtor": "1509649200", 
+    "crewEta": "1509638640", 
+    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "estCustAffected": "1", 
     "latitude": "37.47334", 
     "outageStartTime": "1509634723", 
     "cause": "Unknown - PG&E will be assessing the cause.", 
@@ -265,7 +266,7 @@
       }
     ], 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1509634596", 
+    "lastUpdateTime": "1509635142", 
     "estCustAffected": "95", 
     "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
     "longitude": "-119.67416", 
@@ -346,6 +347,18 @@
     "regionName": "Geyserville"
   }, 
   {
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1509635096", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-122.52441", 
+    "latitude": "38.3634", 
+    "outageStartTime": "1509635089", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1914182", 
+    "regionName": "Glen Ellen"
+  }, 
+  {
     "currentEtor": "1509644700", 
     "outageDevices": [
       {
@@ -382,7 +395,7 @@
       }
     ], 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1509634434", 
+    "lastUpdateTime": "1509635043", 
     "autoEtor": "1509644700", 
     "estCustAffected": "83", 
     "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
@@ -406,38 +419,6 @@
     "cause": "Unknown - PG&E will be assessing the cause.", 
     "outageNumber": "1914172", 
     "regionName": "Hollister"
-  }, 
-  {
-    "currentEtor": "1509665940", 
-    "outageDevices": [
-      {
-        "latitude": "36.9772", 
-        "longitude": "-122.00027"
-      }, 
-      {
-        "latitude": "36.98029", 
-        "longitude": "-122.00161"
-      }, 
-      {
-        "latitude": "36.98054", 
-        "longitude": "-122.00179"
-      }, 
-      {
-        "latitude": "36.97807", 
-        "longitude": "-122.00115"
-      }
-    ], 
-    "hazardFlag": "5", 
-    "longitude": "-121.98219", 
-    "lastUpdateTime": "1509633723", 
-    "crewEta": "1509630360", 
-    "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
-    "estCustAffected": "62", 
-    "latitude": "36.99258", 
-    "outageStartTime": "1509618360", 
-    "cause": "A vehicle has hit a power pole.", 
-    "outageNumber": "1914090", 
-    "regionName": "Live Oak-Santa Cruz"
   }, 
   {
     "currentEtor": "1509652800", 
@@ -512,7 +493,7 @@
     ], 
     "hazardFlag": "2", 
     "longitude": "-120.91046", 
-    "lastUpdateTime": "1509634847", 
+    "lastUpdateTime": "1509634941", 
     "autoEtor": "1509644700", 
     "crewEta": "1509635760", 
     "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
@@ -567,7 +548,7 @@
       }
     ], 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1509633988", 
+    "lastUpdateTime": "1509635142", 
     "estCustAffected": "6", 
     "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
     "longitude": "-119.5117", 
@@ -592,9 +573,40 @@
     "regionName": "Oakland"
   }, 
   {
+    "currentEtor": "1509663600", 
+    "outageDevices": [
+      {
+        "latitude": "39.74744", 
+        "longitude": "-122.21541"
+      }, 
+      {
+        "latitude": "39.74745", 
+        "longitude": "-122.21477"
+      }, 
+      {
+        "latitude": "39.74778", 
+        "longitude": "-122.21744"
+      }, 
+      {
+        "latitude": "39.74751", 
+        "longitude": "-122.22061"
+      }
+    ], 
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1509635048", 
+    "estCustAffected": "13", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-122.21432", 
+    "latitude": "39.74745", 
+    "outageStartTime": "1509634973", 
+    "cause": "Planned maintenance in the area.", 
+    "outageNumber": "1914181", 
+    "regionName": "Orland"
+  }, 
+  {
     "currentEtor": "1509646500", 
     "hazardFlag": "1", 
-    "lastUpdateTime": "1509634617", 
+    "lastUpdateTime": "1509635171", 
     "autoEtor": "1509646500", 
     "estCustAffected": "1", 
     "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
@@ -618,6 +630,19 @@
     "cause": "Unknown - PG&E will be assessing the cause.", 
     "outageNumber": "1914176", 
     "regionName": "Paicines"
+  }, 
+  {
+    "currentEtor": "1509643800", 
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1509635187", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
+    "longitude": "-119.47003", 
+    "latitude": "36.62973", 
+    "outageStartTime": "1509634875", 
+    "cause": "Planned maintenance in the area.", 
+    "outageNumber": "1914183", 
+    "regionName": "Parlier"
   }, 
   {
     "currentEtor": "1509715800", 
@@ -702,7 +727,7 @@
   {
     "currentEtor": "1509658200", 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1509633699", 
+    "lastUpdateTime": "1509635187", 
     "estCustAffected": "9", 
     "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
     "longitude": "-120.38153", 
@@ -793,5 +818,52 @@
     "cause": "Unknown - PG&E will be assessing the cause.", 
     "outageNumber": "1914171", 
     "regionName": "Walnut Creek"
+  }, 
+  {
+    "currentEtor": "1509663600", 
+    "outageDevices": [
+      {
+        "latitude": "37.02027", 
+        "longitude": "-121.81794"
+      }, 
+      {
+        "latitude": "37.03443", 
+        "longitude": "-121.80129"
+      }, 
+      {
+        "latitude": "37.04961", 
+        "longitude": "-121.80271"
+      }, 
+      {
+        "latitude": "37.065", 
+        "longitude": "-121.8174"
+      }, 
+      {
+        "latitude": "37.06788", 
+        "longitude": "-121.82508"
+      }, 
+      {
+        "latitude": "37.06792", 
+        "longitude": "-121.82554"
+      }, 
+      {
+        "latitude": "37.06755", 
+        "longitude": "-121.82644"
+      }, 
+      {
+        "latitude": "37.02152", 
+        "longitude": "-121.81965"
+      }
+    ], 
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1509635199", 
+    "estCustAffected": "109", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-121.81822", 
+    "latitude": "37.0195", 
+    "outageStartTime": "1509634950", 
+    "cause": "Planned maintenance in the area.", 
+    "outageNumber": "1914180", 
+    "regionName": "Watsonville"
   }
 ]
