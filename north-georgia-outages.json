@@ -12,7 +12,7 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -24,22 +24,31 @@
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-11-02-0080", 
-      "OutageName": "2113018001", 
+      "OutageName": "T2113018", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.88791660530025, 
-        "X": -85.34070412061422
+        "Y": 34.88806238458085, 
+        "X": -85.34077796661336
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.88820816386145, 
+          "X": -85.3408518126125
+        }, 
+        {
+          "Y": 34.88791660530025, 
+          "X": -85.34070412061422
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -47,7 +56,7 @@
   "Areas": [
     {
       "County": "Walker", 
-      "Count": 1
+      "Count": 2
     }
   ]
 }
