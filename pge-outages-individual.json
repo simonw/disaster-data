@@ -34,7 +34,7 @@
     "currentEtor": "1509691500", 
     "hazardFlag": "0", 
     "longitude": "-119.05824", 
-    "lastUpdateTime": "1509683816", 
+    "lastUpdateTime": "1509686033", 
     "crewEta": "1509684240", 
     "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "estCustAffected": "16", 
@@ -113,45 +113,59 @@
   }, 
   {
     "currentEtor": "1509695100", 
-    "hazardFlag": "0", 
-    "lastUpdateTime": "1509684158", 
-    "autoEtor": "1509695100", 
-    "estCustAffected": "8", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
-    "longitude": "-121.92793", 
-    "latitude": "37.28395", 
-    "outageStartTime": "1509683611", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
-    "outageNumber": "1914844", 
-    "regionName": "Campbell"
-  }, 
-  {
-    "currentEtor": "1509695100", 
-    "hazardFlag": "1", 
-    "longitude": "-121.92629", 
-    "lastUpdateTime": "1509685119", 
+    "outageDevices": [
+      {
+        "latitude": "37.2809", 
+        "longitude": "-121.93043"
+      }, 
+      {
+        "latitude": "37.28148", 
+        "longitude": "-121.92477"
+      }, 
+      {
+        "latitude": "37.28279", 
+        "longitude": "-121.9241"
+      }, 
+      {
+        "latitude": "37.28369", 
+        "longitude": "-121.92364"
+      }, 
+      {
+        "latitude": "37.2854", 
+        "longitude": "-121.92392"
+      }, 
+      {
+        "latitude": "37.28617", 
+        "longitude": "-121.92431"
+      }, 
+      {
+        "latitude": "37.28692", 
+        "longitude": "-121.92784"
+      }, 
+      {
+        "latitude": "37.28691", 
+        "longitude": "-121.93092"
+      }, 
+      {
+        "latitude": "37.28674", 
+        "longitude": "-121.93093"
+      }, 
+      {
+        "latitude": "37.28144", 
+        "longitude": "-121.93096"
+      }
+    ], 
+    "hazardFlag": "2", 
+    "longitude": "-121.9271", 
+    "lastUpdateTime": "1509686043", 
     "autoEtor": "1509695100", 
     "crewEta": "1509686340", 
     "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "estCustAffected": "1", 
-    "latitude": "37.2827", 
+    "estCustAffected": "384", 
+    "latitude": "37.28744", 
     "outageStartTime": "1509683498", 
-    "cause": "Unknown - PG&E is investigating the cause.", 
-    "outageNumber": "1914842", 
-    "regionName": "Campbell"
-  }, 
-  {
-    "currentEtor": "1509696900", 
-    "hazardFlag": "1", 
-    "lastUpdateTime": "1509685646", 
-    "autoEtor": "1509696900", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
-    "longitude": "-121.92526", 
-    "latitude": "37.28189", 
-    "outageStartTime": "1509685640", 
     "cause": "Unknown - PG&E will be assessing the cause.", 
-    "outageNumber": "1914850", 
+    "outageNumber": "1914844", 
     "regionName": "Campbell"
   }, 
   {
@@ -250,14 +264,14 @@
     "currentEtor": "1509694200", 
     "hazardFlag": "0", 
     "longitude": "-123.76845", 
-    "lastUpdateTime": "1509680015", 
+    "lastUpdateTime": "1509686089", 
     "autoEtor": "1509694200", 
     "crewEta": "1509681120", 
-    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "estCustAffected": "1", 
     "latitude": "39.22945", 
     "outageStartTime": "1509679992", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1914831", 
     "regionName": "Little River"
   }, 
@@ -287,6 +301,20 @@
     "cause": "Unknown - PG&E will be assessing the cause.", 
     "outageNumber": "1914755", 
     "regionName": "Monte Sereno"
+  }, 
+  {
+    "currentEtor": "1509697800", 
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1509686166", 
+    "autoEtor": "1509697800", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-120.85671", 
+    "latitude": "35.39096", 
+    "outageStartTime": "1509686160", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1914852", 
+    "regionName": "Morro Bay"
   }, 
   {
     "currentEtor": "1509714000", 
@@ -600,7 +628,7 @@
       }
     ], 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1509685536", 
+    "lastUpdateTime": "1509686230", 
     "estCustAffected": "204", 
     "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
     "longitude": "-122.07081", 
