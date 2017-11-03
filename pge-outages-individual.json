@@ -27,19 +27,6 @@
     "regionName": "Bakersfield"
   }, 
   {
-    "currentEtor": "1509714000", 
-    "hazardFlag": "0", 
-    "lastUpdateTime": "1509684388", 
-    "estCustAffected": "45", 
-    "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
-    "longitude": "-122.25849", 
-    "latitude": "37.8562", 
-    "outageStartTime": "1509684348", 
-    "cause": "Planned maintenance in the area.", 
-    "outageNumber": "1914847", 
-    "regionName": "Berkeley"
-  }, 
-  {
     "currentEtor": "1509706800", 
     "hazardFlag": "1", 
     "lastUpdateTime": "1509691563", 
@@ -50,6 +37,19 @@
     "outageStartTime": "1509669666", 
     "cause": "Found damaged equipment on a power pole.", 
     "outageNumber": "1914752", 
+    "regionName": "Berkeley"
+  }, 
+  {
+    "currentEtor": "1509714000", 
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1509684388", 
+    "estCustAffected": "45", 
+    "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
+    "longitude": "-122.25849", 
+    "latitude": "37.8562", 
+    "outageStartTime": "1509684348", 
+    "cause": "Planned maintenance in the area.", 
+    "outageNumber": "1914847", 
     "regionName": "Berkeley"
   }, 
   {
@@ -209,41 +209,6 @@
     "regionName": "Morro Bay"
   }, 
   {
-    "currentEtor": "1509714000", 
-    "outageDevices": [
-      {
-        "latitude": "38.31819", 
-        "longitude": "-122.17538"
-      }, 
-      {
-        "latitude": "38.32317", 
-        "longitude": "-122.17468"
-      }, 
-      {
-        "latitude": "38.32808", 
-        "longitude": "-122.19043"
-      }, 
-      {
-        "latitude": "38.32369", 
-        "longitude": "-122.19209"
-      }, 
-      {
-        "latitude": "38.31966", 
-        "longitude": "-122.19134"
-      }
-    ], 
-    "hazardFlag": "0", 
-    "lastUpdateTime": "1509671799", 
-    "estCustAffected": "7", 
-    "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
-    "longitude": "-122.19423", 
-    "latitude": "38.32206", 
-    "outageStartTime": "1509640320", 
-    "cause": "Trees are in contact with electrical equipment.", 
-    "outageNumber": "1914307", 
-    "regionName": "Napa"
-  }, 
-  {
     "currentEtor": "1509709500", 
     "hazardFlag": "0", 
     "lastUpdateTime": "1509698571", 
@@ -258,30 +223,17 @@
     "regionName": "Pollock Pines"
   }, 
   {
-    "currentEtor": "1509706800", 
-    "hazardFlag": "0", 
-    "lastUpdateTime": "1509684219", 
-    "estCustAffected": "12", 
-    "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
-    "longitude": "-122.23659", 
-    "latitude": "40.16816", 
-    "outageStartTime": "1509682920", 
-    "cause": "Unplanned emergency repairs.", 
-    "outageNumber": "1914841", 
-    "regionName": "Red Bluff"
-  }, 
-  {
     "currentEtor": "1509705000", 
     "hazardFlag": "0", 
     "longitude": "-121.30585", 
-    "lastUpdateTime": "1509698134", 
+    "lastUpdateTime": "1509700117", 
     "autoEtor": "1509705000", 
     "crewEta": "1509700800", 
-    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "estCustAffected": "1", 
     "latitude": "38.82362", 
     "outageStartTime": "1509694161", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1914861", 
     "regionName": "Rocklin"
   }, 
@@ -301,10 +253,11 @@
   {
     "currentEtor": "1509703200", 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1509695726", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
     "longitude": "-121.99934", 
+    "lastUpdateTime": "1509695726", 
+    "crewEta": "1509703740", 
+    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "estCustAffected": "1", 
     "latitude": "36.98018", 
     "outageStartTime": "1509678896", 
     "cause": "Unknown - PG&E will be assessing the cause.", 
@@ -487,14 +440,14 @@
     ], 
     "hazardFlag": "0", 
     "longitude": "-120.24958", 
-    "lastUpdateTime": "1509697697", 
+    "lastUpdateTime": "1509699982", 
     "autoEtor": "1509705000", 
     "crewEta": "1509698220", 
     "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "estCustAffected": "7", 
     "latitude": "36.65389", 
     "outageStartTime": "1509692777", 
-    "cause": "Unknown - PG&E is investigating the cause.", 
+    "cause": "Field personnel have found a downed power line.", 
     "outageNumber": "1914859", 
     "regionName": "Tranquillity"
   }, 
@@ -540,20 +493,6 @@
     "cause": "Planned maintenance in the area.", 
     "outageNumber": "1914848", 
     "regionName": "Walnut Creek"
-  }, 
-  {
-    "currentEtor": "1509704100", 
-    "hazardFlag": "0", 
-    "longitude": "-121.75358", 
-    "lastUpdateTime": "1509697011", 
-    "crewEta": "1509696000", 
-    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "estCustAffected": "1", 
-    "latitude": "36.91591", 
-    "outageStartTime": "1509673860", 
-    "cause": "Unknown - PG&E is investigating the cause.", 
-    "outageNumber": "1914796", 
-    "regionName": "Watsonville"
   }, 
   {
     "currentEtor": "1509703200", 
