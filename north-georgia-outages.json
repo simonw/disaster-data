@@ -41,6 +41,69 @@
       "Feeder": null, 
       "OutagePolygon": [], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 12, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-11-03T08:30:22-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-11-03-0087", 
+      "OutageName": "7719032000", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.463302968356054, 
+        "X": -84.83039123305412
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.46486527906925, 
+          "X": -84.83214860258744
+        }, 
+        {
+          "Y": 34.46536762607297, 
+          "X": -84.83096893350671
+        }, 
+        {
+          "Y": 34.46546122983123, 
+          "X": -84.82924682084688
+        }, 
+        {
+          "Y": 34.461761130159374, 
+          "X": -84.829087378483
+        }, 
+        {
+          "Y": 34.46105130963709, 
+          "X": -84.8300246582108
+        }, 
+        {
+          "Y": 34.461311235366416, 
+          "X": -84.83087100468988
+        }
+      ], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
@@ -48,6 +111,10 @@
     {
       "County": "Chattooga", 
       "Count": 1
+    }, 
+    {
+      "County": "Gordon", 
+      "Count": 12
     }
   ]
 }
