@@ -173,7 +173,7 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -185,22 +185,31 @@
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-11-03-0113", 
-      "OutageName": "7705034001", 
+      "OutageName": "T7705034", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.510964306584356, 
-        "X": -84.81180992868518
+        "Y": 34.511137042252145, 
+        "X": -84.81196037902714
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.511309777919934, 
+          "X": -84.81211082936912
+        }, 
+        {
+          "Y": 34.510964306584356, 
+          "X": -84.81180992868518
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -212,7 +221,7 @@
     }, 
     {
       "County": "Gordon", 
-      "Count": 2
+      "Count": 3
     }, 
     {
       "County": "Walker", 
