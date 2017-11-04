@@ -3,7 +3,80 @@
     "CallsLastHour": 0, 
     "CustomerCalls": 0
   }, 
-  "Outages": [], 
+  "Outages": [
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 16, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-11-04T10:45:19-04:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-11-04-0132", 
+      "OutageName": "F3220501", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.808680851068104, 
+        "X": -85.21214823859995
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.80958879361205, 
+          "X": -85.21659842198466
+        }, 
+        {
+          "Y": 34.810127747062836, 
+          "X": -85.21371613514499
+        }, 
+        {
+          "Y": 34.81017162019443, 
+          "X": -85.21152407049648
+        }, 
+        {
+          "Y": 34.80939469606518, 
+          "X": -85.21091022305426
+        }, 
+        {
+          "Y": 34.80705334366359, 
+          "X": -85.2098491488799
+        }, 
+        {
+          "Y": 34.8068265489097, 
+          "X": -85.20990411747441
+        }, 
+        {
+          "Y": 34.80760320796895, 
+          "X": -85.21253555316501
+        }
+      ], 
+      "MapLocation": null
+    }
+  ], 
   "Trucks": [], 
-  "Areas": null
+  "Areas": [
+    {
+      "County": "Walker", 
+      "Count": 16
+    }
+  ]
 }
