@@ -158,11 +158,12 @@
   {
     "currentEtor": "1509777000", 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1509765602", 
-    "autoEtor": "1509777000", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
     "longitude": "-121.75371", 
+    "lastUpdateTime": "1509767237", 
+    "autoEtor": "1509777000", 
+    "crewEta": "1509769920", 
+    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "estCustAffected": "1", 
     "latitude": "36.76778", 
     "outageStartTime": "1509765597", 
     "cause": "Unknown - PG&E will be assessing the cause.", 
@@ -539,7 +540,7 @@
   {
     "currentEtor": "1509769800", 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1509765106", 
+    "lastUpdateTime": "1509767393", 
     "estCustAffected": "1", 
     "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "longitude": "-121.29076", 
@@ -575,19 +576,6 @@
     "cause": "Unknown - PG&E will be assessing the cause.", 
     "outageNumber": "1915453", 
     "regionName": "Pasatiempo"
-  }, 
-  {
-    "currentEtor": "1509774300", 
-    "hazardFlag": "1", 
-    "lastUpdateTime": "1509767183", 
-    "estCustAffected": "2", 
-    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "longitude": "-120.69292", 
-    "latitude": "38.4265", 
-    "outageStartTime": "1509749367", 
-    "cause": "Found a broken power pole in the area", 
-    "outageNumber": "1915405", 
-    "regionName": "Pine Grove"
   }, 
   {
     "currentEtor": "1509786000", 
@@ -901,17 +889,45 @@
   }, 
   {
     "currentEtor": "1509768900", 
+    "outageDevices": [
+      {
+        "latitude": "39.14425", 
+        "longitude": "-123.19161"
+      }, 
+      {
+        "latitude": "39.14542", 
+        "longitude": "-123.19146"
+      }, 
+      {
+        "latitude": "39.14503", 
+        "longitude": "-123.19381"
+      }
+    ], 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1509765106", 
+    "lastUpdateTime": "1509767332", 
     "autoEtor": "1509768900", 
-    "estCustAffected": "1", 
+    "estCustAffected": "7", 
     "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
-    "longitude": "-123.19161", 
-    "latitude": "39.14425", 
-    "outageStartTime": "1509757642", 
+    "longitude": "-123.18927", 
+    "latitude": "39.14569", 
+    "outageStartTime": "1509723000", 
     "cause": "Planned maintenance in the area.", 
     "outageNumber": "1915493", 
     "regionName": "Ukiah"
+  }, 
+  {
+    "currentEtor": "1509778800", 
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1509767436", 
+    "autoEtor": "1509778800", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-122.08617", 
+    "latitude": "37.91867", 
+    "outageStartTime": "1509767400", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1915562", 
+    "regionName": "Walnut Creek"
   }, 
   {
     "currentEtor": "1509775200", 
