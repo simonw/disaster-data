@@ -137,14 +137,14 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -163,15 +163,24 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-11-06-0190", 
-      "OutageName": "3405017002", 
+      "OutageName": "T3405017 DUNWOODY", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.712435265225125, 
-        "X": -85.2106396282244
+        "Y": 34.71264694036247, 
+        "X": -85.2104673575749
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.712435265225125, 
+          "X": -85.2106396282244
+        }, 
+        {
+          "Y": 34.71285861549981, 
+          "X": -85.2102950869254
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -187,7 +196,7 @@
     }, 
     {
       "County": "Walker", 
-      "Count": 1
+      "Count": 2
     }
   ]
 }
