@@ -59,53 +59,6 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 2, 
-      "CrewResponsible": null, 
-      "CustomerResponsible": null, 
-      "OutagedPhase": null, 
-      "CustomersAffected": null, 
-      "OutageStartTime": "2017-11-06T14:59:43-05:00", 
-      "Dispatcher": null, 
-      "Substation": null, 
-      "UplineElement": null, 
-      "OutageStatus": null, 
-      "EstimatedTime": null, 
-      "Notes": null, 
-      "CrewDispatched": true, 
-      "VerifiedCause": null, 
-      "CostEstimate": null, 
-      "CustomersRestored": 0, 
-      "PriorityCustomers": null, 
-      "CustomersOutInitially": null, 
-      "OutageRecID": "2017-11-06-0190", 
-      "OutageName": "T3405017 DUNWOODY", 
-      "OutageEndTime": null, 
-      "ClosingDispatcher": null, 
-      "OutageLocation": {
-        "Y": 34.71264694036247, 
-        "X": -85.2104673575749
-      }, 
-      "Feeder": null, 
-      "OutagePolygon": [
-        {
-          "Y": 34.712435265225125, 
-          "X": -85.2106396282244
-        }, 
-        {
-          "Y": 34.71285861549981, 
-          "X": -85.2102950869254
-        }
-      ], 
-      "MapLocation": null
-    }, 
-    {
-      "Verified": true, 
-      "TroubledElement": null, 
-      "CustomersServed": null, 
-      "Actions": null, 
-      "Status": null, 
-      "District": null, 
-      "SuspectedCause": null, 
       "CustomersOutNow": 1, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
@@ -135,10 +88,112 @@
       "Feeder": null, 
       "OutagePolygon": [], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 3, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-11-06T15:53:09-05:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": true, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-11-06-0193", 
+      "OutageName": "T4011035", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.953522393064105, 
+        "X": -85.19802192112802
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.953351630263306, 
+          "X": -85.19816437191572
+        }, 
+        {
+          "Y": 34.95385541407135, 
+          "X": -85.19799634941077
+        }, 
+        {
+          "Y": 34.95336013485766, 
+          "X": -85.19790504205753
+        }
+      ], 
+      "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 2, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-11-06T15:53:01-05:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-11-06-0194", 
+      "OutageName": "T4225003", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.79567753832333, 
+        "X": -85.11572418158644
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.79591661265921, 
+          "X": -85.11601357973449
+        }, 
+        {
+          "Y": 34.79543846398745, 
+          "X": -85.11543478343842
+        }
+      ], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
   "Areas": [
+    {
+      "County": "Catoosa", 
+      "Count": 3
+    }, 
     {
       "County": "Floyd", 
       "Count": 1
@@ -148,7 +203,7 @@
       "Count": 2
     }, 
     {
-      "County": "Walker", 
+      "County": "Whitfield", 
       "Count": 2
     }
   ]
