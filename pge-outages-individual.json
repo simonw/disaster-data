@@ -59,7 +59,7 @@
     "lastUpdateTime": "1510019152", 
     "autoEtor": "1510029000", 
     "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
     "longitude": "-121.69818", 
     "latitude": "37.95857", 
     "outageStartTime": "1510017430", 
@@ -260,14 +260,14 @@
   {
     "currentEtor": "1510033500", 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1510023312", 
+    "lastUpdateTime": "1510024848", 
     "autoEtor": "1510033500", 
     "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "longitude": "-121.12817", 
     "latitude": "36.20789", 
     "outageStartTime": "1510023131", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1917166", 
     "regionName": "King City"
   }, 
@@ -317,7 +317,7 @@
     ], 
     "hazardFlag": "0", 
     "longitude": "-121.09541", 
-    "lastUpdateTime": "1510022435", 
+    "lastUpdateTime": "1510024713", 
     "crewEta": "1510018680", 
     "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "estCustAffected": "1", 
@@ -382,6 +382,20 @@
     "cause": "Unknown - PG&E will be assessing the cause.", 
     "outageNumber": "1917163", 
     "regionName": "Martinez"
+  }, 
+  {
+    "currentEtor": "1510036200", 
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1510024763", 
+    "autoEtor": "1510036200", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-121.90114", 
+    "latitude": "37.41839", 
+    "outageStartTime": "1510024759", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1917174", 
+    "regionName": "Milpitas"
   }, 
   {
     "currentEtor": "1510030800", 
@@ -555,6 +569,50 @@
     "cause": "Found damaged equipment on a power pole.", 
     "outageNumber": "1917077", 
     "regionName": "Princeton"
+  }, 
+  {
+    "currentEtor": "1510032600", 
+    "outageDevices": [
+      {
+        "latitude": "37.47242", 
+        "longitude": "-122.2264"
+      }, 
+      {
+        "latitude": "37.47303", 
+        "longitude": "-122.22536"
+      }, 
+      {
+        "latitude": "37.47522", 
+        "longitude": "-122.22299"
+      }, 
+      {
+        "latitude": "37.47435", 
+        "longitude": "-122.22409"
+      }, 
+      {
+        "latitude": "37.47397", 
+        "longitude": "-122.22457"
+      }, 
+      {
+        "latitude": "37.47341", 
+        "longitude": "-122.22525"
+      }, 
+      {
+        "latitude": "37.47279", 
+        "longitude": "-122.22598"
+      }
+    ], 
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1510024931", 
+    "autoEtor": "1510032600", 
+    "estCustAffected": "325", 
+    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
+    "longitude": "-122.22679", 
+    "latitude": "37.47211", 
+    "outageStartTime": "1510024680", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1917172", 
+    "regionName": "Redwood City"
   }, 
   {
     "currentEtor": "1510027200", 
@@ -835,20 +893,6 @@
     "regionName": "Tracy"
   }, 
   {
-    "currentEtor": "1510028100", 
-    "hazardFlag": "0", 
-    "lastUpdateTime": "1510018323", 
-    "autoEtor": "1510028100", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "longitude": "-121.99727", 
-    "latitude": "36.96694", 
-    "outageStartTime": "1510015159", 
-    "cause": "Unknown - PG&E is investigating the cause.", 
-    "outageNumber": "1917126", 
-    "regionName": "Twin Lakes"
-  }, 
-  {
     "currentEtor": "1510040700", 
     "outageDevices": [
       {
@@ -875,20 +919,5 @@
     "cause": "Field personnel have found a downed power line.", 
     "outageNumber": "1916926", 
     "regionName": "Weedpatch"
-  }, 
-  {
-    "currentEtor": "1510032600", 
-    "hazardFlag": "0", 
-    "longitude": "-120.60676", 
-    "lastUpdateTime": "1510023392", 
-    "autoEtor": "1510032600", 
-    "crewEta": "1510024860", 
-    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "estCustAffected": "1", 
-    "latitude": "37.38614", 
-    "outageStartTime": "1510020726", 
-    "cause": "Unknown - PG&E is investigating the cause.", 
-    "outageNumber": "1917155", 
-    "regionName": "Winton"
   }
 ]
