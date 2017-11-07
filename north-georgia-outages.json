@@ -313,44 +313,6 @@
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
       "CustomersAffected": null, 
-      "OutageStartTime": "2017-11-07T10:56:17-05:00", 
-      "Dispatcher": null, 
-      "Substation": null, 
-      "UplineElement": null, 
-      "OutageStatus": null, 
-      "EstimatedTime": null, 
-      "Notes": null, 
-      "CrewDispatched": true, 
-      "VerifiedCause": null, 
-      "CostEstimate": null, 
-      "CustomersRestored": 0, 
-      "PriorityCustomers": null, 
-      "CustomersOutInitially": null, 
-      "OutageRecID": "2017-11-07-0222", 
-      "OutageName": "4725013004", 
-      "OutageEndTime": null, 
-      "ClosingDispatcher": null, 
-      "OutageLocation": {
-        "Y": 34.44205617250248, 
-        "X": -85.10824018021174
-      }, 
-      "Feeder": null, 
-      "OutagePolygon": [], 
-      "MapLocation": null
-    }, 
-    {
-      "Verified": false, 
-      "TroubledElement": null, 
-      "CustomersServed": null, 
-      "Actions": null, 
-      "Status": null, 
-      "District": null, 
-      "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
-      "CrewResponsible": null, 
-      "CustomerResponsible": null, 
-      "OutagedPhase": null, 
-      "CustomersAffected": null, 
       "OutageStartTime": "2017-11-07T10:57:15-05:00", 
       "Dispatcher": null, 
       "Substation": null, 
@@ -375,6 +337,61 @@
       "Feeder": null, 
       "OutagePolygon": [], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": true, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 4, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-11-07T10:56:17-05:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": true, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-11-07-0224", 
+      "OutageName": "T4725013", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.44219462607573, 
+        "X": -85.10920400247741
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.44230865523651, 
+          "X": -85.10961400812351
+        }, 
+        {
+          "Y": 34.44205617250248, 
+          "X": -85.10824018021174
+        }, 
+        {
+          "Y": 34.442173710722834, 
+          "X": -85.10934858525012
+        }, 
+        {
+          "Y": 34.4422399658411, 
+          "X": -85.10961323632424
+        }
+      ], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
@@ -385,7 +402,7 @@
     }, 
     {
       "County": "Floyd", 
-      "Count": 1
+      "Count": 4
     }, 
     {
       "County": "Gordon", 
