@@ -260,7 +260,7 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 4, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -279,15 +279,32 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-11-07-0242", 
-      "OutageName": "7008044000", 
+      "OutageName": "F7009500", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.975221929764864, 
-        "X": -84.84328240683402
+        "Y": 34.97643704448447, 
+        "X": -84.8450819187918
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.97716011314364, 
+          "X": -84.84737302082864
+        }, 
+        {
+          "Y": 34.977588660268125, 
+          "X": -84.84500718961404
+        }, 
+        {
+          "Y": 34.975221929764864, 
+          "X": -84.84328240683402
+        }, 
+        {
+          "Y": 34.97577747476127, 
+          "X": -84.84466505789051
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -307,7 +324,7 @@
     }, 
     {
       "County": "Whitfield", 
-      "Count": 2
+      "Count": 5
     }
   ]
 }
