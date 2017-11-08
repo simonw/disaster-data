@@ -41,13 +41,76 @@
       "Feeder": null, 
       "OutagePolygon": [], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 12, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-11-08T05:23:19-05:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-11-08-0270", 
+      "OutageName": "F1625500", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.52340231923347, 
+        "X": -85.39792563933216
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.523483525283474, 
+          "X": -85.39859460524555
+        }, 
+        {
+          "Y": 34.52486834749486, 
+          "X": -85.39859309674483
+        }, 
+        {
+          "Y": 34.52604164648375, 
+          "X": -85.39771864994552
+        }, 
+        {
+          "Y": 34.52225338367691, 
+          "X": -85.39655917330454
+        }, 
+        {
+          "Y": 34.52036469322833, 
+          "X": -85.39816267142044
+        }
+      ], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
   "Areas": [
     {
+      "County": "Chattooga", 
+      "Count": 11
+    }, 
+    {
       "County": "Walker", 
-      "Count": 1
+      "Count": 2
     }
   ]
 }
