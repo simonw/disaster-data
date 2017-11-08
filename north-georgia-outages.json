@@ -12,44 +12,6 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
-      "CrewResponsible": null, 
-      "CustomerResponsible": null, 
-      "OutagedPhase": null, 
-      "CustomersAffected": null, 
-      "OutageStartTime": "2017-11-08T09:15:09-05:00", 
-      "Dispatcher": null, 
-      "Substation": null, 
-      "UplineElement": null, 
-      "OutageStatus": null, 
-      "EstimatedTime": null, 
-      "Notes": null, 
-      "CrewDispatched": true, 
-      "VerifiedCause": null, 
-      "CostEstimate": null, 
-      "CustomersRestored": 0, 
-      "PriorityCustomers": null, 
-      "CustomersOutInitially": null, 
-      "OutageRecID": "2017-11-08-0275", 
-      "OutageName": "5524024000 HILL CITY", 
-      "OutageEndTime": null, 
-      "ClosingDispatcher": null, 
-      "OutageLocation": {
-        "Y": 34.58560763599112, 
-        "X": -85.02388842901586
-      }, 
-      "Feeder": null, 
-      "OutagePolygon": [], 
-      "MapLocation": null
-    }, 
-    {
-      "Verified": true, 
-      "TroubledElement": null, 
-      "CustomersServed": null, 
-      "Actions": null, 
-      "Status": null, 
-      "District": null, 
-      "SuspectedCause": null, 
       "CustomersOutNow": 4, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
@@ -69,7 +31,7 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-11-08-0277", 
-      "OutageName": "T6218103", 
+      "OutageName": "T6218103 WESTWOOD CIR", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
@@ -232,14 +194,14 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -251,22 +213,31 @@
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-11-08-0288", 
-      "OutageName": "7121045000", 
+      "OutageName": "T7121045 BEAVERDALE RD", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.86743299592806, 
-        "X": -84.88891423152953
+        "Y": 34.86772886711756, 
+        "X": -84.88898026050224
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.86802473830706, 
+          "X": -84.88904628947495
+        }, 
+        {
+          "Y": 34.86743299592806, 
+          "X": -84.88891423152953
+        }
+      ], 
       "MapLocation": null
     }, 
     {
@@ -312,7 +283,7 @@
   "Areas": [
     {
       "County": "Gordon", 
-      "Count": 2
+      "Count": 1
     }, 
     {
       "County": "Murray", 
@@ -324,7 +295,7 @@
     }, 
     {
       "County": "Whitfield", 
-      "Count": 5
+      "Count": 6
     }
   ]
 }
