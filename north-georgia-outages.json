@@ -3,7 +3,88 @@
     "CallsLastHour": 0, 
     "CustomerCalls": 0
   }, 
-  "Outages": [], 
+  "Outages": [
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 52, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-11-09T07:06:33-05:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-11-09-0329", 
+      "OutageName": "F3220526", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.80594713127641, 
+        "X": -85.1947803662225
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.811939619737714, 
+          "X": -85.20711910865532
+        }, 
+        {
+          "Y": 34.811840443531594, 
+          "X": -85.20023185810147
+        }, 
+        {
+          "Y": 34.811364255798495, 
+          "X": -85.19604964978075
+        }, 
+        {
+          "Y": 34.80866078974741, 
+          "X": -85.18919572535462
+        }, 
+        {
+          "Y": 34.800611996205795, 
+          "X": -85.18506546056179
+        }, 
+        {
+          "Y": 34.79846172064158, 
+          "X": -85.18565743941372
+        }, 
+        {
+          "Y": 34.798811086709314, 
+          "X": -85.19001519916955
+        }, 
+        {
+          "Y": 34.805887137839406, 
+          "X": -85.20490848874284
+        }
+      ], 
+      "MapLocation": null
+    }
+  ], 
   "Trucks": [], 
-  "Areas": null
+  "Areas": [
+    {
+      "County": "Catoosa", 
+      "Count": 40
+    }, 
+    {
+      "County": "Walker", 
+      "Count": 12
+    }
+  ]
 }
