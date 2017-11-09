@@ -153,14 +153,14 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -172,22 +172,31 @@
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-11-09-0341", 
-      "OutageName": "5201016000", 
+      "OutageName": "T5201016", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.848876293526985, 
-        "X": -85.0949754905623
+        "Y": 34.84909339159996, 
+        "X": -85.09486169697311
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.848876293526985, 
+          "X": -85.0949754905623
+        }, 
+        {
+          "Y": 34.84931048967293, 
+          "X": -85.09474790338393
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -195,7 +204,7 @@
   "Areas": [
     {
       "County": "Catoosa", 
-      "Count": 2
+      "Count": 3
     }, 
     {
       "County": "Floyd", 
