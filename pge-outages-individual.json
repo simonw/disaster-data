@@ -167,9 +167,9 @@
     "regionName": "Dixon"
   }, 
   {
-    "currentEtor": "1510236000", 
+    "currentEtor": "1510241400", 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1510231282", 
+    "lastUpdateTime": "1510234217", 
     "estCustAffected": "1", 
     "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
     "longitude": "-122.08161", 
@@ -537,6 +537,20 @@
     "regionName": "San Francisco"
   }, 
   {
+    "currentEtor": "1510240500", 
+    "hazardFlag": "1", 
+    "lastUpdateTime": "1510234128", 
+    "autoEtor": "1510240500", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-122.43681", 
+    "latitude": "37.71937", 
+    "outageStartTime": "1510234120", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1919037", 
+    "regionName": "San Francisco"
+  }, 
+  {
     "currentEtor": "1510241400", 
     "hazardFlag": "0", 
     "lastUpdateTime": "1510222785", 
@@ -635,37 +649,6 @@
     "regionName": "San Jose"
   }, 
   {
-    "currentEtor": "1510236000", 
-    "outageDevices": [
-      {
-        "latitude": "37.2575", 
-        "longitude": "-121.89734"
-      }, 
-      {
-        "latitude": "37.26055", 
-        "longitude": "-121.89636"
-      }, 
-      {
-        "latitude": "37.25877", 
-        "longitude": "-121.89913"
-      }, 
-      {
-        "latitude": "37.25829", 
-        "longitude": "-121.89865"
-      }
-    ], 
-    "hazardFlag": "0", 
-    "lastUpdateTime": "1510232574", 
-    "estCustAffected": "104", 
-    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "longitude": "-121.89468", 
-    "latitude": "37.25731", 
-    "outageStartTime": "1510205940", 
-    "cause": "Unknown - PG&E is investigating the cause.", 
-    "outageNumber": "1918832", 
-    "regionName": "San Jose"
-  }, 
-  {
     "currentEtor": "1510241400", 
     "hazardFlag": "0", 
     "lastUpdateTime": "1510232554", 
@@ -722,7 +705,7 @@
     "hazardFlag": "0", 
     "lastUpdateTime": "1510232699", 
     "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "crewCurrentStatus": "PG&E assessment crew is en route to the outage.", 
     "longitude": "-122.73157", 
     "latitude": "38.47244", 
     "outageStartTime": "1510207680", 
@@ -757,18 +740,6 @@
     "regionName": "Soquel"
   }, 
   {
-    "hazardFlag": "0", 
-    "lastUpdateTime": "1510233933", 
-    "estCustAffected": "1", 
-    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
-    "longitude": "-124.13087", 
-    "latitude": "41.05362", 
-    "outageStartTime": "1510233932", 
-    "cause": "Unknown - PG&E will be assessing the cause.", 
-    "outageNumber": "1919036", 
-    "regionName": "Trinidad"
-  }, 
-  {
     "currentEtor": "1510240500", 
     "hazardFlag": "0", 
     "longitude": "-120.62867", 
@@ -796,6 +767,44 @@
     "cause": "Unknown - PG&E will be assessing the cause.", 
     "outageNumber": "1919032", 
     "regionName": "Watsonville"
+  }, 
+  {
+    "outageDevices": [
+      {
+        "latitude": "41.05231", 
+        "longitude": "-124.13007"
+      }, 
+      {
+        "latitude": "41.05296", 
+        "longitude": "-124.12875"
+      }, 
+      {
+        "latitude": "41.05787", 
+        "longitude": "-124.1261"
+      }, 
+      {
+        "latitude": "41.05796", 
+        "longitude": "-124.13333"
+      }, 
+      {
+        "latitude": "41.05644", 
+        "longitude": "-124.13554"
+      }, 
+      {
+        "latitude": "41.0536", 
+        "longitude": "-124.1325"
+      }
+    ], 
+    "hazardFlag": "1", 
+    "lastUpdateTime": "1510234243", 
+    "estCustAffected": "55", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-124.12565", 
+    "latitude": "41.05803", 
+    "outageStartTime": "1510233932", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1919036", 
+    "regionName": "Westhaven-Moonstone"
   }, 
   {
     "outageDevices": [
