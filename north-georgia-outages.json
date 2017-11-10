@@ -12,44 +12,6 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
-      "CrewResponsible": null, 
-      "CustomerResponsible": null, 
-      "OutagedPhase": null, 
-      "CustomersAffected": null, 
-      "OutageStartTime": "2017-11-10T10:06:59-05:00", 
-      "Dispatcher": null, 
-      "Substation": null, 
-      "UplineElement": null, 
-      "OutageStatus": null, 
-      "EstimatedTime": null, 
-      "Notes": null, 
-      "CrewDispatched": true, 
-      "VerifiedCause": null, 
-      "CostEstimate": null, 
-      "CustomersRestored": 0, 
-      "PriorityCustomers": null, 
-      "CustomersOutInitially": null, 
-      "OutageRecID": "2017-11-10-0382", 
-      "OutageName": "7424069000 - hwy 225 S", 
-      "OutageEndTime": null, 
-      "ClosingDispatcher": null, 
-      "OutageLocation": {
-        "Y": 34.65821200308003, 
-        "X": -84.8384617034251
-      }, 
-      "Feeder": null, 
-      "OutagePolygon": [], 
-      "MapLocation": null
-    }, 
-    {
-      "Verified": true, 
-      "TroubledElement": null, 
-      "CustomersServed": null, 
-      "Actions": null, 
-      "Status": null, 
-      "District": null, 
-      "SuspectedCause": null, 
       "CustomersOutNow": 11, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
@@ -109,7 +71,7 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -121,22 +83,31 @@
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-11-10-0386", 
-      "OutageName": "6709099001", 
+      "OutageName": "T6709099", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.48519169115782, 
-        "X": -84.93531064885606
+        "Y": 34.48528865363937, 
+        "X": -84.93541273398887
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.485385616120915, 
+          "X": -84.93551481912166
+        }, 
+        {
+          "Y": 34.48519169115782, 
+          "X": -84.93531064885606
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -144,11 +115,7 @@
   "Areas": [
     {
       "County": "Gordon", 
-      "Count": 1
-    }, 
-    {
-      "County": "Murray", 
-      "Count": 1
+      "Count": 2
     }, 
     {
       "County": "Whitfield", 
