@@ -3,7 +3,124 @@
     "CallsLastHour": 0, 
     "CustomerCalls": 0
   }, 
-  "Outages": [], 
+  "Outages": [
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 350, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-11-11T16:08:45-05:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-11-11-0424", 
+      "OutageName": "REC-4108502", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.90811155201974, 
+        "X": -85.15456319053433
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.90962333684678, 
+          "X": -85.16143994302796
+        }, 
+        {
+          "Y": 34.91479070174947, 
+          "X": -85.15721432314042
+        }, 
+        {
+          "Y": 34.91553716109549, 
+          "X": -85.15589628849901
+        }, 
+        {
+          "Y": 34.91591414233484, 
+          "X": -85.1545963882873
+        }, 
+        {
+          "Y": 34.91572891241785, 
+          "X": -85.15415171435696
+        }, 
+        {
+          "Y": 34.91362967194379, 
+          "X": -85.15114527538064
+        }, 
+        {
+          "Y": 34.91341045547579, 
+          "X": -85.15105174854892
+        }, 
+        {
+          "Y": 34.911083327171646, 
+          "X": -85.15010596526979
+        }, 
+        {
+          "Y": 34.90512916242978, 
+          "X": -85.14863258375787
+        }, 
+        {
+          "Y": 34.90051555677305, 
+          "X": -85.14850758523424
+        }, 
+        {
+          "Y": 34.89970615601808, 
+          "X": -85.14932089117902
+        }, 
+        {
+          "Y": 34.89954601622032, 
+          "X": -85.150204838559
+        }, 
+        {
+          "Y": 34.89960768611935, 
+          "X": -85.15166998748394
+        }, 
+        {
+          "Y": 34.90026847995033, 
+          "X": -85.15446416126558
+        }, 
+        {
+          "Y": 34.90695073006462, 
+          "X": -85.16059751033737
+        }, 
+        {
+          "Y": 34.90777784965341, 
+          "X": -85.16092956040822
+        }, 
+        {
+          "Y": 34.90791133501456, 
+          "X": -85.16097226257176
+        }, 
+        {
+          "Y": 34.90887725507627, 
+          "X": -85.1612364023101
+        }
+      ], 
+      "MapLocation": null
+    }
+  ], 
   "Trucks": [], 
-  "Areas": null
+  "Areas": [
+    {
+      "County": "Catoosa", 
+      "Count": 350
+    }
+  ]
 }
