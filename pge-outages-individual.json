@@ -30,12 +30,25 @@
     "regionName": "Arroyo Grande"
   }, 
   {
-    "currentEtor": "1510515000", 
+    "currentEtor": "1510518600", 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1510506547", 
-    "autoEtor": "1510515000", 
-    "estCustAffected": "12", 
+    "lastUpdateTime": "1510507439", 
+    "autoEtor": "1510518600", 
+    "estCustAffected": "1", 
     "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-119.00077", 
+    "latitude": "35.37199", 
+    "outageStartTime": "1510507434", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1920850", 
+    "regionName": "Bakersfield"
+  }, 
+  {
+    "currentEtor": "1510533000", 
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1510507536", 
+    "estCustAffected": "12", 
+    "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
     "longitude": "-121.80664", 
     "latitude": "39.71462", 
     "outageStartTime": "1510504200", 
@@ -106,18 +119,49 @@
   }, 
   {
     "currentEtor": "1510516800", 
+    "outageDevices": [
+      {
+        "latitude": "38.69991", 
+        "longitude": "-122.03164"
+      }, 
+      {
+        "latitude": "38.7006", 
+        "longitude": "-122.03088"
+      }, 
+      {
+        "latitude": "38.70593", 
+        "longitude": "-122.02932"
+      }, 
+      {
+        "latitude": "38.70244", 
+        "longitude": "-122.03355"
+      }
+    ], 
     "hazardFlag": "0", 
-    "longitude": "-122.03088", 
-    "lastUpdateTime": "1510506461", 
+    "longitude": "-122.03638", 
+    "lastUpdateTime": "1510507507", 
     "autoEtor": "1510516800", 
     "crewEta": "1510507440", 
     "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "estCustAffected": "1", 
-    "latitude": "38.7006", 
+    "estCustAffected": "8", 
+    "latitude": "38.70228", 
     "outageStartTime": "1510503120", 
     "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1920810", 
     "regionName": "Esparto"
+  }, 
+  {
+    "currentEtor": "1510524000", 
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1510507581", 
+    "estCustAffected": "16", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-123.80449", 
+    "latitude": "39.44064", 
+    "outageStartTime": "1510504200", 
+    "cause": "Planned maintenance in the area.", 
+    "outageNumber": "1920851", 
+    "regionName": "Fort Bragg"
   }, 
   {
     "currentEtor": "1510515900", 
@@ -136,14 +180,14 @@
   {
     "currentEtor": "1510514100", 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1510507112", 
+    "lastUpdateTime": "1510507448", 
     "autoEtor": "1510514100", 
     "estCustAffected": "4", 
     "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
     "longitude": "-119.85931", 
     "latitude": "36.82138", 
     "outageStartTime": "1510503540", 
-    "cause": "Found damaged equipment on a power pole.", 
+    "cause": "PG&E staff have found a connection in need of repair.", 
     "outageNumber": "1920818", 
     "regionName": "Fresno"
   }, 
@@ -177,7 +221,7 @@
   {
     "currentEtor": "1510518600", 
     "hazardFlag": "1", 
-    "lastUpdateTime": "1510507087", 
+    "lastUpdateTime": "1510507495", 
     "autoEtor": "1510518600", 
     "estCustAffected": "1", 
     "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
@@ -187,21 +231,6 @@
     "cause": "Unknown - PG&E will be assessing the cause.", 
     "outageNumber": "1920848", 
     "regionName": "Half Moon Bay"
-  }, 
-  {
-    "currentEtor": "1510515000", 
-    "hazardFlag": "0", 
-    "longitude": "-122.09405", 
-    "lastUpdateTime": "1510506766", 
-    "autoEtor": "1510515000", 
-    "crewEta": "1510515120", 
-    "crewCurrentStatus": "PG&E is assessing the cause at the outage location.", 
-    "estCustAffected": "1", 
-    "latitude": "37.86095", 
-    "outageStartTime": "1510503840", 
-    "cause": "Unknown - PG&E is investigating the cause.", 
-    "outageNumber": "1920834", 
-    "regionName": "Lafayette"
   }, 
   {
     "currentEtor": "1510516800", 
@@ -273,7 +302,7 @@
       }
     ], 
     "hazardFlag": "0", 
-    "lastUpdateTime": "1510505808", 
+    "lastUpdateTime": "1510507481", 
     "estCustAffected": "5", 
     "crewCurrentStatus": "PG&E repair crew is on-site working to restore power.", 
     "longitude": "-122.37618", 
@@ -514,5 +543,19 @@
     "cause": "Unknown - PG&E is investigating the cause.", 
     "outageNumber": "1920842", 
     "regionName": "Sonoma"
+  }, 
+  {
+    "currentEtor": "1510520400", 
+    "hazardFlag": "0", 
+    "lastUpdateTime": "1510507399", 
+    "autoEtor": "1510520400", 
+    "estCustAffected": "1", 
+    "crewCurrentStatus": "PG&E has assigned a crew to assess the outage.", 
+    "longitude": "-123.34003", 
+    "latitude": "39.37987", 
+    "outageStartTime": "1510507394", 
+    "cause": "Unknown - PG&E will be assessing the cause.", 
+    "outageNumber": "1920849", 
+    "regionName": "Willits"
   }
 ]
