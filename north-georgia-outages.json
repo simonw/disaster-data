@@ -31,7 +31,7 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-11-13-0472", 
-      "OutageName": "3118053000", 
+      "OutageName": "3118053000 RED BELT", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
@@ -69,7 +69,7 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-11-13-0473", 
-      "OutageName": "F7303524", 
+      "OutageName": "F7303524 HWY 52 ALT", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
@@ -96,6 +96,61 @@
         }
       ], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 5, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-11-13T13:04:35-05:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-11-13-0474", 
+      "OutageName": "T5415002", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.687711881698306, 
+        "X": -85.0090451605059
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.68771898689128, 
+          "X": -85.0093857844737
+        }, 
+        {
+          "Y": 34.68772448091905, 
+          "X": -85.00914783226273
+        }, 
+        {
+          "Y": 34.687725482919305, 
+          "X": -85.00900286895357
+        }, 
+        {
+          "Y": 34.6876785760636, 
+          "X": -85.00864415633359
+        }
+      ], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
@@ -107,6 +162,10 @@
     {
       "County": "Murray", 
       "Count": 7
+    }, 
+    {
+      "County": "Whitfield", 
+      "Count": 5
     }
   ]
 }
