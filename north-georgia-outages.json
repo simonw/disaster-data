@@ -175,7 +175,7 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-11-13-0466", 
-      "OutageName": "4810022001", 
+      "OutageName": "4810022001- CARPENTER", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
@@ -213,7 +213,7 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-11-13-0467", 
-      "OutageName": "2504047000", 
+      "OutageName": "2504047000 - GRIFFIN RD", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
@@ -225,14 +225,14 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 3, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -244,22 +244,35 @@
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
-      "OutageRecID": "2017-11-13-0468", 
-      "OutageName": "4805053001", 
+      "OutageRecID": "2017-11-13-0469", 
+      "OutageName": "PC-8346 - CARPENTER RD", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.42933584976204, 
-        "X": -85.09526830644884
+        "Y": 34.42904344878037, 
+        "X": -85.09572184332593
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.42844922312232, 
+          "X": -85.09629885088636
+        }, 
+        {
+          "Y": 34.429345273456754, 
+          "X": -85.09559837264261
+        }, 
+        {
+          "Y": 34.42933584976204, 
+          "X": -85.09526830644884
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -267,7 +280,7 @@
   "Areas": [
     {
       "County": "Floyd", 
-      "Count": 2
+      "Count": 4
     }, 
     {
       "County": "Murray", 
