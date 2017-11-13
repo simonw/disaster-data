@@ -135,7 +135,7 @@
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -154,15 +154,24 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-11-13-0458", 
-      "OutageName": "7601006000", 
+      "OutageName": "T7601006", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.576667359478925, 
-        "X": -84.887150547535
+        "Y": 34.57645591646942, 
+        "X": -84.88703904844522
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.576667359478925, 
+          "X": -84.887150547535
+        }, 
+        {
+          "Y": 34.576244473459916, 
+          "X": -84.88692754935543
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -170,7 +179,7 @@
   "Areas": [
     {
       "County": "Gordon", 
-      "Count": 2
+      "Count": 3
     }, 
     {
       "County": "Walker", 
