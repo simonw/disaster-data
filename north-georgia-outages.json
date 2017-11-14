@@ -434,14 +434,14 @@
       "MapLocation": null
     }, 
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -453,22 +453,31 @@
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-11-14-0552", 
-      "OutageName": "3004070002", 
+      "OutageName": "T3004070", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.98308151820726, 
-        "X": -85.22812419963005
+        "Y": 34.98308807256653, 
+        "X": -85.227933839674
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.98308151820726, 
+          "X": -85.22812419963005
+        }, 
+        {
+          "Y": 34.983094626925805, 
+          "X": -85.22774347971793
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -476,7 +485,7 @@
   "Areas": [
     {
       "County": "Catoosa", 
-      "Count": 4
+      "Count": 5
     }, 
     {
       "County": "Murray", 
