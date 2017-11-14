@@ -239,14 +239,14 @@
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-11-14-0527", 
-      "OutageName": "T6421025", 
+      "OutageName": "T6421025 - CARBONDALE RD", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
@@ -286,7 +286,7 @@
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
@@ -344,7 +344,7 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-11-14-0529", 
-      "OutageName": "T6421008", 
+      "OutageName": "T6421008 - CARBONDALE RD", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
@@ -363,17 +363,146 @@
         }
       ], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 1023, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-11-14T09:32:30-05:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-11-14-0530", 
+      "OutageName": "BRK-33-344", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.65452432450501, 
+        "X": -84.98188759633508
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.65325659931969, 
+          "X": -85.03597793469908
+        }, 
+        {
+          "Y": 34.66126945761001, 
+          "X": -85.02333434738334
+        }, 
+        {
+          "Y": 34.666096204415865, 
+          "X": -85.01543313215376
+        }, 
+        {
+          "Y": 34.669562691326774, 
+          "X": -85.00379056521854
+        }, 
+        {
+          "Y": 34.676704013033, 
+          "X": -84.96176856729137
+        }, 
+        {
+          "Y": 34.67026002532788, 
+          "X": -84.943469326088
+        }, 
+        {
+          "Y": 34.664170538091184, 
+          "X": -84.9362680164638
+        }, 
+        {
+          "Y": 34.66396955801632, 
+          "X": -84.93604225529974
+        }, 
+        {
+          "Y": 34.66355873661812, 
+          "X": -84.93597054116773
+        }, 
+        {
+          "Y": 34.60985392277722, 
+          "X": -84.96676774839689
+        }, 
+        {
+          "Y": 34.61520337471419, 
+          "X": -84.99354576779336
+        }, 
+        {
+          "Y": 34.64038677280982, 
+          "X": -85.0302829540652
+        }
+      ], 
+      "MapLocation": null
+    }, 
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 1, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-11-14T09:33:50-05:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-11-14-0531", 
+      "OutageName": "2114105000", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.88857881035652, 
+        "X": -85.32439282340626
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
   "Areas": [
+    {
+      "County": null, 
+      "Count": 1
+    }, 
     {
       "County": "Catoosa", 
       "Count": 1
     }, 
     {
       "County": "Gordon", 
-      "Count": 1
+      "Count": 28
     }, 
     {
       "County": "Murray", 
@@ -381,7 +510,7 @@
     }, 
     {
       "County": "Whitfield", 
-      "Count": 16
+      "Count": 1012
     }
   ]
 }
