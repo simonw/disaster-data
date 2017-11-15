@@ -5,14 +5,14 @@
   }, 
   "Outages": [
     {
-      "Verified": false, 
+      "Verified": true, 
       "TroubledElement": null, 
       "CustomersServed": null, 
       "Actions": null, 
       "Status": null, 
       "District": null, 
       "SuspectedCause": null, 
-      "CustomersOutNow": 1, 
+      "CustomersOutNow": 2, 
       "CrewResponsible": null, 
       "CustomerResponsible": null, 
       "OutagedPhase": null, 
@@ -31,15 +31,24 @@
       "PriorityCustomers": null, 
       "CustomersOutInitially": null, 
       "OutageRecID": "2017-11-14-0560", 
-      "OutageName": "7114003001", 
+      "OutageName": "T7114003", 
       "OutageEndTime": null, 
       "ClosingDispatcher": null, 
       "OutageLocation": {
-        "Y": 34.89290416168506, 
-        "X": -84.83870773560866
+        "Y": 34.892855603137534, 
+        "X": -84.83896123977667
       }, 
       "Feeder": null, 
-      "OutagePolygon": [], 
+      "OutagePolygon": [
+        {
+          "Y": 34.892807044590015, 
+          "X": -84.83921474394465
+        }, 
+        {
+          "Y": 34.89290416168506, 
+          "X": -84.83870773560866
+        }
+      ], 
       "MapLocation": null
     }
   ], 
@@ -47,7 +56,7 @@
   "Areas": [
     {
       "County": "Whitfield", 
-      "Count": 1
+      "Count": 2
     }
   ]
 }
