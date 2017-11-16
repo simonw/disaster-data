@@ -270,10 +270,85 @@
         }
       ], 
       "MapLocation": null
+    }, 
+    {
+      "Verified": true, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 122, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-11-16T09:32:01-05:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-11-16-0621", 
+      "OutageName": "BRK-01-324", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.93110968285305, 
+        "X": -85.07075272590444
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.90759110428068, 
+          "X": -85.07913385756967
+        }, 
+        {
+          "Y": 34.931267168983545, 
+          "X": -85.07893625263578
+        }, 
+        {
+          "Y": 34.94640932299061, 
+          "X": -85.0718672747078
+        }, 
+        {
+          "Y": 34.95233263180051, 
+          "X": -85.06712136772725
+        }, 
+        {
+          "Y": 34.954250086043345, 
+          "X": -85.06218770027284
+        }, 
+        {
+          "Y": 34.94805778692649, 
+          "X": -85.05953080092502
+        }, 
+        {
+          "Y": 34.90358429416459, 
+          "X": -85.0718836334682
+        }, 
+        {
+          "Y": 34.90538506763459, 
+          "X": -85.07536091992895
+        }
+      ], 
+      "MapLocation": null
     }
   ], 
   "Trucks": [], 
   "Areas": [
+    {
+      "County": "Catoosa", 
+      "Count": 120
+    }, 
     {
       "County": "Chattooga", 
       "Count": 1
@@ -289,6 +364,10 @@
     {
       "County": "Walker", 
       "Count": 4
+    }, 
+    {
+      "County": "Whitfield", 
+      "Count": 2
     }
   ]
 }
