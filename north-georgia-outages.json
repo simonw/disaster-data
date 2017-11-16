@@ -292,7 +292,7 @@
       "OutageStatus": null, 
       "EstimatedTime": null, 
       "Notes": null, 
-      "CrewDispatched": false, 
+      "CrewDispatched": true, 
       "VerifiedCause": null, 
       "CostEstimate": null, 
       "CustomersRestored": 0, 
@@ -314,6 +314,10 @@
   "Trucks": [], 
   "Areas": [
     {
+      "County": null, 
+      "Count": 1
+    }, 
+    {
       "County": "Catoosa", 
       "Count": 2
     }, 
@@ -323,7 +327,7 @@
     }, 
     {
       "County": "Murray", 
-      "Count": 12
+      "Count": 11
     }, 
     {
       "County": "Whitfield", 
