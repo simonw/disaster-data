@@ -3,7 +3,84 @@
     "CallsLastHour": 0, 
     "CustomerCalls": 0
   }, 
-  "Outages": [], 
+  "Outages": [
+    {
+      "Verified": false, 
+      "TroubledElement": null, 
+      "CustomersServed": null, 
+      "Actions": null, 
+      "Status": null, 
+      "District": null, 
+      "SuspectedCause": null, 
+      "CustomersOutNow": 13, 
+      "CrewResponsible": null, 
+      "CustomerResponsible": null, 
+      "OutagedPhase": null, 
+      "CustomersAffected": null, 
+      "OutageStartTime": "2017-11-16T15:49:18-05:00", 
+      "Dispatcher": null, 
+      "Substation": null, 
+      "UplineElement": null, 
+      "OutageStatus": null, 
+      "EstimatedTime": null, 
+      "Notes": null, 
+      "CrewDispatched": false, 
+      "VerifiedCause": null, 
+      "CostEstimate": null, 
+      "CustomersRestored": 0, 
+      "PriorityCustomers": null, 
+      "CustomersOutInitially": null, 
+      "OutageRecID": "2017-11-16-0652", 
+      "OutageName": "F4413507", 
+      "OutageEndTime": null, 
+      "ClosingDispatcher": null, 
+      "OutageLocation": {
+        "Y": 34.692322986978766, 
+        "X": -85.14315834032845
+      }, 
+      "Feeder": null, 
+      "OutagePolygon": [
+        {
+          "Y": 34.69022796963494, 
+          "X": -85.14400922526062
+        }, 
+        {
+          "Y": 34.691476470379584, 
+          "X": -85.14396197934522
+        }, 
+        {
+          "Y": 34.69542208146481, 
+          "X": -85.14373423367088
+        }, 
+        {
+          "Y": 34.69573328992679, 
+          "X": -85.14242547024085
+        }, 
+        {
+          "Y": 34.69340310405332, 
+          "X": -85.14244766427122
+        }, 
+        {
+          "Y": 34.69053250968327, 
+          "X": -85.14249913391438
+        }, 
+        {
+          "Y": 34.68946548370864, 
+          "X": -85.1430306755961
+        }
+      ], 
+      "MapLocation": null
+    }
+  ], 
   "Trucks": [], 
-  "Areas": null
+  "Areas": [
+    {
+      "County": "Walker", 
+      "Count": 12
+    }, 
+    {
+      "County": "Whitfield", 
+      "Count": 1
+    }
+  ]
 }
