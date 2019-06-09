@@ -1,6 +1,6 @@
-# irma-scraped-data
+# disaster-data
 
-Data scraped by https://github.com/simonw/irma-scrapers
+Data scraped by https://github.com/simonw/irma-scrapers and https://github.com/simonw/disaster-scrapers
 
 The most interesting output of this repo is its commit history, which
 shows when the various scraping sources have been updated and what
