@@ -6,7 +6,7 @@ Background: [Scraping hurricane Irma](https://simonwillison.net/2017/Sep/10/scra
 
 The most interesting output of this repo is its commit history, which
 shows when the various scraping sources have been updated and what
-changed: https://github.com/simonw/disaster-data/commits/master/irma-2017-archive
+changed: https://github.com/simonw/disaster-data/commits/3fb7a3e4109f18b154cb025e6c734f3ce9a6990c
 
 Some of these changes were published to the Irma response Slack, in
 the #shelter_scraper_data channel. https://irma-response-slack.herokuapp.com/
