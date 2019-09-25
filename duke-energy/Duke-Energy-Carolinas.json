@@ -138,7 +138,7 @@
     "customersServed": 138227,
     "etrOverride": null,
     "customersAffectedOverride": null,
-    "lastUpdated": "2019-09-25T10:16:00.000+0000",
+    "lastUpdated": "2019-09-25T10:46:01.000+0000",
     "serviceAreaOverrideIsActive": false,
     "jurisdiction": "DEC",
     "serviceAreas": [],
@@ -803,7 +803,7 @@
     "customersServed": 23934,
     "etrOverride": null,
     "customersAffectedOverride": null,
-    "lastUpdated": "2019-09-25T10:16:00.000+0000",
+    "lastUpdated": "2019-09-25T10:46:01.000+0000",
     "serviceAreaOverrideIsActive": false,
     "jurisdiction": "DEC",
     "serviceAreas": [],
@@ -917,10 +917,20 @@
     "customersServed": 470482,
     "etrOverride": null,
     "customersAffectedOverride": null,
-    "lastUpdated": "2019-09-21T22:03:01.000+0000",
+    "lastUpdated": "2019-09-25T10:45:33.000+0000",
     "serviceAreaOverrideIsActive": false,
     "jurisdiction": "DEC",
     "serviceAreas": [
+      {
+        "serviceAreaId": 1,
+        "serviceAreaName": "Cornelius/Davidson",
+        "estimatedRestorationTimeText": "Being Reevaluated",
+        "customersAffected": null,
+        "activeIndicator": false,
+        "lastUpdated": "2019-09-06T18:41:25.007+0000",
+        "updatedBy": "Nickalas.Campbell@duke-energy.com",
+        "areaOfInterest": 481
+      },
       {
         "serviceAreaId": 3,
         "serviceAreaName": "Mallard Creek/Huntersville",
@@ -950,26 +960,16 @@
         "lastUpdated": "2019-09-06T18:41:25.020+0000",
         "updatedBy": "Nickalas.Campbell@duke-energy.com",
         "areaOfInterest": 481
-      },
-      {
-        "serviceAreaId": 1,
-        "serviceAreaName": "Cornelius/Davidson",
-        "estimatedRestorationTimeText": "Being Reevaluated",
-        "customersAffected": null,
-        "activeIndicator": false,
-        "lastUpdated": "2019-09-06T18:41:25.007+0000",
-        "updatedBy": "Nickalas.Campbell@duke-energy.com",
-        "areaOfInterest": 481
       }
     ],
     "state": "NC",
     "countyName": "Mecklenburg",
     "summary_areaOfInterestId": 481,
-    "summary_maxCustomersAffected": null,
-    "summary_activeEventsCount": null,
-    "summary_restoredEventsCount": null,
-    "summary_latestRestorationDate": null,
-    "summary_firstReportedDate": null
+    "summary_maxCustomersAffected": 1,
+    "summary_activeEventsCount": 1,
+    "summary_restoredEventsCount": 0,
+    "summary_latestRestorationDate": "2019-09-25T15:00:00.000+0000",
+    "summary_firstReportedDate": "2019-09-25T10:31:02.000+0000"
   },
   {
     "areaOfInterestId": 518,
@@ -1452,7 +1452,7 @@
     "customersServed": 30928,
     "etrOverride": null,
     "customersAffectedOverride": null,
-    "lastUpdated": "2019-09-25T10:30:57.000+0000",
+    "lastUpdated": "2019-09-25T10:45:33.000+0000",
     "serviceAreaOverrideIsActive": false,
     "jurisdiction": "DEC",
     "serviceAreas": [],
