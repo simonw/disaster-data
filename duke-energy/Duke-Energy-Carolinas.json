@@ -461,18 +461,18 @@
     "customersServed": 147761,
     "etrOverride": null,
     "customersAffectedOverride": null,
-    "lastUpdated": "2019-09-21T22:03:01.000+0000",
+    "lastUpdated": "2019-09-27T10:15:39.000+0000",
     "serviceAreaOverrideIsActive": false,
     "jurisdiction": "DEC",
     "serviceAreas": [],
     "state": "NC",
     "countyName": "Durham",
     "summary_areaOfInterestId": 417,
-    "summary_maxCustomersAffected": null,
-    "summary_activeEventsCount": null,
-    "summary_restoredEventsCount": null,
-    "summary_latestRestorationDate": null,
-    "summary_firstReportedDate": null
+    "summary_maxCustomersAffected": 1,
+    "summary_activeEventsCount": 1,
+    "summary_restoredEventsCount": 0,
+    "summary_latestRestorationDate": "2019-09-27T14:45:00.000+0000",
+    "summary_firstReportedDate": "2019-09-27T10:00:20.000+0000"
   },
   {
     "areaOfInterestId": 497,
@@ -922,26 +922,6 @@
     "jurisdiction": "DEC",
     "serviceAreas": [
       {
-        "serviceAreaId": 3,
-        "serviceAreaName": "Mallard Creek/Huntersville",
-        "estimatedRestorationTimeText": "Assessing Damage",
-        "customersAffected": null,
-        "activeIndicator": false,
-        "lastUpdated": "2019-09-06T18:41:24.975+0000",
-        "updatedBy": "Nickalas.Campbell@duke-energy.com",
-        "areaOfInterest": 481
-      },
-      {
-        "serviceAreaId": 6,
-        "serviceAreaName": "Mint Hill/Matthews",
-        "estimatedRestorationTimeText": "Inaccessible",
-        "customersAffected": null,
-        "activeIndicator": false,
-        "lastUpdated": "2019-09-06T18:41:25.020+0000",
-        "updatedBy": "Nickalas.Campbell@duke-energy.com",
-        "areaOfInterest": 481
-      },
-      {
         "serviceAreaId": 10,
         "serviceAreaName": "Pineville/Steele Creek",
         "estimatedRestorationTimeText": "3/6/19 at 9:00pm",
@@ -952,12 +932,32 @@
         "areaOfInterest": 481
       },
       {
+        "serviceAreaId": 3,
+        "serviceAreaName": "Mallard Creek/Huntersville",
+        "estimatedRestorationTimeText": "Assessing Damage",
+        "customersAffected": null,
+        "activeIndicator": false,
+        "lastUpdated": "2019-09-06T18:41:24.975+0000",
+        "updatedBy": "Nickalas.Campbell@duke-energy.com",
+        "areaOfInterest": 481
+      },
+      {
         "serviceAreaId": 1,
         "serviceAreaName": "Cornelius/Davidson",
         "estimatedRestorationTimeText": "Being Reevaluated",
         "customersAffected": null,
         "activeIndicator": false,
         "lastUpdated": "2019-09-06T18:41:25.007+0000",
+        "updatedBy": "Nickalas.Campbell@duke-energy.com",
+        "areaOfInterest": 481
+      },
+      {
+        "serviceAreaId": 6,
+        "serviceAreaName": "Mint Hill/Matthews",
+        "estimatedRestorationTimeText": "Inaccessible",
+        "customersAffected": null,
+        "activeIndicator": false,
+        "lastUpdated": "2019-09-06T18:41:25.020+0000",
         "updatedBy": "Nickalas.Campbell@duke-energy.com",
         "areaOfInterest": 481
       }
