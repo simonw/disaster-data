@@ -922,22 +922,22 @@
     "jurisdiction": "DEC",
     "serviceAreas": [
       {
+        "serviceAreaId": 3,
+        "serviceAreaName": "Mallard Creek/Huntersville",
+        "estimatedRestorationTimeText": "Assessing Damage",
+        "customersAffected": null,
+        "activeIndicator": false,
+        "lastUpdated": "2019-09-06T18:41:24.975+0000",
+        "updatedBy": "Nickalas.Campbell@duke-energy.com",
+        "areaOfInterest": 481
+      },
+      {
         "serviceAreaId": 10,
         "serviceAreaName": "Pineville/Steele Creek",
         "estimatedRestorationTimeText": "3/6/19 at 9:00pm",
         "customersAffected": null,
         "activeIndicator": false,
         "lastUpdated": "2019-09-06T18:41:24.991+0000",
-        "updatedBy": "Nickalas.Campbell@duke-energy.com",
-        "areaOfInterest": 481
-      },
-      {
-        "serviceAreaId": 1,
-        "serviceAreaName": "Cornelius/Davidson",
-        "estimatedRestorationTimeText": "Being Reevaluated",
-        "customersAffected": null,
-        "activeIndicator": false,
-        "lastUpdated": "2019-09-06T18:41:25.007+0000",
         "updatedBy": "Nickalas.Campbell@duke-energy.com",
         "areaOfInterest": 481
       },
@@ -952,12 +952,12 @@
         "areaOfInterest": 481
       },
       {
-        "serviceAreaId": 3,
-        "serviceAreaName": "Mallard Creek/Huntersville",
-        "estimatedRestorationTimeText": "Assessing Damage",
+        "serviceAreaId": 1,
+        "serviceAreaName": "Cornelius/Davidson",
+        "estimatedRestorationTimeText": "Being Reevaluated",
         "customersAffected": null,
         "activeIndicator": false,
-        "lastUpdated": "2019-09-06T18:41:24.975+0000",
+        "lastUpdated": "2019-09-06T18:41:25.007+0000",
         "updatedBy": "Nickalas.Campbell@duke-energy.com",
         "areaOfInterest": 481
       }
@@ -1763,6 +1763,25 @@
     "state": "SC",
     "countyName": "Dillon",
     "summary_areaOfInterestId": 469,
+    "summary_maxCustomersAffected": null,
+    "summary_activeEventsCount": null,
+    "summary_restoredEventsCount": null,
+    "summary_latestRestorationDate": null,
+    "summary_firstReportedDate": null
+  },
+  {
+    "areaOfInterestId": 844,
+    "areaOfInterestName": "SC - Edgefield",
+    "customersServed": 2,
+    "etrOverride": null,
+    "customersAffectedOverride": null,
+    "lastUpdated": "2019-10-01T17:51:36.000+0000",
+    "serviceAreaOverrideIsActive": false,
+    "jurisdiction": "DEC",
+    "serviceAreas": [],
+    "state": "SC",
+    "countyName": "Edgefield",
+    "summary_areaOfInterestId": 844,
     "summary_maxCustomersAffected": null,
     "summary_activeEventsCount": null,
     "summary_restoredEventsCount": null,
